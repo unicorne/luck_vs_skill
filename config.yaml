@@ -1,0 +1,38 @@
+General:
+  number_of_simulations: 100
+
+NBA:
+  probabilities_win_loss_tie: [0.5, 0.5, 0]
+  points_for_win_loss_tie: [2, 0, 0]
+  schedule_directory: "prepared_data/schedules/NBA"
+  prepared_data_path: "prepared_data/NBA_data.parquet"
+
+NFL:
+  probabilities_win_loss_tie: [0.4999, 0.4999, 0.0002]
+  points_for_win_loss_tie: [1, 0, 0.5]
+  schedule_directory: "prepared_data/schedules/NFL"
+  prepared_data_path: "prepared_data/NFL_data.parquet"
+
+NHL:
+  probabilities_win_loss_tie: [0.38, 0.38, 0.24]
+  points_for_win_loss_tie: [2, 0, 1]
+  schedule_directory: "prepared_data/schedules/NHL"
+  prepared_data_path: "prepared_data/NHL_data.parquet"
+
+MLS:
+  probabilities_win_loss_tie: [0.5, 0.5, 0]
+  points_for_win_loss_tie: [3, 0, 1]
+  schedule_directory: "prepared_data/schedules/MLS"
+  prepared_data_path: "prepared_data/MLS_data.parquet"
+
+MLB:
+  probabilities_win_loss_tie: [0.5, 0.5, 0.0]
+  points_for_win_loss_tie: [1, 0, 0]
+  schedule_directory: "prepared_data/schedules/MLB"
+  prepared_data_path: "prepared_data/MLB_data.parquet"
+
+PML:
+  probabilities_win_loss_tie: [0.5, 0.5, 0]
+  points_for_win_loss_tie: [3, 0, 1]
+  schedule_directory: "prepared_data/schedules/PML"
+  prepared_data_path: "prepared_data/PML_data.parquet"
