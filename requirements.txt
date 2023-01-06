@@ -1,2 +1,3 @@
 html_table_parser3
 lxml
+pyyaml
