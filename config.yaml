@@ -60,3 +60,15 @@ SerieA:
   points_for_win_loss_tie: [3, 0, 1]
   schedule_directory: "prepared_data/schedules/20_teams_football_league"
   prepared_data_path: "prepared_data/SerieA_data.parquet"
+
+Climbing: 
+  probabilities_win_loss_tie: [0.5, 0, 0]
+  points_for_win_loss_tie: [1, 0, 0]
+  schedule_directory: "prepared_data/schedules/climbing"
+  prepared_data_path: "prepared_data/climbing.parquet"
+
+Bouldering: 
+  probabilities_win_loss_tie: [0.5, 0, 0]
+  points_for_win_loss_tie: [1, 0, 0]
+  schedule_directory: "prepared_data/schedules/bouldering"
+  prepared_data_path: "prepared_data/bouldering.parquet"

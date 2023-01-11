@@ -95,6 +95,7 @@ def simulate_league_multiple_times(
     n=100,
     return_table=False,
     min_max_scaling=False,
+    type="teams",
 ):
     """
     Simulate a league multiple times with the given schedule and probabilities for win, loss and tie.
@@ -114,6 +115,8 @@ def simulate_league_multiple_times(
         If True, the function returns a table with the number of wins, losses and ties for each team. The default is False.
     min_max_scaling : bool, optional
         If True, the points are scaled to a range between 0 and 1. The default is False.
+    type : str
+        Type of simulation. Wether to simulate teams or compitions.
 
     Returns
     -------
@@ -128,8 +131,16 @@ def simulate_league_multiple_times(
             points_for_win_loss_tie,
             return_table=return_table,
             min_max_scaling=min_max_scaling,
+        ) if type == "teams"
+        else simulate_climbing_season(
+            df_schedule,
+            probabilities_win_loss_tie,
+            points_for_win_loss_tie,
+            return_table=return_table,
+            min_max_scaling=min_max_scaling,
         )
-        for i in range(n)
+        for i in range(n) 
+        
     ]
     return simulated_results
 
@@ -151,3 +162,66 @@ def calculate_variance_of_simulated_leagues(simulated_results):
 
     """
     return np.mean([np.var(sim) for sim in simulated_results])
+
+
+def simulate_climbing_season(df_schedule,
+    probabilities_win_loss_tie,
+    points_for_win_loss_tie,
+    return_table=False,
+    min_max_scaling=False,):
+    """
+    Simulate a league with the given schedule and probabilities for the rank of one athlete.
+    For convinience we use the same names as in the other functions. Wins stands here for the rank of a athlete. Losses and Ties are not used.
+    Parameters
+    ----------
+    df_schedule: pandas.DataFrame
+        The schedule of the league. Expects a DataFrame with columns "athlete_id" and "total_starter", "name" that represent the athlete and total starter for each competition.
+    probabilities_win_loss_tie : list
+        The probabilities for win, loss and tie.
+    points_for_win_loss_tie : list
+        The points for win, loss and tie.
+    return_table : bool, optional
+        If True, the function returns a table with the mean ranks, losses and ties for each athlete. The default is False.
+    min_max_scaling : bool, optional
+        If True, the points are scaled to a range between 0 and 1. The default is False.
+        
+    Returns
+    -------
+    pandas.DataFrame or numpy.ndarray
+        If return_table is True, the function returns a table with the mean rank as Wins, losses and ties for each athlete.
+        If return_table is False, the function returns an array with the points for each athlete.
+    """
+    
+    # simulate one competition    
+    athletes_points = {}
+
+    for competition in df_schedule['name'].unique():
+        ## for each athlete compute a random rank
+        athletes_in_competition = df_schedule[df_schedule['name'] == competition]['athlete_id'].unique()
+        total_starter = df_schedule[df_schedule['name'] == competition]['total_starter'].unique()[0]
+        ranks = np.random.choice(np.arange(1,total_starter), size=len(athletes_in_competition), replace=False)
+        for athlete, rank in zip(athletes_in_competition, ranks):
+            if athlete not in athletes_points:
+                athletes_points[athlete] = [rank]
+            else:
+                athletes_points[athlete].append(rank)
+
+
+    # compute mean rank for each athlete
+    data = []
+    for athlete in athletes_points:
+        data.append([athlete, np.mean(athletes_points[athlete])])
+        
+    df = pd.DataFrame(data, columns=['Teams', 'Wins'])
+    df['Losses'] = 0
+    df['Ties'] = 0
+    df['Points'] = 1/df['Wins']
+    if return_table:
+        return df
+    else:
+        if min_max_scaling:
+            scaler = MinMaxScaler()
+            df["Points"] = scaler.fit_transform(
+                df["Points"].values.reshape(-1, 1)
+            ).reshape(1, -1)[0]
+        return df["Points"].values

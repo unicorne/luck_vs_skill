@@ -123,6 +123,7 @@ def calculate_luck_variance_per_year(
     points_for_win_loss_tie,
     number_of_simulations,
     min_max_scaling=True,
+    type='teams',
 ):
 
     """
@@ -140,7 +141,8 @@ def calculate_luck_variance_per_year(
         The points a team gets for a win, a loss and a tie.
     number_of_simulations : int
         The number of simulations.
-
+    type : str
+        Type of simulation. Wether to simulate teams or compitions.
     Returns
     -------
     pandas.DataFrame
@@ -165,6 +167,7 @@ def calculate_luck_variance_per_year(
                 n=number_of_simulations,
                 return_table=False,
                 min_max_scaling=min_max_scaling,
+                type=type
             )
             tmp_variance = calculate_variance_of_simulated_leagues(tmp_simulated)
             df.loc[year, "Luck_variance"] = tmp_variance

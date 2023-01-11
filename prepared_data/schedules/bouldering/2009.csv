@@ -1,0 +1,514 @@
+athlete_id,total_starter,name
+ABRAMCHUK,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+ABRAMCHUK,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+ABRAMCHUK,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+ABRAMCHUK,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+ABRAMCHUK,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+ABRAMCHUK,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+ABRAMCHUK,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+GRAFTIAUX,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+GRAFTIAUX,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+GRAFTIAUX,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+GRAFTIAUX,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+GRAFTIAUX,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+GRAFTIAUX,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+GRAFTIAUX,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+GRAFTIAUX,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+BARRANS,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+BARRANS,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+BARRANS,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+BARRANS,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+BARRANS,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+BARRANS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+BARRANS,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+MORONI,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+MORONI,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+MORONI,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+MORONI,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+MORONI,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+MORONI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+MORONI,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+GROS,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+GROS,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+GROS,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+GROS,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+GROS,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+GROS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+GROS,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+BACHER,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+BACHER,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+BACHER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+BACHER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+BACHER,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+BACHER,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+BACHER,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+FISCHHUBER,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+FISCHHUBER,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+FISCHHUBER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+FISCHHUBER,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+FISCHHUBER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+FISCHHUBER,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+FISCHHUBER,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+FISCHHUBER,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+RAJFOVA,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+RAJFOVA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+RAJFOVA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+RAJFOVA,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+RAJFOVA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+RAJFOVA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+RAJFOVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+RAJFOVA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+LIND,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+LIND,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+LIND,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+LIND,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+LIND,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+LIND,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+LIND,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+LIND,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+BAUMANN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+BAUMANN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+BAUMANN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+BAUMANN,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+BAUMANN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+BAUMANN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+BAUMANN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+BAUMANN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+JONGENEELEN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+JONGENEELEN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+JONGENEELEN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+JONGENEELEN,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+JONGENEELEN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+JONGENEELEN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+JONGENEELEN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+JONGENEELEN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+VERHOEVEN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+VERHOEVEN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+VERHOEVEN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+VERHOEVEN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+VERHOEVEN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+VERHOEVEN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+VERHOEVEN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+CORE,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+CORE,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+CORE,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+CORE,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+CORE,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+CORE,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+CORE,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+SHALAGINA,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+SHALAGINA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+SHALAGINA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+SHALAGINA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+SHALAGINA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+SHALAGINA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+SHALAGINA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+ANSADE,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+ANSADE,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+ANSADE,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+ANSADE,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+ANSADE,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+ANSADE,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+ANSADE,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+ANSADE,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+SHALAGIN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+SHALAGIN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+SHALAGIN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+SHALAGIN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+SHALAGIN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+SHALAGIN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+SHALAGIN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+PARRY,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+PARRY,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+PARRY,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+PARRY,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+PARRY,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+PARRY,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+PARRY,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+PARRY,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+CROXALL,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+CROXALL,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+CROXALL,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+CROXALL,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+CROXALL,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+CROXALL,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+CROXALL,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+CROXALL,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+DANION,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+DANION,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+DANION,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+DANION,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+DANION,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+DANION,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+DANION,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+DANION,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+BADIA,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+BADIA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+BADIA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+BADIA,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+BADIA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+BADIA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+BADIA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+HODANN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+HODANN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+HODANN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+HODANN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+HODANN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+HODANN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+HODANN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+HARMAND,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+HARMAND,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+HARMAND,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+HARMAND,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+HARMAND,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+HARMAND,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+HARMAND,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+HUKKATAIVAL,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+HUKKATAIVAL,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+HUKKATAIVAL,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+HUKKATAIVAL,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+HUKKATAIVAL,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+HUKKATAIVAL,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+HUKKATAIVAL,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+HUKKATAIVAL,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+SEGUY,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+SEGUY,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+SEGUY,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+SEGUY,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+SEGUY,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+SEGUY,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+SEGUY,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+SEGUY,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+JULIEN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+JULIEN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+JULIEN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+JULIEN,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+JULIEN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+JULIEN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+JULIEN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+JULIEN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+ABRAMCHUK,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+ABRAMCHUK,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+ABRAMCHUK,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+ABRAMCHUK,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+ABRAMCHUK,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+ABRAMCHUK,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+GRAFTIAUX,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+GRAFTIAUX,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+GRAFTIAUX,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+GRAFTIAUX,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+GRAFTIAUX,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+GRAFTIAUX,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+GRAFTIAUX,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+MORONI,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+MORONI,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+MORONI,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+MORONI,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+MORONI,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+MORONI,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+MORONI,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+GROS,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+GROS,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+GROS,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+GROS,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+GROS,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+GROS,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+FISCHHUBER,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+FISCHHUBER,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+FISCHHUBER,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+FISCHHUBER,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+FISCHHUBER,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+FISCHHUBER,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+FISCHHUBER,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+RAJFOVA,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+RAJFOVA,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+RAJFOVA,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+RAJFOVA,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+RAJFOVA,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+RAJFOVA,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+RAJFOVA,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+LIND,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+LIND,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+LIND,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+LIND,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+LIND,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+LIND,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+LIND,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+BAUMANN,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+BAUMANN,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+BAUMANN,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+BAUMANN,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+BAUMANN,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+BAUMANN,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+BAUMANN,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+AVEZOU,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+AVEZOU,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+AVEZOU,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+AVEZOU,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+AVEZOU,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+AVEZOU,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+POUVREAU,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+POUVREAU,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+POUVREAU,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+POUVREAU,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+POUVREAU,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+POUVREAU,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+GLAIRON MONDET,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+GLAIRON MONDET,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+GLAIRON MONDET,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+GLAIRON MONDET,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+GLAIRON MONDET,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+GLAIRON MONDET,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+CHEVRIER,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+CHEVRIER,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+CHEVRIER,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+CHEVRIER,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+CHEVRIER,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+CHEVRIER,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+VIDMAR,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+VIDMAR,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+VIDMAR,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+VIDMAR,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+VIDMAR,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+VIDMAR,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+SAURWEIN,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+SAURWEIN,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+SAURWEIN,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+SAURWEIN,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+SAURWEIN,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+SAURWEIN,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+SAURWEIN,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+STÖHR,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+STÖHR,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+STÖHR,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+STÖHR,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+STÖHR,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+STÖHR,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+STÖHR,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+LAMA,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+LAMA,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+LAMA,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+LAMA,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+LAMA,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+LAMA,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+NOGUCHI,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+NOGUCHI,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+NOGUCHI,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+NOGUCHI,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+NOGUCHI,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+NOGUCHI,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+LAURENCE,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+LAURENCE,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+LAURENCE,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+LAURENCE,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+LAURENCE,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+LAURENCE,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+LAURENCE,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+MÜLLER,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+MÜLLER,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+MÜLLER,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+MÜLLER,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+MÜLLER,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+MÜLLER,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+MERRICK,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+MERRICK,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+MERRICK,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+MERRICK,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+MERRICK,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+MERRICK,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+PRETI,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+PRETI,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+PRETI,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+PRETI,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+PRETI,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+PRETI,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+PRETI,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+CAMINATI,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+CAMINATI,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+CAMINATI,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+CAMINATI,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+CAMINATI,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+CAMINATI,99,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008
+WÜRTH,135,IFSC Climbing Worldcup (B) - Hall (AUT) 2008
+WÜRTH,54,IFSC Climbing Worldcup (B) - Reunion (FRA) 2008
+WÜRTH,102,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2008
+WÜRTH,85,IFSC Climbing Worldcup (B) - Vail (USA) 2008
+WÜRTH,97,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2008
+WÜRTH,86,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  
+ABRAMCHUK,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+ABRAMCHUK,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+ABRAMCHUK,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+ABRAMCHUK,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+GRAFTIAUX,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+GRAFTIAUX,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+GRAFTIAUX,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+GRAFTIAUX,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+GRAFTIAUX,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+MORONI,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+MORONI,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+MORONI,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+MORONI,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+MORONI,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+GROS,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+GROS,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+GROS,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+GROS,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+GROS,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+BACHER,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+BACHER,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+BACHER,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+BACHER,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+FISCHHUBER,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+FISCHHUBER,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+FISCHHUBER,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+FISCHHUBER,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+FISCHHUBER,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+LIND,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+LIND,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+LIND,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+LIND,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+BAUMANN,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+BAUMANN,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+BAUMANN,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+BAUMANN,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+BAUMANN,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+VERHOEVEN,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+VERHOEVEN,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+VERHOEVEN,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+VERHOEVEN,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+ANSADE,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+ANSADE,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+ANSADE,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+ANSADE,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+ANSADE,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+SHALAGIN,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+SHALAGIN,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+SHALAGIN,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+SHALAGIN,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+JULIEN,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+JULIEN,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+JULIEN,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+JULIEN,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+JULIEN,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+POUVREAU,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+POUVREAU,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+POUVREAU,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+POUVREAU,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+GLAIRON MONDET,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+GLAIRON MONDET,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+GLAIRON MONDET,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+GLAIRON MONDET,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+GLAIRON MONDET,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+CHEVRIER,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+CHEVRIER,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+CHEVRIER,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+CHEVRIER,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+CHEVRIER,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+VIDMAR,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+VIDMAR,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+VIDMAR,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+VIDMAR,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+SAURWEIN,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+SAURWEIN,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+SAURWEIN,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+SAURWEIN,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+SAURWEIN,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+STÖHR,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+STÖHR,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+STÖHR,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+STÖHR,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+STÖHR,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+NOGUCHI,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+NOGUCHI,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+NOGUCHI,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+NOGUCHI,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+NOGUCHI,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+MERRICK,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+MERRICK,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+MERRICK,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+MERRICK,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+PRETI,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+PRETI,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+PRETI,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+PRETI,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+PRETI,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+WÜRTH,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+WÜRTH,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+WÜRTH,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+WÜRTH,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+WÜRTH,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+GELMANOV,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+GELMANOV,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+GELMANOV,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+GELMANOV,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+GELMANOV,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+SANDOZ,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+SANDOZ,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+SANDOZ,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+SANDOZ,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+LE NEVE,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+LE NEVE,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+LE NEVE,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+LE NEVE,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+LE NEVE,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+MARKOVIC,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+MARKOVIC,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+MARKOVIC,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+MARKOVIC,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+MARKOVIC,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+ENNEMOSER,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+ENNEMOSER,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+ENNEMOSER,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+ENNEMOSER,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+SON,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+SON,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+SON,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+SON,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+KIM,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+KIM,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+KIM,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+KIM,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+HORI,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+HORI,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+HORI,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+HORI,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+ZIJLSTRA,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+ZIJLSTRA,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+ZIJLSTRA,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+ZIJLSTRA,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+ZIJLSTRA,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+MERAL,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+MERAL,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+MERAL,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+MERAL,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+MERAL,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+BECAN,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+BECAN,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+BECAN,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+BECAN,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+BECAN,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+HAYEN,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+HAYEN,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+HAYEN,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+HAYEN,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+GAIDIOZ,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+GAIDIOZ,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+GAIDIOZ,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+GAIDIOZ,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+GAIDIOZ,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+WATSON,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+WATSON,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+WATSON,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+WATSON,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+HOPPE,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+HOPPE,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+HOPPE,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+HOPPE,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
+LEBRETON,75,IFSC Climbing Worldcup (B) - Kazo (JPN) 2009
+LEBRETON,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+LEBRETON,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+LEBRETON,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+JOHANNESEN,125,IFSC Climbing Worldcup (B) - Hall (AUT) 2009
+JOHANNESEN,132,IFSC Climbing Worldcup (B) - Wien (AUT) 2009
+JOHANNESEN,71,IFSC Climbing Worldcup (B) - Vail (USA) 2009
+JOHANNESEN,98,IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009
