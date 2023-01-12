@@ -198,7 +198,7 @@ def simulate_climbing_season(df_schedule,
     for competition in df_schedule['name'].unique():
         ## for each athlete compute a random rank
         athletes_in_competition = df_schedule[df_schedule['name'] == competition]['athlete_id'].unique()
-        total_starter = df_schedule[df_schedule['name'] == competition]['total_starter'].unique()[0]
+        total_starter = df_schedule[df_schedule['name'] == competition]['total_starter'].unique()[0] + 1 # +1 because we start at 1
         ranks = np.random.choice(np.arange(1,total_starter), size=len(athletes_in_competition), replace=False)
         for athlete, rank in zip(athletes_in_competition, ranks):
             if athlete not in athletes_points:
