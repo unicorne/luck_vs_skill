@@ -65,6 +65,7 @@ def preprocess_observed_data(file_path, points_for_win_loss_tie):
     )
     df["Variance_observed_scaled"] = df["Points_scaled"].apply(lambda x: np.var(x))
     df["Variance_observed"] = df["Points"].apply(lambda x: np.var(x))
+    df["#Teams"] = df["Teams"].apply(lambda x: len(x))
     return df
 
 
@@ -123,7 +124,7 @@ def calculate_luck_variance_per_year(
     points_for_win_loss_tie,
     number_of_simulations,
     min_max_scaling=True,
-    type='teams',
+    type="teams",
 ):
 
     """
@@ -167,7 +168,7 @@ def calculate_luck_variance_per_year(
                 n=number_of_simulations,
                 return_table=False,
                 min_max_scaling=min_max_scaling,
-                type=type
+                type=type,
             )
             tmp_variance = calculate_variance_of_simulated_leagues(tmp_simulated)
             df.loc[year, "Luck_variance"] = tmp_variance
