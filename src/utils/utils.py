@@ -5,8 +5,11 @@ import pandas as pd
 import yaml
 from sklearn.preprocessing import MinMaxScaler
 
-from src.simulation.simulation_utils import (calculate_variance_of_simulated_leagues,
-                              simulate_league, simulate_league_multiple_times)
+from src.simulation.simulation_utils import (
+    calculate_variance_of_simulated_leagues,
+    simulate_league,
+    simulate_league_multiple_times,
+)
 
 
 def load_yaml():
