@@ -116,7 +116,7 @@ def simulate_league_multiple_times(
     min_max_scaling : bool, optional
         If True, the points are scaled to a range between 0 and 1. The default is False.
     type : str
-        Type of simulation. Wether to simulate teams or compitions.
+        Type of simulation. Wether to simulate teams or bouldering or climbing competitions. The default is "teams".
 
     Returns
     -------
@@ -133,10 +133,11 @@ def simulate_league_multiple_times(
             min_max_scaling=min_max_scaling,
         )
         if type == "teams"
-        else simulate_climbing_season(
-            df_schedule,
-            probabilities_win_loss_tie,
-            points_for_win_loss_tie,
+        else simulate_competition(
+            type,
+            df_schedule=df_schedule,
+            probabilities_win_loss_tie=probabilities_win_loss_tie,
+            points_for_win_loss_tie=points_for_win_loss_tie,
             return_table=return_table,
             min_max_scaling=min_max_scaling,
         )
@@ -163,7 +164,108 @@ def calculate_variance_of_simulated_leagues(simulated_results):
     """
     return np.mean([np.var(sim) for sim in simulated_results])
 
+def simulate_competition(type,
+    **kwargs
+    ):
+    """ 
+    This functions decides which type of competition to simulate.
+    
+    Parameters
+    ----------
+    type : str
+        Type of simulation. Wether to simulate teams or bouldering or climbing competitions. The default is "teams".
 
+    Returns
+    -------
+    list of numpy.ndarray
+        List of n simulated results of a league. Each simulation is a np.array of the point distribution for the teams.
+    """
+    
+    if type == 'bouldering':
+        return simulate_boudlering_season(**kwargs)
+    elif type == 'climbing':
+        return simulate_climbing_season(**kwargs)
+        
+    
+def simulate_boudlering_season(
+    df_schedule,
+    probabilities_win_loss_tie,
+    points_for_win_loss_tie,
+    return_table=False,
+    min_max_scaling=False,):
+    """
+    Simulate a bouldering season with the given schedule and probabilities for win, loss and tie.
+    
+    Parameters
+    ----------
+    df_schedule : pandas.DataFrame
+        The schedule of the league. Expects a DataFrame with columns "athlete_id" and "total_starter", "name" that represent the athlete and total starter for each competition.
+    probabilities_win_loss_tie : list
+        The probabilities for win, loss and tie. Not used in this function.
+    points_for_win_loss_tie : list
+        The points for win, loss and tie. Not used in this function.
+    return_table : bool, optional
+        If True, the function returns a table with the number of wins, losses and ties for each team. The default is False.
+    min_max_scaling : bool, optional
+        If True, the points are scaled to a range between 0 and 1. The default is False.
+
+    Returns
+    -------
+    pandas.DataFrame or numpy.ndarray
+        If return_table is True, the function returns a table with the mean rank as Wins, losses and ties for each athlete.
+        If return_table is False, the function returns an array with the points for each athlete.
+    """
+    
+    athletes_points = {}
+    for competition in df_schedule["name"].unique():
+        ## for each athlete compute a random score
+        athletes_in_competition = df_schedule[df_schedule["name"] == competition][
+            "athlete_id"
+        ].unique()
+        # each athlete has to do 5 boulders. He can top out on 0-5 of them. Each boulder has also a zone, which is also ranked. And then for each top and zone the number of tries are counted.
+        tops = np.random.randint(0, 6, size=len(athletes_in_competition))
+        zones = np.random.randint(0, 6, size=len(athletes_in_competition))
+        tops_tries = [np.random.randint(top, 10) for top in tops]
+        # additional points for number of tries
+        tops_tries_points = [(1/top_tries)*10 if top_tries != 0 else 0 for top_tries in tops_tries]
+        zones_tries = [np.random.randint(zone, 10) for zone in zones]
+        # additional points for number of tries
+        zones_tries_points = [(1/zone_tries)*10 if zone_tries != 0 else 0 for zone_tries in zones_tries]
+        points = [(top, zone, top_tries, zone_tries, tops_tries_point, zones_tries_point, athlete) for top, zone, top_tries, zone_tries, tops_tries_point, zones_tries_point, athlete in zip(tops, zones, tops_tries, zones_tries, tops_tries_points, zones_tries_points, athletes_in_competition)]
+        # order by tops then by zones in descending, then by tries in ascending order
+        points = sorted(points, key=lambda x: (-x[0], -x[1], x[2], x[3]))
+        # compute the score
+        scores = [(top*10) + tops_tries_point + zone + zones_tries_point for top, zone, top_tries, zone_tries, tops_tries_point, zones_tries_point, athlete in points]
+        points = [ p + (s,) for p, s in zip(points, scores)]
+        
+        # add the points to the athletes_points dictionary
+        for top, zone, top_tries, zone_tries, tops_tries_point, zones_tries_point, athlete, point in points:
+            if athlete not in athletes_points:
+                athletes_points[athlete] = [point]
+            else:
+                athletes_points[athlete].append(point)
+    
+    # compute the mean score for each athlete
+    data = []
+    for athlete in athletes_points:
+        data.append([athlete, np.mean(athletes_points[athlete])])
+
+    df = pd.DataFrame(data, columns=["Teams", "Wins"])
+    df["Losses"] = 0
+    df["Ties"] = 0
+    df["Points"] = df["Wins"]
+    if return_table:
+        return df
+    else:
+        if min_max_scaling:
+            scaler = MinMaxScaler()
+            df["Points"] = scaler.fit_transform(
+                df["Points"].values.reshape(-1, 1)
+            ).reshape(1, -1)[0]
+        return df["Points"].values
+
+    
+    
 def simulate_climbing_season(
     df_schedule,
     probabilities_win_loss_tie,
@@ -212,10 +314,12 @@ def simulate_climbing_season(
             replace=False,
         )
         for athlete, rank in zip(athletes_in_competition, ranks):
+            points = (total_starter-rank)/total_starter
             if athlete not in athletes_points:
-                athletes_points[athlete] = [rank]
+                athletes_points[athlete] = [points]
+                
             else:
-                athletes_points[athlete].append(rank)
+                athletes_points[athlete].append(points)
 
     # compute mean rank for each athlete
     data = []
@@ -225,7 +329,7 @@ def simulate_climbing_season(
     df = pd.DataFrame(data, columns=["Teams", "Wins"])
     df["Losses"] = 0
     df["Ties"] = 0
-    df["Points"] = 1 / df["Wins"]
+    df["Points"] = df["Wins"]
     if return_table:
         return df
     else:
@@ -235,3 +339,4 @@ def simulate_climbing_season(
                 df["Points"].values.reshape(-1, 1)
             ).reshape(1, -1)[0]
         return df["Points"].values
+

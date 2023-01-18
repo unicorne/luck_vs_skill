@@ -1,751 +1,776 @@
 athlete_id,total_starter,name
-BIBIK,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BIBIK,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-ABRAMCHUK,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-ABRAMCHUK,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-ABRAMCHUK,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-ABRAMCHUK,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-ABRAMCHUK,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-ABRAMCHUK,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ABRAMCHUK,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-KOZLOV,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-MALAMID,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-SHEMULINKINA ,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-SHEMULINKINA ,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SHEMULINKINA ,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-SHARAFUTDINOV,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-SHARAFUTDINOV,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-SHARAFUTDINOV,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-SHARAFUTDINOV,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-SHARAFUTDINOV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SHARAFUTDINOV,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-CHERESHNEVA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-CHERESHNEVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-STEPANOV,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-GELMANOV,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-GELMANOV,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-GELMANOV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GELMANOV,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-CHERNIKOV,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-CHERNIKOV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CHERNIKOV,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-GRAFTIAUX,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-GRAFTIAUX,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-GRAFTIAUX,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-GRAFTIAUX,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-GRAFTIAUX,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-GRAFTIAUX,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-GRAFTIAUX,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GRAFTIAUX,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-FARCY,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-FARCY,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-FARCY,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-DU LAC,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-DU LAC,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-DU LAC,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-DU LAC,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-DU LAC,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-DU LAC,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MEYER,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-MEYER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-MEYER,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-MEYER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-LEVET,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-LEVET,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-POUVREAU,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-POUVREAU,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-POUVREAU,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-POUVREAU,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-POUVREAU,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-POUVREAU,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SAMYN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-GLAIRON MONDET,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-GLAIRON MONDET,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-GLAIRON MONDET,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-GLAIRON MONDET,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GLAIRON MONDET,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-CHEVRIER,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-CHEVRIER,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-CHEVRIER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-CHEVRIER,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-CHEVRIER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-CALEYRON,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-CALEYRON,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-CALEYRON,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-CALEYRON,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-SANDOZ,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-BARRANS,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-BARRANS,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-BARRANS,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BARRANS,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-BARRANS,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-BARRANS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BARRANS,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-JUBES ANGARITA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LOPEZ MATEOS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LAVARDA,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-LAVARDA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-LAVARDA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-LAVARDA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-LAVARDA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LAVARDA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-MORONI,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-MORONI,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-MORONI,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-MORONI,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-MORONI,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-MORONI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MORONI,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-CEHOVIN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-GROS,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-GROS,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-GROS,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-GROS,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-GROS,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-GROS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GROS,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-VIDMAR,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-WILHELM,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-WILHELM,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-WILHELM,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-WILHELM,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BACHER,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-BACHER,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-BACHER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BACHER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-BACHER,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-BACHER,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BACHER,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-FISCHHUBER,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-FISCHHUBER,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-FISCHHUBER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-FISCHHUBER,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-FISCHHUBER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-FISCHHUBER,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-FISCHHUBER,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-FISCHHUBER,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-EITER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-EITER,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SAURWEIN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-SAURWEIN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-SAURWEIN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SAURWEIN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-STÖHR,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-STÖHR,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-STÖHR,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-ENNEMOSER,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-ENNEMOSER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-ENNEMOSER,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-ENNEMOSER,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-LAMA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-LAMA,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-LAMA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-LAMA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HLAVACEK,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-MRÁZEK,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-MRÁZEK,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-MRÁZEK,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-MRÁZEK,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-MRÁZEK,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LIPENSKA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-LIPENSKA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-LIPENSKA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LIPENSKA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-RAJFOVA,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-RAJFOVA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-RAJFOVA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-RAJFOVA,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-RAJFOVA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-RAJFOVA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-RAJFOVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-RAJFOVA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-STRANIK,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-STRANIK,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-CHVALA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-DUPALOVA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-DUPALOVA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-KAZBEKOV,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-KAZBEKOV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PERLOVA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-PERLOVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-TUZHYLINA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-TUZHYLINA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-KARPIN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-KARPIN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MCCOLL,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-WOODS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SON,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KIM,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KIRÁLY,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MOGAKI,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-MOGAKI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-NOGUCHI,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-NOGUCHI,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-NOGUCHI,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-NOGUCHI,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-NOGUCHI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HORI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GARBOVA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-GARBOVA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-RADKOV,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-RADKOV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-FARRELL,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-FARRELL,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-HYLAND,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BONNET,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BONNET,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-BONNET,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LIND,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-LIND,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-LIND,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-LIND,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-LIND,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-LIND,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-LIND,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LIND,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BATIR,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-OCHENATU,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-OCHENATU,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BUCNERU,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-MIU,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-UNGUREANU,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-CHRASTINA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GREKSAK,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GREKSAK,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BAUMANN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-BAUMANN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-BAUMANN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BAUMANN,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-BAUMANN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-BAUMANN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-BAUMANN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BAUMANN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-WURM,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-WURM,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-WURM,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ROPEK,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-ROPEK,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-KAROLAK,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-KAROLAK,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-KAROLAK,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-KAROLAK,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ZHAO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LISICA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KIVELA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MIDTBOE,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LACHAT,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-LACHAT,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-LACHAT,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CARDOSO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BEREZOSKI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GROSSO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ESCOBAR,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DE LAS SALAS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-RODRIGUEZ,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DA SILVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BLANCO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ULZHABAYEVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DEVYATERIKOV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HEMUND,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-HEMUND,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-HEMUND,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-HEMUND,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-HEMUND,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-JONGENEELEN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-JONGENEELEN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-JONGENEELEN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-JONGENEELEN,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-JONGENEELEN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-JONGENEELEN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-JONGENEELEN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-JONGENEELEN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-VERHOEVEN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-VERHOEVEN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-VERHOEVEN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-VERHOEVEN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-VERHOEVEN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-VERHOEVEN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-VERHOEVEN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-ZIJLSTRA,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-ZIJLSTRA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-ZIJLSTRA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ZIJLSTRA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-YILMAZ,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PALUT,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-AKTUYUN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-DZHAMBAZOVA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-DZHAMBAZOVA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-CORE,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-CORE,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-CORE,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-CORE,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-CORE,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-CORE,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-CORE,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-RAKHMETOV,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-RAKHMETOV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ANDRADA JIMENEZ,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DUTRAY,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-LAURENCE,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-LAURENCE,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-PHILIPPE,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-PHILIPPE,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-EYER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-EYER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-EYER,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CRUZ MONTALBAN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-OLEKSY,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-OLEKSY,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-OLEKSY,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-OLEKSY,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-OLEKSY,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-TEN SIJTHOFF,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-TEN SIJTHOFF,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-TEN SIJTHOFF,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-TEN SIJTHOFF,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-SCHULTE,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-SCHULTE,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-SCHULTE,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-SCHULTE,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BOROWKA,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-BOROWKA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BOROWKA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-BOROWKA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-OKANO,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-OKANO,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-OKANO,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-OKANO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GHIDINI,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-GHIDINI,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-GHIDINI,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-GHIDINI,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-GHIDINI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LIU,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-VERDIER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-VERDIER,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-BECAN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BECAN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-MÜLLER,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-MÜLLER,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MÜLLER,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-ALEKSEEVA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-ALEKSEEVA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-ALEKSEEVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MORANDI,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-MORANDI,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-GÁL,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SHALAGINA,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-SHALAGINA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-SHALAGINA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-SHALAGINA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-SHALAGINA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-SHALAGINA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SHALAGINA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-ANSADE,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-ANSADE,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-ANSADE,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-ANSADE,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-ANSADE,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-ANSADE,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-ANSADE,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ANSADE,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BALAKIREVA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-BALAKIREVA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BALAKIREVA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-BALAKIREVA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BERRY,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-BERRY,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-BERRY,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BERRY,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-BERRY,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-GALLYAMOVA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-MERRICK,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BATTAGLIA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BATTAGLIA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-BATTAGLIA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-GAIDIOZ,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-GAIDIOZ,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-WATSON,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-WATSON,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-WATSON,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-SOMMER,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-SOMMER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-SOMMER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-SOMMER,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-SHALAGIN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-SHALAGIN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-SHALAGIN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-SHALAGIN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-SHALAGIN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-SHALAGIN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SHALAGIN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-HOPPE,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-HOPPE,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-HOPPE,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PRETI,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-PRETI,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-PRETI,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-PRETI,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-PRETI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PRETI,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-CAMINATI,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-CAMINATI,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-CAMINATI,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-CAMINATI,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-MATSUSHIMA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-MATSUSHIMA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-MATSUSHIMA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-MATSUSHIMA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-MATSUSHIMA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MATSUSHIMA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-NOMINE,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-NOMINE,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-JAGGI,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-JAGGI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KLESHNOV,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-KLESHNOV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MACIAS MATUTANO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MOOSBURGER,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-MOOSBURGER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-MOOSBURGER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-GERLAND,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-GERLAND,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-CHTENAS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SVUB,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-EDWARDS,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-EDWARDS,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-EDWARDS,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-KOVACIK,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-KONSTANTAKOPOULOS,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-KONSTANTAKOPOULOS,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-FEEHALLY,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-LAZAROV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LAGUTIN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-SZEKELY,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CURTIS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CAMARGO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KAUROV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-FOYGEL,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-PARRY,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-PARRY,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-PARRY,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-PARRY,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-PARRY,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-PARRY,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-PARRY,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PARRY,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-CROXALL,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-CROXALL,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-CROXALL,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-CROXALL,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-CROXALL,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-CROXALL,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-CROXALL,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CROXALL,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-SHIN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MODRZEJEWSKA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-MODRZEJEWSKA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-MODRZEJEWSKA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-MODRZEJEWSKA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-WATANABE,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-WATANABE,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-WATANABE,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-WATANABE,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-WATANABE,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KONISHI,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-GEL'FER,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-MILLS,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-MILLS,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-MILLS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SATANEK,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-STRÖMBERG,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-WÜRTH,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-WÜRTH,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-WÜRTH,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-WÜRTH,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-WÜRTH,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-WÜRTH,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-LAI,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-LAI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DZYUBYAK,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ABGRALL,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-ABGRALL,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-NYTORP,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-RANT,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-RANT,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-RANT,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-RANT,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-RANT,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-RANT,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-HUANG,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BAXTER,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SEYMOUR,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-EARL,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-SUGDEN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-PRIBIL,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PRIBIL,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-MACKENZIE,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-MACKENZIE,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-GRAHAM,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-MARCHISIO,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-MARCHISIO,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-MARCHISIO,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-MARCHISIO,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-MARCHISIO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-OGAWA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CHU,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PEKAREV,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-PEKAREV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PEKAREV,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-DANION,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-DANION,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-DANION,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-DANION,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-DANION,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-DANION,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-DANION,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DANION,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-COMBAZ,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-COMBAZ,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-COMBAZ,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-COMBAZ,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-COMBAZ,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-LONGO,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-LONGO,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-LONGO,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-LONGO,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-LONGO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-WAGNER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-WAGNER,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-WAGNER,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BADIA,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-BADIA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-BADIA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BADIA,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-BADIA,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-BADIA,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-BADIA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GANDOLFO,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-GANDOLFO,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-GANDOLFO,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-NASTROG,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-KLANCNIK,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-KLANCNIK,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-KLANCNIK,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-KLANCNIK,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-KLANCNIK,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-KLANCNIK,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-RISTOVSKI,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-OCH,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SENNELÖV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-JALMAIN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-JALMAIN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-MERZ,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-MERZ,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-MERZ,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-MERZ,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-MERZ,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-WINKLER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-WINKLER,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-THOMAS,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-KUDROVA,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-KUDROVA,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-KUDROVA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-HODANN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-HODANN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-HODANN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-HODANN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-HODANN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-HODANN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HODANN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BEZHKO,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BEZHKO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BEZHKO,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-PORTSEV,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-PORTSEV,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-MANEVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LALOV,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-LALOV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CAPREZ,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-CAPREZ,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SCHMID,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-MATTHEWS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BREITENLECHNER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-DUROCHE,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-DUROCHE,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-MAYR,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-MAYR,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-LOW,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SILVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ABREU,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SALADA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BOAVIDA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KON,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CORREIA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HARMAND,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-HARMAND,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-HARMAND,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-HARMAND,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-HARMAND,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-HARMAND,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-HARMAND,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HUKKATAIVAL,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-HUKKATAIVAL,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-HUKKATAIVAL,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-HUKKATAIVAL,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-HUKKATAIVAL,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-HUKKATAIVAL,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-HUKKATAIVAL,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HUKKATAIVAL,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-KOZEL,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BAKULIC,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SEGUY,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-SEGUY,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-SEGUY,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-SEGUY,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-SEGUY,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-SEGUY,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-SEGUY,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SEGUY,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BUYS,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-PASQUILL,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-NEDYALKOVA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-NEDYALKOVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GEORGIEV,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-GEORGIEV,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-PETKOV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-VAN DER WERF,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CIRET,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-CIRET,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-ZULIM,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-RAMSAMY,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-RAMSAMY,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-RAMSAMY,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-RAMSAMY,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-RAMSAMY,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-RAMSAMY,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-OBLEITNER,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-OBLEITNER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-OBLEITNER,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-ZOKIC,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CERMAKOVA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-KAMVAS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BOWLES,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BOWLES,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BARIANI,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-BARIANI,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BARIANI,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-BARIANI,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-GORE,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-GORE,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-GORE,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-SUGITA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-KARADAĞ,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-OZVER,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-OZVER,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-ERCAN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KAZENNOV,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-KOLOKAS,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-SCHADE,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-SOSNOVSKYKH,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-SOSNOVSKYKH,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DUVAL,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-DUVAL,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-KODZIK,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-KODZIK,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-SCHULDT,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-MIEGEVILLE,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-MIEGEVILLE,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-MANDRU,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-MANDRU,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-GORDEEVA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-KHUDYAKOVA,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-KHUDYAKOVA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-BOGACIU,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-BOGACIU,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-PAVEL,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-PAVEL,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-NUTU,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-KAMAROPOULOS,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-PETROVSKI,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-ZAMPAR,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-ZAMPAR,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-BRADÁC,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-BRADÁC,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-BRADÁC,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-BRADÁC,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-STADLOBER,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-HOARAU,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-TREUILHE,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-CICCIONE,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-SMIGELSKIS,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-ISKAKOVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-RUH,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-PEROV,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-JOHANNESEN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-JOHANNESEN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-JOHANNESEN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-OGDEN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-OGDEN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-MEEKS,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-SUZUKI,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-SUZUKI,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-CLAASSEN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LOPEZ,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LEÓN JUAREZ,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HUERTA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HUERTA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-URBINA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-EHLERT,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-FREYRIA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PETRESCU,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-FICKULIAKOVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-FICKULIAKOVA,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-KARAKULAK V.D.B.KAAG,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-MATUSZEK,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-KARABAS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KARABAS,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-RESCH,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-WOJCIECHOWSKI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-WOJCIECHOWSKI,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-SAUL,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
-AICART ORTIZ,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-TARRAZONA GASQUE,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LAM,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MARSELLA PRADO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CARDWELL,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ARCE,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ULLOA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KUCSERA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MENDEZ,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CICCONI,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-JUÁREZ,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BRAGDON,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ÖZLEM,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DELGADO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CHLEBOVA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HOPKINS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BELCHIOR,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GUILLÉN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PEREYRA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-TROTTER,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ZAMBRANO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-VARA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PRIESTLEY,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DUSIC,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ZAMPAS,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SEVINDIK,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ESCORIHUELA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MORGADO,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BILDIRCIN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BOSTROM,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MORA,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MATIC,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-JULIEN,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
-JULIEN,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
-JULIEN,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
-JULIEN,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
-JULIEN,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
-JULIEN,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
-JULIEN,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-JULIEN,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+41,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+41,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+43,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+43,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+43,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+43,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+43,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+43,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+43,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+47,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+49,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+50,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+50,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+50,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+53,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+53,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+53,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+53,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+53,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+53,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+58,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+58,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+59,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+60,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+60,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+60,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+60,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+61,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+61,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+61,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+309,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+309,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+309,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+309,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+309,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+309,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+309,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+309,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+311,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+311,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+311,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+402,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+402,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+402,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+402,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+402,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+402,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+412,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+412,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+412,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+412,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+430,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+430,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+432,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+432,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+432,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+432,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+432,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+432,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+435,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+436,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+436,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+436,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+436,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+436,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+439,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+439,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+439,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+439,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+439,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+441,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+441,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+441,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+441,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+443,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+634,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+634,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+634,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+634,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+634,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+634,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+634,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+774,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+775,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+848,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+848,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+848,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+848,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+848,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+848,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+849,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+849,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+849,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+849,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+849,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+849,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+849,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1116,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+1119,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+1119,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+1119,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1119,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+1119,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1119,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1119,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1120,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1198,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1198,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+1198,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1198,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1202,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+1202,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+1202,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1202,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+1202,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1202,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1202,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1204,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+1204,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+1204,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1204,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+1204,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+1204,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1204,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1204,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1205,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+1205,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+1207,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1207,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1209,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1209,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+1209,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1209,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1211,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1211,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1211,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1212,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+1212,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1212,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1212,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1213,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1213,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+1213,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1213,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1353,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1356,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+1356,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+1356,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1356,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1356,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1358,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+1358,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1358,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1358,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1360,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+1360,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+1360,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1360,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+1360,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+1360,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1360,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1360,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1361,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1361,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1362,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1363,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1363,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1467,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1467,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1469,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+1469,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1474,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1474,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+1479,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+1479,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1559,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+1707,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2032,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2034,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2035,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2172,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2249,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+2249,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2253,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+2253,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+2253,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+2253,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+2253,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2255,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2420,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+2420,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+2421,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+2421,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2480,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2480,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+2481,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2484,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+2484,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+2484,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2664,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+2664,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+2664,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+2664,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+2664,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+2664,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+2664,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2664,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+2721,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+2722,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+2722,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+2723,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+2724,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+2726,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+2752,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2759,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2759,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+2822,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+2822,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+2822,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+2822,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+2822,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+2822,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+2822,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2822,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+2823,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+2823,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+2823,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2834,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+2834,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+2836,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+2836,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+2836,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+2836,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+2925,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3032,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3033,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3058,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3059,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3129,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+3129,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+3129,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3133,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3135,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3136,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3174,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3175,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3176,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3177,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3178,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3357,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3358,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3429,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+3429,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+3429,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+3429,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+3429,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+3576,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+3576,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+3576,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+3576,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+3576,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+3576,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+3576,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3576,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+3577,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+3577,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+3577,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+3577,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+3577,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+3577,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3577,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+3578,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+3578,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+3578,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+3578,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4060,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4061,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4062,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4454,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4454,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4463,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4463,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4463,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4463,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+4463,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4463,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4463,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4465,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4465,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4467,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4468,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4471,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4471,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4514,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4514,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4535,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4535,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4535,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4553,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4581,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4581,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4581,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4581,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4581,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4585,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4585,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4585,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4585,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4609,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4609,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4609,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4609,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4644,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4644,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4644,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4644,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4654,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4654,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4654,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4654,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4666,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4666,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4666,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4666,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4666,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4689,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4699,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4699,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4716,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4716,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4726,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4726,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4726,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4735,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4735,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4735,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4738,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4738,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4751,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4756,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4756,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4756,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4756,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4756,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4756,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4756,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4757,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4757,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4757,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4757,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+4757,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4757,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4757,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4757,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4758,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4758,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4758,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4758,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4759,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4759,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4759,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4759,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4759,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4761,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4763,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4770,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4770,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4770,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4773,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4773,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+4774,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4774,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4774,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4775,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4775,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4775,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4775,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4776,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4776,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4776,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4776,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4776,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4776,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4776,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4777,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4777,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4777,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4778,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4778,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4778,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4778,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+4778,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4778,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4780,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4780,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4780,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4780,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+4783,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4783,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4783,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4783,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4783,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4783,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4784,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4784,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+4787,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4787,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4788,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4788,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4789,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4792,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4792,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4792,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4799,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4799,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4800,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4801,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4806,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4806,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4806,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4808,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4810,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4812,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4812,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4818,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4819,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4823,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4841,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4851,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4852,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4864,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4886,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4905,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4905,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4905,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4905,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+4905,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4905,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4905,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4905,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4907,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4907,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4907,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4907,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+4907,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4907,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4907,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4907,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4915,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4923,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4923,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4923,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4923,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4937,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4937,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4937,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4937,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4937,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4942,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4961,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4962,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+4962,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4962,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4965,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+4967,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4976,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+4976,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+4976,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+4976,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+4976,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+4976,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5010,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5010,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5012,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5014,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5040,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5040,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5044,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5079,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5099,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5099,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5099,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5099,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5099,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5099,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5111,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5127,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5132,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5140,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5142,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5145,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5145,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5146,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5146,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5148,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5197,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5197,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5197,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5197,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5197,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5199,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5225,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5265,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5265,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5265,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5265,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5265,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5278,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5278,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5278,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5280,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5280,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5280,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5280,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5280,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5280,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5280,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5280,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5281,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5281,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5281,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5281,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5281,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5283,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5283,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5283,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5283,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5283,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5291,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5291,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5291,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5292,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5292,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5292,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5292,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5292,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5292,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5292,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5317,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5317,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5317,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5326,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5334,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5334,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5334,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5334,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5334,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5334,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5337,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5356,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5369,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5381,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5381,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5384,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5384,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5384,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5384,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5384,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5388,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5393,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5393,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5394,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5403,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5403,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5403,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5426,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5426,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5426,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5426,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5426,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5426,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5426,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5493,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5493,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5493,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5497,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5497,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5509,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5510,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5510,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5514,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5514,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5517,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5521,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5526,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5533,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5533,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5535,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5535,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5560,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5572,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5573,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5579,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5584,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5593,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5594,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5608,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5608,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5608,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5608,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5608,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5608,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5608,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5611,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5611,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5611,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5611,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5611,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5611,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5611,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5611,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5614,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5625,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5630,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5630,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5630,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5630,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5630,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5630,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5630,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5630,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5632,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5633,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5637,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5637,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5638,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5638,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5641,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5644,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5644,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5648,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5654,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5654,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5655,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5657,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5657,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5657,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5657,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5657,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5657,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5658,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5658,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5658,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5662,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5663,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5665,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5668,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5668,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5669,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5669,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5669,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5669,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5673,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5673,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5673,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5677,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5677,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5677,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5678,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5678,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5683,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5723,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5725,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5725,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5728,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5739,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5747,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5750,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5751,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5751,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5752,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5752,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5753,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5753,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5754,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5755,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+5755,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5766,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5766,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5767,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5768,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5768,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5769,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5769,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5770,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5770,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5771,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5772,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5773,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+5774,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5774,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5775,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5775,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5775,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5775,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5776,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+5777,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5778,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5779,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5780,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+5782,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5784,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5786,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5788,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5788,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5788,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5789,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5789,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5790,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5791,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5791,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5792,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5793,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+5793,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+5798,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5818,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5819,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5820,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5820,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5822,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5824,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5826,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5838,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5842,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5842,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5843,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5844,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5845,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5845,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5846,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5847,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5847,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5848,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007
+5854,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5858,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5887,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5900,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+5957,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+6013,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+6101,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7290,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7361,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7362,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7365,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7374,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7375,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7376,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7377,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7378,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7379,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7380,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7381,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7383,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7384,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7385,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7387,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7388,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7389,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7390,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7391,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7392,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7394,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7395,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7396,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7397,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7398,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+7399,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+9191,82,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007
+9191,91,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007
+9191,90,IFSC Climbing Worldcup (B) - Hall (AUT) 2007
+9191,35,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007
+9191,100,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007
+9191,80,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007
+9191,208,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
+9191,89,IFSC Climbing Worldcup (B) - Brno (CZE) 2007

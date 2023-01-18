@@ -1,1215 +1,565 @@
 athlete_id,total_starter,name
-BIBIK,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-BIBIK,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-SINITCYN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SINITCYN,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-MALAMID,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-MALAMID,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-MALAMID,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-MALAMID,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-MALAMID,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SHARAFUTDINOV,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SHARAFUTDINOV,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-CHERESHNEVA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-CHERESHNEVA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-CHERESHNEVA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-CHERESHNEVA,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-CHERESHNEVA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CHERESHNEVA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-CHERESHNEVA,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-CHERESHNEVA,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-GELMANOV,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-CHERNIKOV,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-CHERNIKOV,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-CHERNIKOV,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-TERENTEVA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SARKANY,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-SARKANY,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-SARKANY,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SARKANY,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-SARKANY,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SARKANY,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-SARKANY,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-SARKANY,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-SARKANY,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-GRAFTIAUX,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GRAFTIAUX,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-FUSELIER,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-FUSELIER,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-FUSELIER,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-FUSELIER,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-FUSELIER,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-FUSELIER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-MILLET,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-MILLET,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-MILLET,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-MILLET,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-MILLET,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-MILLET,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-MILLET,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-MILLET,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-LEVET,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-LEVET,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-LEVET,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-LEVET,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-LEVET,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DESGRANGES,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-DESGRANGES,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-DESGRANGES,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-DESGRANGES,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-DESGRANGES,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-DESGRANGES,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-CIAVALDINI,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-CIAVALDINI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-CIAVALDINI,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-CIAVALDINI,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CIAVALDINI,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-CIAVALDINI,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-CIAVALDINI,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-CIAVALDINI,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-CHEVRIER,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-PAGNOUX,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-PAGNOUX,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-SANDOZ,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-SANDOZ,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SANDOZ,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-SUPPER,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SUPPER,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-DURIF,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-DURIF,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-DURIF,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-DURIF,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-DURIF,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DURIF,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-DURIF,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-DURIF,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-DURIF,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-THÉVENET,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-ROMAIN,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-ROMAIN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-ROMAIN,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-ROMAIN,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-ROMAIN,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-BOSIO,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-DULL-KRETSCHMER,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-USOBIAGA LAKUNZA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-USOBIAGA LAKUNZA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-USOBIAGA LAKUNZA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-USOBIAGA LAKUNZA,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-USOBIAGA LAKUNZA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-USOBIAGA LAKUNZA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-USOBIAGA LAKUNZA,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-USOBIAGA LAKUNZA,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-JULIAN  PUIGBLANQUE,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-JULIAN  PUIGBLANQUE,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-JULIAN  PUIGBLANQUE,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-JULIAN  PUIGBLANQUE,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-JULIAN  PUIGBLANQUE,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-JULIAN  PUIGBLANQUE,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-JULIAN  PUIGBLANQUE,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-JULIAN  PUIGBLANQUE,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-JUBES ANGARITA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-JUBES ANGARITA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-JUBES ANGARITA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-JUBES ANGARITA,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-LOPEZ MATEOS,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-LOPEZ MATEOS,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-LOPEZ MATEOS,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-LOPEZ MATEOS,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-CARTAS BARRERA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-CARTAS BARRERA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CRESPI,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-CRESPI,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-CRESPI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-CRESPI,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-CRESPI,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-CRESPI,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-CRESPI,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-CRESPI,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-ZARDINI,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-ZARDINI,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-ZARDINI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-ZARDINI,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-ZARDINI,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-ZARDINI,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-LAVARDA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-LAVARDA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-LAVARDA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-LAVARDA,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-LAVARDA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LAVARDA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-LAVARDA,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-VALSECCHI,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-VALSECCHI,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-VALSECCHI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-STREMFELJ,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-GROS,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-GROS,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-GROS,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-GROS,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-GROS,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-GROS,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-GROS,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-GROS,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-GROS,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-VIDMAR,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-MARKOVIC,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-MARKOVIC,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-MARKOVIC,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-MARKOVIC,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-MARKOVIC,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MARKOVIC,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-MARKOVIC,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-MARKOVIC,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-MARKOVIC,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-KRUDER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-PFANNER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-REIS,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-REIS,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-REIS,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-REIS,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-REIS,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-BACHER,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-BACHER,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-BACHER,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-BACHER,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-BACHER,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BACHER,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-BACHER,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-BACHER,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-BACHER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-SCHÖPF,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-SCHÖPF,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-SCHÖPF,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SCHÖPF,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-SCHÖPF,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-SCHÖPF,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-FISCHHUBER,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-FISCHHUBER,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-FISCHHUBER,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-FISCHHUBER,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-FISCHHUBER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-EITER,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-EITER,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-EITER,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-EITER,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-EITER,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-EITER,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-EITER,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-EITER,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-EITER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-AMANN,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-AMANN,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-AMANN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-AMANN,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-SAURWEIN,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-SAURWEIN,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-SAURWEIN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SAURWEIN,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-SAURWEIN,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SAURWEIN,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-SAURWEIN,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-SAURWEIN,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-SAURWEIN,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-SCHRANZ,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-SCHRANZ,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-SCHRANZ,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SCHRANZ,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-SCHRANZ,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-LAMA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-LAMA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-LAMA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-LAMA,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-LAMA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-LAMA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-LAMA,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-SCHUBERT,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-HLAVACEK,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-MRÁZEK,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-MRÁZEK,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-MRÁZEK,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-MRÁZEK,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-MRÁZEK,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-MRÁZEK,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-MRÁZEK,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-STRANIK,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-ZILINSKIY,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-KRYUKOV,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-KRYUKOV,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-KRYUKOV,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-SON,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SON,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-KIM,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-KIM,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-KIM,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-CHANG,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-CHANG,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-LEE,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-LEE,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-KIRÁLY,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HIRAYAMA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-HIRAYAMA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-HIRAYAMA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-MOGAKI,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-KOBAYASHI,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-KOBAYASHI,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-KOBAYASHI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-KOBAYASHI,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-KOBAYASHI,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KOBAYASHI,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-KOBAYASHI,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-KOBAYASHI,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-NOGUCHI,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-NOGUCHI,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-NOGUCHI,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-NOGUCHI,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-AMMA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-AMMA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-AMMA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-AMMA,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-AMMA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-HORI,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-WATANABE,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-BONNET,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-BONNET,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-BUCNERU,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-WURM,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-WURM,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-WURM,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-WURM,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-WURM,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-CAI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-CAI,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-WANG,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-WANG,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-PAN,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-LISICA,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-MIDTBOE,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-MIDTBOE,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-MIDTBOE,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-MIDTBOE,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-MIDTBOE,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-MIDTBOE,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-LAU,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-TAUPORN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-TAUPORN,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-TAUPORN,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-LACHAT,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-LACHAT,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-LACHAT,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-LACHAT,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-LACHAT,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-LACHAT,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-CARDOSO,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-CARDOSO,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CARDOSO,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-GOUVEIA,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-BEREZOSKI,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-BEREZOSKI,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-GROSSO,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-RODRIGUEZ,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DA SILVA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BLANCO,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-PIOLA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-DANKER,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-DANKER,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-DANKER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-ULZHABAYEVA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-JAFARI MAHMOUDABADI,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-BARATZADEH,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-FARSHAD YEGANEH,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-VERHOEVEN,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-VERHOEVEN,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-VERHOEVEN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-VERHOEVEN,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-VERHOEVEN,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-VERHOEVEN,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-VERHOEVEN,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-VERHOEVEN,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-ZIJLSTRA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-ZIJLSTRA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-ZIJLSTRA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-ZIJLSTRA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ZIJLSTRA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-ZIJLSTRA,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-DE LEEUW,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-DE LEEUW,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-TAYLOR,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-TAYLOR,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-TAYLOR,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-EYER,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-EYER,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-EYER,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-EYER,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-EYER,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-EYER,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-EYER,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-EYER,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-EYER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-KRYVONIS,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-RAFFETSEDER,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-RAFFETSEDER,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-RAFFETSEDER,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-RAFFETSEDER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-KIMURA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-STENDAL,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-STENDAL,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-STENDAL,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-CAUDE,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-CAUDE,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SOVA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-SOVA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-SOVA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SOVA,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-TEN SIJTHOFF,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-TEN SIJTHOFF,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-TEN SIJTHOFF,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-TEN SIJTHOFF,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-TEN SIJTHOFF,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-BINDHAMMER,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-BINDHAMMER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-DE GIROLAMO,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-LIU,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LIU,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-DUGIT,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-DUGIT,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-DUGIT,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-DUGIT,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-DUGIT,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-DUGIT,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-DUGIT,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-DUGIT,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-OSTAPENKO,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-OSTAPENKO,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-OSTAPENKO,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-OSTAPENKO,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-BARBERO ALFONSO,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-BARBERO ALFONSO,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-BECAN,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-BECAN,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-BECAN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-BECAN,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-BECAN,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-ALEKSEEVA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-ALEKSEEVA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-ALEKSEEVA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MATSUSHIMA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-COMINA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-COMINA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-JAGGI,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-JAGGI,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-JAGGI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-JAGGI,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-JAGGI,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-HEINTZ,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-HEINTZ,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-HEINTZ,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-HEINTZ,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-HEINTZ,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-HEINTZ,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-SVUB,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-GOGOL,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-GOGOL,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-GOGOL,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-KOSTKA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-SZEKELY,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-SZEKELY,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-SZEKELY,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-SZEKELY,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-CAMARGO,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-KAUROV,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-KAUROV,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-KAUROV,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-KAUROV,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-KAUROV,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-MIGNON,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-SHIN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SHIN,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BRUMAGNE,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-BRUMAGNE,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-PINET,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-PINET,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-PINET,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-PINET,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-PINET,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-OCIEPKA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-OCIEPKA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-OCIEPKA,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-OCIEPKA,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-GOSAR,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-MODRZEJEWSKA,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-MODRZEJEWSKA,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-ANDA VILLANUEVA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-ANDA VILLANUEVA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-ANDA VILLANUEVA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-ANDA VILLANUEVA,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-ANDA VILLANUEVA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ANDA VILLANUEVA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-ANDA VILLANUEVA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-ANDA VILLANUEVA,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-ANDA VILLANUEVA,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-KALINA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-OZAWA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-AGLAE,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-JOSSERON,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-JOSSERON,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-KONISHI,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-KONISHI,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-DE MATTIA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-DE MATTIA,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-DE MATTIA,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-MILLS,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HÖGSTRÖM,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-HÖGSTRÖM,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-LI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-LI,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-LI,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-TSUNODA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-YE,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-SAKAKIBARA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-NAKAHARA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-LAI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-LAI,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-LAI,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-DZYUBYAK,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-LIS,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-LIBOT,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-TIMMERMANS,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-VEKLA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-PENG,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-PENG,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-ENDO,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-WSZOLEK,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-WSZOLEK,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-RANT,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-MOOSBURGER,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-MOOSBURGER,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-HUANG,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-HUANG,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-HUANG,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-FRANKO,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-FRANKO,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-FRANKO,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-FRANKO,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-FRANKO,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-FRANKO,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-FRANKO,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-BAXTER,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-BAXTER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-ITO,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-KOROLKOVA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-KOROLKOVA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-KOROLKOVA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-HNIZDILOVA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-CHU,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-CHU,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-RUDE,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-RUDE,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-MARIN GARCIA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-HARRINGTON,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-HARRINGTON,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-WAGNER,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-WAGNER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-TESO,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-LARGERON,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-LARGERON,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-SAPEY,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-GUERIMAND,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-GUERIMAND,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-GUERIMAND,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-GUERIMAND,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-HARNISCH,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-PINTAR,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-RISTOVSKI,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-RISTOVSKI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-WINKLER,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-WINKLER,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-WINKLER,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-WINKLER,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-WINKLER,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-WINKLER,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-JANUEL,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-JANUEL,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-KUDROVA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-NEYER,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-KARESOVA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-COUCHOT,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-COUCHOT,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-CULVER,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-MANEVA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CAPREZ,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-CAPREZ,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-CAPREZ,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-CAPREZ,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CAPREZ,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-SCHMID,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-SCHMID,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-SCHMID,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-TAK,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-TAK,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-TAK,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-MATTHEWS,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-MATTHEWS,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MATTHEWS,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-MATTHEWS,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-THORBJOERNSEN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-CONAN,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-CONAN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-FERGEAU,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-BOAVIDA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KON,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CORREIA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LOPEZ,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-LOPEZ,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-ZHANG,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-ZHANG,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-CARLSSON,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-CARLSSON,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-BAKULIC,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BAKULIC,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-NEUMÄRKER,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-NEDYALKOVA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-SMITH-GOBAT,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-VAN DER SLUIS,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-VAN DER SLUIS,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-VAN DER SLUIS,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-VAN DER WERF,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-VAN DER WERF,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-VAN DER WERF,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-VAN DER WERF,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-HEQUIN,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-HEQUIN,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-HEQUIN,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-BARCZA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-BERGER,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-VANDEN DRIESSCHE,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-ZULIM,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LOZIC,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-CHORNOSKUTOVA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MURAN,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-MURAN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-THOMAS,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-THOMAS,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-THOMAS,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-KARADAĞ,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-OZVER,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ERCAN,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-ERCAN,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-SHAGINA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-AGAFONOVA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-CASSIDY,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-CORETTI,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-KHUDYAKOVA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-BOGACIU,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-PETROVSKI,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-ZAMPAR,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-HOARAU,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-MEDVEDIEVA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-ISKAKOVA,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-ISKAKOVA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-ISKAKOVA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ISKAKOVA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-FIORI,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-FIORI,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-FIORI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-FIORI,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-FIORI,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-RUH,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-RUH,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-POREBSKI,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-PEROV,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-LAINE,99,IFSC Climbing Worldcup (L) - Imst (AUT) 2007
-LAINE,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-HEURTAUX,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-HILLE,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-PROSKE,87,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007
-YACHNIK,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-CLAASSEN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-CLAASSEN,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-KUIK,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-GENECAND,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-LECOMTE,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-LECOMTE,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-LECOMTE,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-HERNANDEZ MEDINA,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SUBBOTIN,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-IVANOV,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-SERAFIMOVSKI,117,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007
-BAHAREH,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-SOLAIMANI,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-WEI,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-SOLTANINEJAD,57,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007
-LEÓN JUAREZ,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-LEÓN JUAREZ,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-HUERTA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-HUERTA,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-HUERTA,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-PASQUAZZO,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-URBINA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-WÖRNER,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-EHLERT,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-VERVOORT,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-FREYRIA,90,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007
-IKEDA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-TANAKA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-TSUTSUMI,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-MONMA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-KUBRAKOVA ,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-NAGATA,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-KANG,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-HUNG,60,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007
-PHILIPPON,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-LE CAR,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-PETRESCU,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-PETRESCU,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-AVOCAT-BENAN,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-MARIS,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-RUS,68,IFSC Climbing Worldcup (L) - Valence (FRA) 2007
-RAZNO,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-SUTTON,79,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007
-KUCSERA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MENDEZ,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-BRAGDON,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-ÖZLEM,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-DELGADO,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-CHLEBOVA,68,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007
-MALAMID,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-MALAMID,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MALAMID,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-MALAMID,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-CHERESHNEVA,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-CHERESHNEVA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-CHERESHNEVA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-CHERESHNEVA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-CHERESHNEVA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-CHERESHNEVA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-CHERNIKOV,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-CHERNIKOV,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-CHERNIKOV,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-CHERNIKOV,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-TERENTEVA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SARKANY,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-SARKANY,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SARKANY,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-SARKANY,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SARKANY,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-GRAFTIAUX,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-FUSELIER,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-FUSELIER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-FUSELIER,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-FUSELIER,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-FUSELIER,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-MILLET,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-DESGRANGES,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-DESGRANGES,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-DESGRANGES,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-DESGRANGES,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-DESGRANGES,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-DESGRANGES,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-CIAVALDINI,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-CIAVALDINI,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-CIAVALDINI,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-CIAVALDINI,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-CIAVALDINI,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-CIAVALDINI,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-PAGNOUX,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-PAGNOUX,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-DURIF,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-DURIF,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-DURIF,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-DURIF,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-DURIF,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-DURIF,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-THÉVENET,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-THÉVENET,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-THÉVENET,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-THÉVENET,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-THÉVENET,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-ROMAIN,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-ROMAIN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-ROMAIN,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-ROMAIN,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-ROMAIN,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-ROMAIN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-DULL-KRETSCHMER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-USOBIAGA LAKUNZA,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-USOBIAGA LAKUNZA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-USOBIAGA LAKUNZA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-USOBIAGA LAKUNZA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-USOBIAGA LAKUNZA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-USOBIAGA LAKUNZA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-JULIAN  PUIGBLANQUE,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-JULIAN  PUIGBLANQUE,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-JULIAN  PUIGBLANQUE,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-JULIAN  PUIGBLANQUE,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-JULIAN  PUIGBLANQUE,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-JULIAN  PUIGBLANQUE,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-JUBES ANGARITA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-JUBES ANGARITA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-JUBES ANGARITA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-JUBES ANGARITA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-LOPEZ MATEOS,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-LOPEZ MATEOS,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-LOPEZ MATEOS,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-CARTAS BARRERA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-CARTAS BARRERA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-CARTAS BARRERA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-CARTAS BARRERA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-LAVARDA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-LAVARDA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-LAVARDA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-LAVARDA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-VALSECCHI,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-STREMFELJ,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-STREMFELJ,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-GROS,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-GROS,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-GROS,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-GROS,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-GROS,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-GROS,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-MARKOVIC,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-MARKOVIC,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MARKOVIC,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-MARKOVIC,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-MARKOVIC,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-MARKOVIC,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-REIS,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-REIS,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-REIS,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-REIS,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-REIS,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-BACHER,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-BACHER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-BACHER,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-BACHER,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-BACHER,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-SCHÖPF,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-SCHÖPF,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SCHÖPF,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-SCHÖPF,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SCHÖPF,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-EITER,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-EITER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-EITER,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-AMANN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SAURWEIN,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SAURWEIN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-SCHRANZ,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-SCHRANZ,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-SCHRANZ,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SCHRANZ,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-SCHRANZ,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-LAMA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-LAMA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SCHUBERT,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-SCHUBERT,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SCHUBERT,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-SCHUBERT,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SCHUBERT,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-SCHUBERT,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-HLAVACEK,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-MRÁZEK,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-MRÁZEK,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MRÁZEK,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-MRÁZEK,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-MRÁZEK,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-MRÁZEK,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-ZILINSKIY,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-KRYUKOV,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-KRYUKOV,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-KRYUKOV,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-KRYUKOV,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-KRYUKOV,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-SON,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SON,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-KIM,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-KIM,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-KIM,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-KIM,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-KIM,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-KOBAYASHI,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-KOBAYASHI,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-NOGUCHI,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-NOGUCHI,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-NOGUCHI,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-NOGUCHI,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-NOGUCHI,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-AMMA,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-AMMA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-AMMA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-AMMA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-AMMA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-AMMA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-WATANABE,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-WATANABE,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-WATANABE,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-WATANABE,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-WURM,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-WURM,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-WURM,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-WURM,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-WURM,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-WANG,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-PAN,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-PAN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MIDTBOE,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-MIDTBOE,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MIDTBOE,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-MIDTBOE,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-MIDTBOE,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-MIDTBOE,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-TAUPORN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-TAUPORN,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-TAUPORN,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-TAUPORN,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-TAUPORN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-LACHAT,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-LACHAT,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-LACHAT,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-LACHAT,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-LACHAT,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-CARDOSO,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-RODRIGUEZ,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-RODRIGUEZ,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-PIOLA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-PIOLA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-DANKER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-DANKER,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-DANKER,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-DANKER,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-VERHOEVEN,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-VERHOEVEN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-VERHOEVEN,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-VERHOEVEN,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-VERHOEVEN,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-VERHOEVEN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-ZIJLSTRA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-ZIJLSTRA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-ZIJLSTRA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-ZIJLSTRA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-ZIJLSTRA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-DE LEEUW,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-DE LEEUW,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-DE LEEUW,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-TAYLOR,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-EYER,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-EYER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-EYER,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-EYER,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-EYER,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-EYER,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-STENDAL,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-STENDAL,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-STENDAL,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-SOVA,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-SOVA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SOVA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SOVA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-SOVA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-TEN SIJTHOFF,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-TEN SIJTHOFF,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-TEN SIJTHOFF,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-TEN SIJTHOFF,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-DE GIROLAMO,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-DUGIT,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-DUGIT,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-DUGIT,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-DUGIT,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-DUGIT,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-DUGIT,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-OSTAPENKO,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-OSTAPENKO,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-OSTAPENKO,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-BARBERO ALFONSO,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-BARBERO ALFONSO,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-BARBERO ALFONSO,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-BARBERO ALFONSO,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-BECAN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-BECAN,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-BECAN,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-BECAN,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-BECAN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-COMINA,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-COMINA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-COMINA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-COMINA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-COMINA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-COMINA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-JAGGI,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-JAGGI,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-JAGGI,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-JAGGI,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-GOGOL,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-GOGOL,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-GOGOL,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SZEKELY,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SZEKELY,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-SZEKELY,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SZEKELY,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-SZEKELY,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-CAMARGO,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-CAMARGO,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-CAMARGO,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-CAMARGO,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-CAMARGO,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-KAUROV,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-KAUROV,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-KAUROV,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-KAUROV,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-KAUROV,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-SHIN,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-PINET,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-PINET,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-PINET,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-PINET,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-OCIEPKA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-OCIEPKA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-OCIEPKA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-OCIEPKA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-GOSAR,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-GOSAR,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-GOSAR,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-GOSAR,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-MODRZEJEWSKA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-ANDA VILLANUEVA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-ANDA VILLANUEVA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-ANDA VILLANUEVA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-ANDA VILLANUEVA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-KALINA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-KALINA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-AGLAE,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-JOSSERON,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-JOSSERON,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-KONISHI,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-KONISHI,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-KONISHI,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-KONISHI,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-DE MATTIA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-HÖGSTRÖM,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-HÖGSTRÖM,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-HÖGSTRÖM,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-HÖGSTRÖM,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-LI,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-LI,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-LI,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-TSUNODA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-YE,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-LIS,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-TIMMERMANS,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-WSZOLEK,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-RANT,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-MOOSBURGER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MOOSBURGER,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-BAXTER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-ITO,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-ITO,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-ITO,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-ITO,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-ITO,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-GUERIMAND,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-GUERIMAND,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-GUERIMAND,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-GUERIMAND,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-GUERIMAND,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-GUERIMAND,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-WINKLER,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-KUDROVA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-COUCHOT,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-COUCHOT,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-COUCHOT,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-COUCHOT,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-CULVER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-CULVER,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-CULVER,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-CULVER,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-CULVER,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-CAPREZ,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SCHMID,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-TAK,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-TAK,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-TAK,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-MATTHEWS,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-MATTHEWS,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-THORBJOERNSEN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-THORBJOERNSEN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-LOPEZ,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-LOPEZ,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-ZHANG,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-CARLSSON,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-CARLSSON,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-CARLSSON,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-CARLSSON,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-NEUMÄRKER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-NEUMÄRKER,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-NEUMÄRKER,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-NEUMÄRKER,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-NEDYALKOVA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-VAN DER WERF,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-HEQUIN,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-AGAFONOVA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-CASSIDY,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-CASSIDY,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-CORETTI,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-BOGACIU,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-HOARAU,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MEDVEDIEVA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-ISKAKOVA,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-RUH,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-PEROV,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-HUERTA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-HUERTA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-VERVOORT,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-TANAKA,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-TANAKA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-TANAKA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-TANAKA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-LE CAR,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-PETRESCU,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-PIRATINSKAYA,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-ZAZULIN,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-ZAZULIN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-TER-MINASYAN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-TER-MINASYAN,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-TER-MINASYAN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-FAKHRITDINOVA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-KOCHETKOV ,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-KOCHETKOV ,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-HANSSENS,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-AVEZOU,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-BALLET,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-BALLET,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-BALLET,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-BALLET,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-BALLET,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-LE NEVE,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-LE NEVE,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-LE NEVE,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-PRIMOZIC,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-LECHNER,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-LECHNER,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-LECHNER,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-PICHLER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-ERNST,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-ERNST,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-ERNST,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-ERNST,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-ERNST,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-ERNST,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-MCCOLL,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MCCOLL,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-MCCOLL,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-MCCOLL,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-MAH,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MIN,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-MIN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MIN,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-MIN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-HAN,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-GARBOV,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-BUNSCH,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-BUNSCH,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-BUNSCH,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-ZHONG,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-QU,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-MOLCHANOV,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-HOJER,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-HOJER,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-HOJER,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-HEMUND,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-VAN BERGEN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-VAN BERGEN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-BLASER,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-CONRAD,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-RUGENS,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-OLEKSY,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-GUSAK,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-KRASTEV,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-KRASTEV,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-MÜLLER,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-SHALAGINA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SHALAGINA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-SHALAGINA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SHALAGINA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-SHALAGINA,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-MAIRE,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-SOMMER,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-LARCHER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-KONSTANTAKOPOULOS,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-LAZAROV,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-LAGUTIN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-MOROZKINA,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-MOROZKINA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MOROZKINA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-SHAFEROV,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SUOLANG,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-TOBIASSEN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-TRABER,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-ALEMAN SOBRINO,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-FAURE,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-LANDRY,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-CORCIOVEI,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-FEISTMANTL,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-FEISTMANTL,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-DEDECKER,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-OLSEN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-OLSEN,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-OLSEN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-SOLOVEY,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SOLOVEY,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-SKOF,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SKOF,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-DE BOECK,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-DE BOECK,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-DE BOECK,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-DE BOECK,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-HE,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-BERGASSE,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-BERGASSE,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-HROZOVA,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SHOPRIN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-RESCH,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-GERMAN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MARSELLA PRADO,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
-MARSELLA PRADO,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-MARSELLA PRADO,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-MARSELLA PRADO,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-MARSELLA PRADO,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-MARSELLA PRADO,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-EVENE,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-JUAREZ,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-TARDY,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SAURON,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-BOUYOUD,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-BOUYOUD,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-BREYSSE,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-BREYSSE,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-MANZATO,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-CHILESE,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-TUZHILKIN,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-SEDEVI,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
-TERENTYEV,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-TERENTYEV,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-TERENTYEV,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-BUSETTA,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-HAIGH,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
-HAIGH,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-MIKUSHKINA,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-MIKUSHKINA,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-STANGACIU,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-SILLMANN,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-GONZÁLEZ,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
-GONZÁLEZ,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-GONZÁLEZ,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-BERTHE,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-LEDUC,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
-KOS,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-MIROSHNICHENKO,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-LEVSTEK,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-MILOSAVLJEVIC,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-ZUPAN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-CARDWELL,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-SEMENOV,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-RODEN,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-PERUNOVIC,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
-RAIMOND,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+49,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+49,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+49,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+49,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+58,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+58,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+58,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+58,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+58,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+58,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+61,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+61,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+61,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+61,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+71,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+306,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+306,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+306,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+306,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+306,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+309,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+419,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+419,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+419,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+419,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+419,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+426,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+437,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+437,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+437,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+437,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+437,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+437,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+438,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+438,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+438,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+438,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+438,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+438,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+440,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+440,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+445,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+445,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+445,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+445,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+445,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+445,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+446,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+446,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+446,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+446,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+446,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+447,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+447,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+447,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+447,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+447,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+447,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+764,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+772,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+772,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+772,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+772,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+772,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+772,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+773,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+773,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+773,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+773,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+773,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+773,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+774,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+774,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+774,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+774,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+775,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+775,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+775,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+777,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+777,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+777,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+777,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+848,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+848,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+848,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+848,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+851,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1118,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1118,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1119,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+1119,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1119,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1119,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1119,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1119,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1121,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1121,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1121,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1121,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1122,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+1122,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1122,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1122,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1122,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1122,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1199,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1199,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1199,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1199,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1199,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1202,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+1202,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1202,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1202,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1202,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1203,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+1203,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1203,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1203,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1203,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1207,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+1207,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1207,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1208,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1209,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1209,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1210,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+1210,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1210,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1210,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1210,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1213,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1213,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1214,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+1214,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1214,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1214,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1214,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1214,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1353,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1356,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+1356,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1356,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1356,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1356,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1356,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1473,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1476,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1476,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1476,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1476,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1476,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+2032,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+2032,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+2034,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+2034,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+2034,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+2034,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+2034,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+2035,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+2035,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+2035,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+2035,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+2251,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+2251,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+2253,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+2253,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+2253,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+2253,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+2253,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+2254,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+2254,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+2254,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+2254,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+2254,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+2254,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+2823,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+2823,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+2823,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+2823,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+2823,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+2927,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+2928,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+2928,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+3058,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+3058,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+3058,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+3058,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+3058,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+3058,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+3059,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+3059,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+3059,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+3124,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+3124,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+3124,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+3124,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+3124,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+3129,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+3129,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+3129,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+3129,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+3129,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+3133,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+3176,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+3176,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+3198,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+3198,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+3353,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+3353,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+3353,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+3353,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+3577,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+3577,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+3577,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+3577,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+3577,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+3577,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+3578,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+3578,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+3578,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+3578,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+3578,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+3579,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+3579,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+3579,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4491,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4535,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+4535,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4535,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4535,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4535,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4535,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4560,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4560,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4560,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4582,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+4582,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4582,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4582,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4582,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4585,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4585,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4585,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4585,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4657,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4670,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4690,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+4690,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4690,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4690,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4690,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4690,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4702,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4702,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4702,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4705,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4705,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4705,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4705,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4716,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4716,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4716,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4716,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4716,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4786,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+4786,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4786,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4786,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4786,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4786,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4787,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4787,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4787,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4787,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4795,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4795,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4795,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4795,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4809,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4809,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4809,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4841,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4841,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4841,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4841,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4841,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4852,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4852,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4852,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4852,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4852,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4864,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4864,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4864,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4864,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4864,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4915,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4917,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4917,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4917,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4917,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4920,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4920,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4920,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4920,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4922,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4922,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4922,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4922,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4923,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4926,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4926,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4926,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4926,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4933,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4933,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4936,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4937,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4937,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4937,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4937,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4939,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4939,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4942,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4942,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4942,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4942,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4948,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4964,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4964,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4964,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4964,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4982,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+4982,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4982,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4988,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4989,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+5012,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5012,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5015,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5018,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5077,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5099,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5106,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5106,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5127,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5151,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+5151,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5151,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5151,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5151,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5324,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+5324,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5324,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5324,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5324,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5324,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5388,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5393,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5403,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5422,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5422,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5422,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5422,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5472,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5472,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5472,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5472,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5472,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5514,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5517,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5518,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5518,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5518,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5521,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+5521,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5528,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5528,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5597,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5597,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5617,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+5624,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5624,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5624,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5624,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5626,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5626,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5626,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5626,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5637,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5644,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5648,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5649,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5733,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5748,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5748,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5749,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5769,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5777,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5781,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5782,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+5784,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5786,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+5820,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5820,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5825,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5828,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+5828,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5828,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5828,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5837,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5838,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+39,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+65,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+65,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+66,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+66,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+66,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+68,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+80,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+80,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+308,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+427,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+448,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+448,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+448,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+448,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+448,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+454,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+454,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+454,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1127,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1216,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+1216,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1216,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1218,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1219,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+1219,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1219,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1219,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1219,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1219,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+1559,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+1559,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+1559,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+1559,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+1560,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+2039,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+2039,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+2039,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+2039,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+2043,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+2416,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+2839,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+2839,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+2839,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+2929,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+2931,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+2933,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+2933,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+3360,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+3422,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+3422,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+3422,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+3429,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+3580,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+3580,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+3779,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+3890,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4150,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4581,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4584,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4715,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4715,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4726,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+4756,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4756,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4756,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4756,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4756,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4767,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4775,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4802,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4812,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+4819,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4823,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4857,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+4857,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4857,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+4865,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4877,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+4895,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4919,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4921,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4925,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4935,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+4966,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+4977,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+4977,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5020,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5036,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5036,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5036,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5037,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5037,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5330,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5330,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5396,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5396,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5396,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5396,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5445,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5470,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5470,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5473,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5684,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5846,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5851,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5894,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5900,51,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008
+5900,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5900,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5900,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5900,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5900,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5902,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5903,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5904,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5905,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5908,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5908,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5909,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5909,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5910,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5911,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5912,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5913,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5914,129,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008
+5922,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5922,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5922,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5923,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5924,89,IFSC Climbing Worldcup (L) - Bern (SUI) 2008
+5924,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5925,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5925,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5926,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5927,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5928,101,IFSC Climbing Worldcup (L) - Imst (AUT) 2008
+5928,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5928,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5929,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5930,93,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008
+5952,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5953,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5954,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5955,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5956,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5957,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5958,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5959,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5960,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
+5961,101,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008
