@@ -1,0 +1,592 @@
+athlete_id,total_starter,name
+41,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+49,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+49,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+49,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+49,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+49,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+58,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+58,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+58,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+58,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+58,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+58,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+61,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+61,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+61,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+61,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+61,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+71,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+306,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+306,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+306,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+306,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+306,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+306,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+437,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+437,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+437,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+437,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+438,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+438,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+438,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+438,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+438,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+438,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+444,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+444,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+444,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+444,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+444,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+444,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+445,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+445,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+445,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+445,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+445,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+445,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+446,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+446,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+447,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+447,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+447,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+447,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+447,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+447,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+764,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+764,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+764,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+772,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+772,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+772,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+772,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+772,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+772,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+773,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+773,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+773,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+773,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+773,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+773,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+774,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+774,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+774,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+774,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+775,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+775,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+775,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+777,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+777,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+845,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+845,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+845,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+845,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+845,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+845,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+848,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+848,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+848,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+848,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+848,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+848,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+851,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+851,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+851,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1119,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1119,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1119,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1119,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+1119,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1119,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1121,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1121,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1121,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1121,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+1121,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1121,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1122,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1122,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1122,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1122,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+1122,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1122,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1124,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1199,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1199,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1199,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1199,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+1199,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1202,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1202,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1202,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1202,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+1202,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1202,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1203,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1203,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1203,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1207,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1207,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1207,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1207,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+1207,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1207,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1210,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1210,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1210,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1210,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+1210,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1210,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1213,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1213,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1213,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1213,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+1213,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1213,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1214,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1214,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1214,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1214,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+1214,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1214,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1353,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1356,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1356,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1356,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1361,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1476,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1476,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+2032,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+2032,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+2032,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+2032,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+2032,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+2032,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+2034,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+2034,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+2034,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+2035,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+2035,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+2035,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+2035,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+2035,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+2035,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+2251,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+2251,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+2251,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+2251,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+2251,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+2251,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+2253,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+2253,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+2253,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+2253,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+2254,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+2254,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+2254,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+2254,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+2254,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+2254,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+2823,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+2823,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+2823,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+2823,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+2823,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+2823,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+3058,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3058,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+3058,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+3058,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+3058,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+3059,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3059,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+3124,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3124,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+3124,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+3124,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+3124,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+3124,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+3129,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3133,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3136,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3136,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+3136,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+3353,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+3353,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+3577,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3577,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+3577,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+3579,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3579,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+3579,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+3579,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+3579,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4535,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4535,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4535,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4535,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4535,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4535,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4582,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4582,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4582,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4582,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4690,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4702,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4702,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4702,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4702,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4716,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4716,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4716,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4716,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4716,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4716,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4735,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4783,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4783,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4786,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4787,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4787,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4787,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4795,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4795,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4795,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4795,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4795,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4795,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4801,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4809,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4809,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4841,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4841,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4841,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4852,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4852,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4852,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4852,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4864,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4864,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4864,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4864,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4864,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4864,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4916,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4916,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4916,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4916,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4917,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4917,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4917,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4917,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4917,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4920,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4922,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4922,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4922,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4922,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4922,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4922,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4923,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4923,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4933,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4937,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4937,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4937,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4939,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4939,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4939,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4948,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4948,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4964,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4964,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4964,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4964,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4988,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4988,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5012,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5012,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5014,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5014,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5014,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5015,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+5017,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+5021,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5021,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5021,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5077,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5127,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+5151,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5190,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5190,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+5256,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5256,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+5256,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+5256,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5320,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5324,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5324,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5403,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+5422,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5422,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5422,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5472,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5472,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5521,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5542,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5597,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5597,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5624,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5624,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5624,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+5624,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5626,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5644,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5645,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5645,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5652,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5652,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+5678,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5678,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5723,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5725,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5749,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5749,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5749,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5798,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5798,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5798,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5820,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5820,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5820,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+5820,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5821,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+65,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+65,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+68,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+80,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+80,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+427,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+427,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+427,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+427,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+427,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+448,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+454,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+454,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1127,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1127,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1216,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1216,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1216,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1219,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1219,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1219,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1219,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+1219,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1219,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1559,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1559,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1559,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+2039,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+2039,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+2039,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+2043,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+2043,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+2043,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+2043,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+2043,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+2839,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+2839,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+2839,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+3422,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3422,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+3422,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+3422,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+3422,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+3580,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3580,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+3580,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+3779,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3779,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+3890,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4584,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4584,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4767,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4775,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4802,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4865,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4895,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4919,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4921,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4921,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4925,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4925,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4925,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4935,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5036,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5396,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+5470,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5470,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+5470,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+5470,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5473,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5473,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+5684,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5684,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5684,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+5684,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5900,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5900,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5908,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5908,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5928,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5955,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5956,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+5956,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+69,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+69,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+73,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+310,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+436,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+436,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+442,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+442,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+442,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+442,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+442,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+455,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+778,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+778,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+778,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+778,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+849,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+853,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+854,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+854,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+855,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+855,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+855,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1128,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1205,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1205,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1205,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1221,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1221,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1221,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1358,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1360,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1364,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+1364,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1364,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1364,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+1364,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+1364,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+1481,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+1712,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+1712,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+2040,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+2040,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+2044,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+2044,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+2574,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3130,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+3130,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+3130,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+3582,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+3780,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+3979,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+3982,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+3982,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4060,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4062,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4552,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4554,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4643,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4762,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4762,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4762,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4764,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4765,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4774,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4781,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4797,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4797,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+4797,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4808,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4839,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4870,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4870,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4870,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4912,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4912,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4912,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4912,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4913,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4918,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4938,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4938,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4938,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4940,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4940,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4943,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4944,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4944,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4945,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4945,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4946,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4946,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4946,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+4947,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+4951,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+4965,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+4995,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+4997,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5007,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5008,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5013,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+5016,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+5035,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5035,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5727,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5874,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+5932,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+5973,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+5986,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+5999,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+6000,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+6001,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+6002,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+6002,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+6003,130,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009"
+6004,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+6005,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+6006,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+6007,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+6008,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+6009,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+6010,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+6011,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+6012,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+6013,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+6014,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+6015,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+6016,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+6017,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+6018,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+6019,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+6020,93,IFSC Climbing Worldcup (L) - Imst (AUT) 2009
+6020,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+6021,68,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009
+6022,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+6022,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+6023,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+6024,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+6025,85,IFSC Climbing Worldcup (L) - Brno (CZE) 2009
+6025,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+6026,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+6027,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+6028,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+6029,110,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009
+6030,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009
+6031,105,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009

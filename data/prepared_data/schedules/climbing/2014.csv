@@ -1,0 +1,806 @@
+athlete_id,total_starter,name
+49,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+49,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+49,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+49,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+49,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+58,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+61,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+61,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+61,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+61,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+61,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+71,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+71,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+71,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+437,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+437,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+437,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+437,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+437,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+437,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+437,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+437,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+437,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+444,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+444,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+444,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+444,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+444,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+444,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+444,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+444,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+444,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+445,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+445,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+445,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+445,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+445,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+445,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+447,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+447,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+447,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+447,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+447,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+773,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+773,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+773,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+773,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+773,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+773,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+773,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+773,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+773,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+774,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+774,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+774,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+848,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+848,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+848,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+848,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+848,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1121,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1121,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1121,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1121,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1121,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1121,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1121,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1122,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+1122,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1122,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1122,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1122,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1122,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1122,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1122,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1122,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1202,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+1202,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1202,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1202,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1202,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1202,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1202,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1202,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1210,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1210,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1210,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1210,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1210,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1210,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1210,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1210,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1214,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+1214,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1214,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1214,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1214,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1214,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1214,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1214,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1214,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1476,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2033,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2033,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2035,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2035,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2035,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2035,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2035,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2035,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2035,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+2035,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2035,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2251,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2251,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2251,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2251,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2251,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2251,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+2251,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2251,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2253,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2253,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2253,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2253,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2253,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2254,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2254,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2254,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2254,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2254,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2927,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2927,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+3058,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+3058,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3058,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3058,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3058,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3058,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+3058,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+3058,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+3124,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3133,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3357,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+4783,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+4783,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+4783,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+4783,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+4783,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+4783,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+4783,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+4790,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+4790,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+4790,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+4795,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+4916,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+4916,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+4926,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+4926,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+4936,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+5597,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+5597,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+5838,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+65,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+66,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+66,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+66,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+66,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+68,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+68,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+68,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+68,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+68,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+68,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+68,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+68,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+68,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+80,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+80,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+80,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+80,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+308,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+308,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+448,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+448,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+448,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+448,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1127,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1127,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1127,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1127,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1127,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1216,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+1216,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1216,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1216,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1216,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1216,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1216,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1216,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1559,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+1559,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1559,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1559,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1559,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1559,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1559,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1559,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1559,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2039,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2039,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2039,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2039,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2039,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2039,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2931,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2931,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3422,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3580,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+3580,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3580,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3580,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3580,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3580,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+3580,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+3580,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+3580,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+4877,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+5470,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+5470,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+5470,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+5922,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+442,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+442,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+442,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+455,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+455,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+455,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+455,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+455,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+455,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+455,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+455,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+455,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+778,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+778,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+778,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+854,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+854,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+854,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+854,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+854,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+855,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+855,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+855,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+855,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+855,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+855,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+855,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+855,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+855,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1128,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1221,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1221,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1221,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1364,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+1364,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1364,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1364,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1364,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1364,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1364,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1364,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1364,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1481,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1481,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1481,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2040,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2040,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2040,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2040,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2040,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2040,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+3130,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3130,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3130,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3130,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3582,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3780,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3780,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3780,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3982,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3982,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+3982,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+3982,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+3982,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+4764,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+4940,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+4940,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+4940,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+4945,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+4945,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+4945,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+4945,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+4945,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+312,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+312,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+456,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+456,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+456,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+456,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1129,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+1129,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1129,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1129,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1129,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1129,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1129,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1129,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1129,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1222,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+1222,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1222,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1222,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1222,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1222,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1222,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1222,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1222,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1224,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+1224,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1224,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1224,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1224,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1224,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1224,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1224,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1224,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1367,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1367,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1367,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1367,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1367,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2045,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2045,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2045,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2045,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2045,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2047,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2214,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2261,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2261,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2263,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2263,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2263,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2263,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2267,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2267,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2267,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2267,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2267,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2267,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2267,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2267,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2269,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2936,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2936,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2938,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2938,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2938,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+3060,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3060,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3060,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3060,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3247,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3247,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3247,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3247,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3581,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3897,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+4998,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+5022,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+93,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+93,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+93,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+314,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+314,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+314,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+314,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+314,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+314,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+314,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+314,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+461,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+461,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+634,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+634,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+776,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+776,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+776,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+776,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+776,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+776,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+776,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+776,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+864,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+864,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+864,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+864,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+864,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1130,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1130,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1130,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1130,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1576,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+1576,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1576,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1576,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1576,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1576,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1576,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1576,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+1576,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1709,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1718,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1718,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1718,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1724,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1724,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1724,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1725,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2014,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2014,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2014,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2014,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2014,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2259,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2268,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2268,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+2268,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2934,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2934,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+2935,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2935,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2940,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+3125,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3125,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3125,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3125,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3125,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3209,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3272,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+3465,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+4230,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+4960,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+6092,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+6094,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+6094,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+6098,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6098,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6098,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6098,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+6138,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6138,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+6139,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+7426,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+315,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+315,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+315,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+315,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+315,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+315,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+315,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+315,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+315,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+463,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+463,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+463,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+463,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+465,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+465,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+466,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+466,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+466,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+466,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+467,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+467,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+467,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+467,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+859,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+859,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+860,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+860,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+860,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+860,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1135,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1135,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1135,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1139,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1226,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1226,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1226,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1226,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1228,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1228,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1228,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1228,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1486,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1735,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2041,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2041,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2041,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2041,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2041,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2042,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2042,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2042,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2042,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2050,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2053,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2053,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2272,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2273,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2273,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2273,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2273,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2761,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2761,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2761,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3246,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3925,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3925,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+6169,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+6169,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+6184,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6184,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6184,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6192,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6192,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6207,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+6211,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6211,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6211,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+6213,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+6218,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+6219,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+6222,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+6224,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+6352,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6352,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6352,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+7434,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+100,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+100,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+462,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+462,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+642,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+642,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+642,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+642,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+644,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+644,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+644,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+644,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1131,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1369,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1369,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1369,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2051,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2051,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2051,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2051,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2052,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2055,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2055,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2271,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2271,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2271,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2271,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2271,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2277,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2277,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2289,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2289,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2289,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2294,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2666,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2666,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2667,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2667,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2669,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2669,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3110,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3110,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3112,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3185,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3203,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3248,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3248,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3248,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3254,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3254,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3254,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3426,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3427,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3427,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3427,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3984,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3984,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3984,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3984,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+3984,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+3984,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+3984,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3985,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3985,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3985,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3985,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+6033,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6033,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6033,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6033,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+6266,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6268,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6268,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6271,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6271,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6271,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6284,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+6306,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6306,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+87,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+103,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+321,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+321,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+321,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+328,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+457,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+457,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+468,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+485,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+485,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+485,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+486,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+486,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+486,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+492,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+648,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+650,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+650,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+798,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+876,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+880,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+880,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+880,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+880,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1059,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1133,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1134,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1232,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1232,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1234,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1234,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1239,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1255,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1264,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1264,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1365,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1371,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1374,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1374,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1374,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1377,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1377,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1377,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1377,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1377,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1378,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1378,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1378,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1378,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1378,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1378,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1489,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1489,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1489,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1489,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+1581,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+1581,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1581,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1751,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1752,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+1752,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+1754,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+1776,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+1776,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+1776,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2061,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2061,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2067,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2257,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2257,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2270,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2279,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2279,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2285,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2285,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2285,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2286,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2286,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2286,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+2286,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2287,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+2287,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2287,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2296,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2296,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2296,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+2296,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2296,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2297,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2301,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+2301,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2321,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2322,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+2670,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2670,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+2789,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+2843,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+2843,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+2941,37,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 "
+3061,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+3061,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3126,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3361,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+3840,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3888,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+3888,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+3888,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+3926,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+3927,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+3928,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+3929,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+3930,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+3931,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+3983,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+4070,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+4071,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+4175,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+4175,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+4178,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+4231,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+4308,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+4308,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+4322,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+4323,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+4323,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+5082,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6076,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+6200,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6308,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+6328,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6328,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6328,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6334,56,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 "
+6342,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6342,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6342,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6343,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6343,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6344,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6344,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6344,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+6345,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6345,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6345,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+6346,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6347,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6349,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6349,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6350,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6350,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6351,132,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014"
+6351,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6351,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6356,128,IFSC Climbing Worldcup (L) - Briançon (FRA) 2014
+6356,102,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 
+6362,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+6363,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+6364,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+6365,70,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 "
+6370,59,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 
+6371,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+6372,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+6373,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+6374,98,IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 
+7411,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+7447,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+7454,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+7458,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+7459,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+7460,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+7462,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+7463,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"
+7464,123,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014"

@@ -1,0 +1,981 @@
+athlete_id,total_starter,name
+60,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+61,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+61,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+61,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+61,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+61,179,IFSC Climbing World Championships - Paris (FRA) 2016
+61,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+71,179,IFSC Climbing World Championships - Paris (FRA) 2016
+437,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+437,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+437,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+437,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+437,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+437,179,IFSC Climbing World Championships - Paris (FRA) 2016
+437,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+437,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+444,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+444,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+444,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+444,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+444,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+444,179,IFSC Climbing World Championships - Paris (FRA) 2016
+444,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+444,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+445,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+445,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+445,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+445,179,IFSC Climbing World Championships - Paris (FRA) 2016
+451,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+451,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+451,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+451,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+451,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+773,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+773,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+773,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+773,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+773,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+773,179,IFSC Climbing World Championships - Paris (FRA) 2016
+773,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+773,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+775,179,IFSC Climbing World Championships - Paris (FRA) 2016
+848,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+848,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+848,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+848,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+851,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1122,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1122,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1122,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1122,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1122,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1122,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1122,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1124,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1202,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1202,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1202,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1202,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1210,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1210,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1210,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1210,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1210,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1210,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1210,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1214,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1214,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1214,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1214,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1214,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1214,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1214,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1214,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1476,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2033,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2035,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2035,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2035,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2035,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2035,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2035,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2035,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2035,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2251,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2251,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2251,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2251,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2251,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2251,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2251,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2251,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2253,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2253,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2928,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+3133,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3136,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3357,179,IFSC Climbing World Championships - Paris (FRA) 2016
+65,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+65,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+65,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+66,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+68,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+68,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+68,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+68,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+68,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+68,179,IFSC Climbing World Championships - Paris (FRA) 2016
+308,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+308,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+308,179,IFSC Climbing World Championships - Paris (FRA) 2016
+448,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+448,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1127,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1127,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1127,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1127,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1127,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1127,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1127,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1216,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1216,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1216,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1216,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1216,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1216,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1559,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1559,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1559,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1559,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1559,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1559,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2043,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2043,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2043,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2043,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2043,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2043,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2931,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+3580,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3580,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3580,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3779,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+4150,179,IFSC Climbing World Championships - Paris (FRA) 2016
+73,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+455,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+455,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+455,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+455,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+455,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+455,179,IFSC Climbing World Championships - Paris (FRA) 2016
+455,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+455,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+854,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+854,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+854,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+854,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+854,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+854,179,IFSC Climbing World Championships - Paris (FRA) 2016
+854,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+854,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+855,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+855,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+855,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+855,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+855,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+855,179,IFSC Climbing World Championships - Paris (FRA) 2016
+855,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+855,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1128,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1221,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1221,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1221,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1221,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1221,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1221,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1221,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1221,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1364,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1364,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2040,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2040,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2040,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2040,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2040,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2040,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2044,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2044,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3130,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3130,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3130,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3130,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3130,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3582,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3780,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3780,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3982,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3982,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3982,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+4062,179,IFSC Climbing World Championships - Paris (FRA) 2016
+312,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+312,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+312,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+312,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+312,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+312,179,IFSC Climbing World Championships - Paris (FRA) 2016
+456,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+456,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+456,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+456,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+456,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+456,179,IFSC Climbing World Championships - Paris (FRA) 2016
+456,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+456,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1129,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1129,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1129,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1129,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1129,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1129,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1129,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1129,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1222,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1222,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1222,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1222,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1222,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1222,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1222,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1222,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1224,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1224,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1224,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1224,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1224,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1224,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1224,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1367,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1367,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1367,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1367,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2214,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2261,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2261,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2261,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2261,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2261,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2261,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2261,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2267,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2267,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2267,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2267,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2267,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2267,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2267,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2269,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2936,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2938,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+3060,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3060,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3060,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+3358,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3897,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3897,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3897,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3897,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3897,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3897,179,IFSC Climbing World Championships - Paris (FRA) 2016
+93,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+93,179,IFSC Climbing World Championships - Paris (FRA) 2016
+93,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+93,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+314,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+314,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+314,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+314,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+314,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+314,179,IFSC Climbing World Championships - Paris (FRA) 2016
+314,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+314,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+459,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+459,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+459,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+461,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+461,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+461,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+461,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+461,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+461,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+634,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+634,179,IFSC Climbing World Championships - Paris (FRA) 2016
+776,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+776,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+776,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+776,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+776,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+776,179,IFSC Climbing World Championships - Paris (FRA) 2016
+776,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+776,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+864,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+864,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+864,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+864,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+864,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+864,179,IFSC Climbing World Championships - Paris (FRA) 2016
+864,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1130,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1565,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1565,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1569,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1569,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1569,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1576,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1576,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1576,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1576,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1576,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1576,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1576,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1576,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1709,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1724,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1724,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1724,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1724,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1724,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1724,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2014,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2014,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2014,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2014,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2014,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2014,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2268,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2419,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3111,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3111,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3111,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3111,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3125,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3125,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3125,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3125,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3125,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3125,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3125,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+3187,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3465,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4230,179,IFSC Climbing World Championships - Paris (FRA) 2016
+315,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+315,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+315,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+315,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+315,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+315,179,IFSC Climbing World Championships - Paris (FRA) 2016
+315,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+315,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+463,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+463,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+463,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+463,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+463,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+463,179,IFSC Climbing World Championships - Paris (FRA) 2016
+463,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+463,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+465,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+465,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+465,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+465,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+465,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+465,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+466,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+466,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+466,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+466,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+466,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+466,179,IFSC Climbing World Championships - Paris (FRA) 2016
+466,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+466,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+467,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+467,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+467,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+467,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+467,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+467,179,IFSC Climbing World Championships - Paris (FRA) 2016
+467,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+467,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+859,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+859,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+859,179,IFSC Climbing World Championships - Paris (FRA) 2016
+859,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+860,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+860,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+860,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+860,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+860,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+860,179,IFSC Climbing World Championships - Paris (FRA) 2016
+860,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+860,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1135,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1135,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1135,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1135,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1135,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1135,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1135,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1139,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1139,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1139,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1139,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1139,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1226,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1226,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1226,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1226,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1226,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1226,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1228,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1228,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1228,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1228,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1228,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1486,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1486,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1486,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1486,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1486,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1486,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1743,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1743,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1743,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1750,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2041,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2041,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2041,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2041,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2041,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2041,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2041,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2042,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2042,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2042,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2042,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2053,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2272,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2272,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2272,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2273,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2273,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2273,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2273,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2273,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2273,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2273,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2761,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2761,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2761,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3889,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3889,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3889,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3889,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3889,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3889,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3889,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+499,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+499,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+499,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+499,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+633,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+642,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+642,179,IFSC Climbing World Championships - Paris (FRA) 2016
+642,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+644,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1131,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1369,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1566,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1566,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1566,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2055,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2055,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2055,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2055,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2055,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2055,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2271,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2271,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2271,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2271,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2271,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2277,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2277,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2289,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2289,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2289,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2666,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2667,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2667,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2667,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2667,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2669,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3110,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3112,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3112,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3112,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3112,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3112,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3112,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+3203,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+3248,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3248,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3248,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3248,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3248,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3254,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3254,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3426,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3426,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3426,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3426,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3426,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3426,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3426,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+3427,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3427,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3427,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3427,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3427,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+3984,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3984,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3984,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3984,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+3984,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+3985,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3985,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+3985,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+103,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+103,179,IFSC Climbing World Championships - Paris (FRA) 2016
+321,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+321,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+321,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+321,179,IFSC Climbing World Championships - Paris (FRA) 2016
+321,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+328,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+328,179,IFSC Climbing World Championships - Paris (FRA) 2016
+457,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+457,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+457,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+457,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+457,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+457,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+485,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+485,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+485,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+485,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+485,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+648,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+648,179,IFSC Climbing World Championships - Paris (FRA) 2016
+648,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+798,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+798,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+798,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+798,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+798,179,IFSC Climbing World Championships - Paris (FRA) 2016
+876,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+880,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+880,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+880,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+880,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+880,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+880,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1059,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1133,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1133,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1133,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1133,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1133,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1133,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1133,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1134,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1134,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1134,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1134,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1232,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1232,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1232,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1232,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1232,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1234,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1239,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1239,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1239,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1239,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1255,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1264,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1264,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1264,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1264,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1378,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1378,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1378,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1378,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1378,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1378,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1489,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1489,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1489,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1581,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1581,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1581,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1581,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1581,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1751,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1751,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1751,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1752,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1754,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2270,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2270,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2270,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2270,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2285,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2296,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2296,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2296,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2296,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2301,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2301,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2301,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2670,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2789,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2789,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2843,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2843,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2941,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+3061,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3061,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3888,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3888,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3888,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3888,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4071,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4175,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4308,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+4308,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+4308,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+4308,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+4308,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+4322,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+4322,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+4323,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+4323,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+4323,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+118,179,IFSC Climbing World Championships - Paris (FRA) 2016
+317,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+317,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+317,179,IFSC Climbing World Championships - Paris (FRA) 2016
+318,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+318,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+320,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+320,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+320,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+320,179,IFSC Climbing World Championships - Paris (FRA) 2016
+320,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+516,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+516,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+519,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+519,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+538,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+538,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+539,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+539,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+539,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+539,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+649,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+649,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+649,179,IFSC Climbing World Championships - Paris (FRA) 2016
+649,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+653,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+788,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+788,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+788,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+788,179,IFSC Climbing World Championships - Paris (FRA) 2016
+792,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+792,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+891,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+891,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+891,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+891,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+891,179,IFSC Climbing World Championships - Paris (FRA) 2016
+893,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+948,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1136,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1136,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1136,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1136,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1138,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1143,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1147,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1147,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1147,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1147,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1147,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1147,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1147,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1147,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1148,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1368,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1368,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1368,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1368,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1368,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1368,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1368,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1413,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1413,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1586,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1586,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1586,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1586,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1586,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1586,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1592,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1772,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1772,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2218,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2288,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2304,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2304,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2305,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2324,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2324,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2324,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2324,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2324,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2332,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2332,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2332,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2332,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2488,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2488,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2488,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2488,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2488,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2488,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2490,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2490,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2490,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2671,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2671,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2671,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2671,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2851,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2851,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2946,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2957,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2958,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+3062,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3062,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+3062,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3062,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3066,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3131,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+3131,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3586,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3586,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+3865,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3865,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4251,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+4251,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+4251,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+4251,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+4299,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+4299,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+4299,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+4299,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+4299,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+4299,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4299,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+4301,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+4301,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+79,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+85,179,IFSC Climbing World Championships - Paris (FRA) 2016
+89,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+115,179,IFSC Climbing World Championships - Paris (FRA) 2016
+138,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+144,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+144,179,IFSC Climbing World Championships - Paris (FRA) 2016
+147,179,IFSC Climbing World Championships - Paris (FRA) 2016
+172,179,IFSC Climbing World Championships - Paris (FRA) 2016
+484,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+484,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+490,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+490,179,IFSC Climbing World Championships - Paris (FRA) 2016
+505,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+530,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+530,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+530,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+530,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+530,179,IFSC Climbing World Championships - Paris (FRA) 2016
+530,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+800,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+800,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+800,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+800,179,IFSC Climbing World Championships - Paris (FRA) 2016
+816,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+857,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+877,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+883,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+884,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+884,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+884,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+884,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+884,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+884,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+895,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+895,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+895,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+895,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+905,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+911,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+912,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+951,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+951,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+951,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+977,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+977,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+977,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+977,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+977,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+977,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+979,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+979,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+979,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+979,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+979,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+979,179,IFSC Climbing World Championships - Paris (FRA) 2016
+979,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+979,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+1054,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1054,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1054,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1054,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1054,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1054,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1149,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1153,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1161,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1235,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1235,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1235,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1249,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1249,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1251,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1251,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1267,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1380,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1382,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1389,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1389,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1397,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1397,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1397,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1397,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1397,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1429,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1429,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1429,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1429,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1502,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1502,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1502,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1502,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1570,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1570,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1570,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1577,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1577,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1577,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1625,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1625,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1625,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1625,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1626,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1627,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1627,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1719,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1736,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1741,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1741,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1741,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1741,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1741,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1741,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1741,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1744,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1753,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1758,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1759,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+1759,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+1759,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+1759,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1762,179,IFSC Climbing World Championships - Paris (FRA) 2016
+1842,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+1842,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+1852,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+1852,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2019,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2054,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2057,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2066,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2068,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2217,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2217,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2223,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2226,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2278,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2278,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2302,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2302,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2306,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2306,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2307,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2307,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2307,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2307,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2347,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2349,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2351,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2351,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2422,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2423,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2428,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2493,127,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016"
+2493,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+2493,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2493,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2493,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2493,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2507,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2507,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2507,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2685,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+2687,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2726,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2731,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2763,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2763,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2790,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+2790,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+2939,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2947,179,IFSC Climbing World Championships - Paris (FRA) 2016
+2947,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+2947,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2974,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2988,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+2989,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+3186,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3188,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3606,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3790,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3858,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+3858,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3893,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+3901,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3903,179,IFSC Climbing World Championships - Paris (FRA) 2016
+3989,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+3989,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4057,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4064,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4065,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4077,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4079,179,IFSC Climbing World Championships - Paris (FRA) 2016
+4285,117,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016"
+4285,129,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016
+4285,122,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 
+4285,128,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016"
+4285,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016
+4336,65,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016"
+4397,179,IFSC Climbing World Championships - Paris (FRA) 2016

@@ -44,83 +44,83 @@ General:
 NBA:
   probabilities_win_loss_tie: [0.5, 0.5, 0]
   points_for_win_loss_tie: [2, 0, 0]
-  schedule_directory: "prepared_data/schedules/NBA"
-  prepared_data_path: "prepared_data/NBA_data.parquet"
+  schedule_directory: "data/prepared_data/schedules/NBA"
+  prepared_data_path: "data/prepared_data/NBA_data.parquet"
   results_path: "results/NBA.parquet"
 
 NFL:
   probabilities_win_loss_tie: [0.5, 0.5, 0]
   points_for_win_loss_tie: [1, 0, 0.5]
-  schedule_directory: "prepared_data/schedules/NFL"
-  prepared_data_path: "prepared_data/NFL_data.parquet"
+  schedule_directory: "data/prepared_data/schedules/NFL"
+  prepared_data_path: "data/prepared_data/NFL_data.parquet"
   results_path: "results/NFL.parquet"
 
 NHL:
   probabilities_win_loss_tie: [0.5, 0.5, 0]
   points_for_win_loss_tie: [2, 0, 1]
-  schedule_directory: "prepared_data/schedules/NHL"
-  prepared_data_path: "prepared_data/NHL_data.parquet"
+  schedule_directory: "data/prepared_data/schedules/NHL"
+  prepared_data_path: "data/prepared_data/NHL_data.parquet"
   results_path: "results/NHL.parquet"
 
 MLS:
   probabilities_win_loss_tie: [0.5, 0.5, 0]
   points_for_win_loss_tie: [3, 0, 1]
-  schedule_directory: "prepared_data/schedules/MLS"
-  prepared_data_path: "prepared_data/MLS_data.parquet"
+  schedule_directory: "data/prepared_data/schedules/MLS"
+  prepared_data_path: "data/prepared_data/MLS_data.parquet"
   results_path: "results/MLS.parquet"
 
 MLB:
   probabilities_win_loss_tie: [0.5, 0.5, 0.0]
   points_for_win_loss_tie: [1, 0, 0]
-  schedule_directory: "prepared_data/schedules/MLB"
-  prepared_data_path: "prepared_data/MLB_data.parquet"
+  schedule_directory: "data/prepared_data/schedules/MLB"
+  prepared_data_path: "data/prepared_data/MLB_data.parquet"
   results_path: "results/MLB.parquet"
 
 PML:
   probabilities_win_loss_tie: [0.5, 0.5, 0]
   points_for_win_loss_tie: [3, 0, 1]
-  schedule_directory: "prepared_data/schedules/20_teams_football_league"
-  prepared_data_path: "prepared_data/PML_data.parquet"
+  schedule_directory: "data/prepared_data/schedules/20_teams_football_league"
+  prepared_data_path: "data/prepared_data/PML_data.parquet"
   results_path: "results/PML.parquet"
 
 LaLiga:
   probabilities_win_loss_tie: [0.5, 0.5, 0]
   points_for_win_loss_tie: [3, 0, 1]
-  schedule_directory: "prepared_data/schedules/20_teams_football_league"
-  prepared_data_path: "prepared_data/LaLiga_data.parquet"
+  schedule_directory: "data/prepared_data/schedules/20_teams_football_league"
+  prepared_data_path: "data/prepared_data/LaLiga_data.parquet"
   results_path: "results/LaLiga.parquet"
 
 Bundesliga:
   probabilities_win_loss_tie: [0.5, 0.5, 0]
   points_for_win_loss_tie: [3, 0, 1]
-  schedule_directory: "prepared_data/schedules/18_teams_football_league"
-  prepared_data_path: "prepared_data/Bundesliga_data.parquet"
+  schedule_directory: "data/prepared_data/schedules/18_teams_football_league"
+  prepared_data_path: "data/prepared_data/Bundesliga_data.parquet"
   results_path: "results/Bundesliga.parquet"
 
 Ligue1:
   probabilities_win_loss_tie: [0.5, 0.5, 0]
   points_for_win_loss_tie: [3, 0, 1]
-  schedule_directory: "prepared_data/schedules/20_teams_football_league"
-  prepared_data_path: "prepared_data/Ligue1_data.parquet"
+  schedule_directory: "data/prepared_data/schedules/20_teams_football_league"
+  prepared_data_path: "data/prepared_data/Ligue1_data.parquet"
   results_path: "results/Ligue1.parquet"
 
 SerieA:
   probabilities_win_loss_tie: [0.5, 0.5, 0]
   points_for_win_loss_tie: [3, 0, 1]
-  schedule_directory: "prepared_data/schedules/20_teams_football_league"
-  prepared_data_path: "prepared_data/SerieA_data.parquet"
+  schedule_directory: "data/prepared_data/schedules/20_teams_football_league"
+  prepared_data_path: "data/prepared_data/SerieA_data.parquet"
   results_path: "results/SerieA.parquet"
 
 Climbing:
   probabilities_win_loss_tie: [0.5, 0, 0]
   points_for_win_loss_tie: [1, 0, 0]
-  schedule_directory: "prepared_data/schedules/climbing"
-  prepared_data_path: "prepared_data/climbing.parquet"
+  schedule_directory: "data/prepared_data/schedules/climbing"
+  prepared_data_path: "data/prepared_data/climbing.parquet"
   results_path: "results/Climbing.parquet"
 
 Bouldering:
   probabilities_win_loss_tie: [0.5, 0, 0]
   points_for_win_loss_tie: [1, 0, 0]
-  schedule_directory: "prepared_data/schedules/bouldering"
-  prepared_data_path: "prepared_data/bouldering.parquet"
+  schedule_directory: "data/prepared_data/schedules/bouldering"
+  prepared_data_path: "data/prepared_data/bouldering.parquet"
   results_path: "results/Bouldering.parquet"

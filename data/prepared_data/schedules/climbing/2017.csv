@@ -1,0 +1,900 @@
+athlete_id,total_starter,name
+49,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+60,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+61,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+61,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+437,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+437,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+437,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+437,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+437,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+437,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+437,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+437,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+451,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+451,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+773,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+773,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+773,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+773,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+775,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+848,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+848,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+848,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1122,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1122,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1122,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1122,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1122,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1122,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1122,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1122,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1124,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1124,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1124,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1124,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1214,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1214,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1214,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2035,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2035,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2035,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2035,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2035,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2035,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2035,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2035,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2139,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2139,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2253,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2253,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2253,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3059,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3136,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3136,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3136,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3198,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3577,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3577,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+68,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+68,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+68,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+68,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+68,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+80,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1216,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1216,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1216,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1216,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1559,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1559,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1560,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1560,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2931,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2931,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+3422,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3422,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3422,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+3422,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+3422,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+3422,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3422,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3422,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+69,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+69,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+73,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+73,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+73,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+455,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+455,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+455,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+455,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+455,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+854,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+854,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+854,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+854,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+854,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+854,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+854,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+854,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+855,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+855,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+855,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+855,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+855,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+855,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+855,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+855,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1221,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1221,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1221,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1221,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1221,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1221,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1221,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1221,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1364,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2574,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2574,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3130,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3130,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3130,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+3130,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3130,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3130,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+312,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+312,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+312,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+312,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+456,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+456,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+456,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+456,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+456,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+456,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+456,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+456,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1129,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1129,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1129,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1129,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1129,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1129,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1129,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1129,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1222,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1222,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1222,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1224,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1224,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1224,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1224,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1224,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1224,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1367,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1367,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1367,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1367,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1367,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2045,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2046,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2046,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2046,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2046,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2047,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2214,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2261,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2261,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2261,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2261,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2261,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2261,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2261,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2261,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2267,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2267,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2267,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2267,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2267,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2267,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2267,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2267,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2936,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2936,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+3060,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3060,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3060,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+3060,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+3060,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+3060,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3060,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3060,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3897,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3897,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3897,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+93,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+314,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+314,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+314,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+314,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+314,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+314,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+314,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+461,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+461,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+461,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+634,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+634,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+776,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+776,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+776,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+776,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+776,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+776,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+776,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+864,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+864,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+864,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+864,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+864,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+864,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+864,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1130,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1565,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1565,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1576,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1576,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1576,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1576,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1576,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1576,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1576,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1713,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1713,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1713,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1713,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1723,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1724,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1724,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1726,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1726,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2014,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2014,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2014,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2014,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2014,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2014,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2014,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2014,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2141,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2141,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+3111,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3111,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3111,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+3111,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3111,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3125,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3125,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3125,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3125,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3209,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3261,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3261,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3272,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3272,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3467,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+315,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+315,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+315,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+315,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+315,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+315,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+315,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+315,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+316,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+316,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+463,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+463,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+463,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+463,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+463,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+463,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+463,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+463,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+466,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+466,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+466,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+466,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+466,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+466,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+466,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+466,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+467,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+467,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+467,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+467,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+467,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+467,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+467,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+859,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+860,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+860,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+860,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+860,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+860,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+860,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+860,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+860,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1135,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1135,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1135,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1135,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1135,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1139,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1139,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1139,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1226,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1226,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1226,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1226,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1226,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1226,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1226,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1226,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1486,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1486,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1486,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1486,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1486,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1486,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1750,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2041,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2041,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2041,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2041,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2041,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2041,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2041,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2041,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2042,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2042,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2264,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2264,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2272,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2272,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2272,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2272,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2272,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2273,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2273,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2273,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2273,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2273,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2273,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2273,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2273,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2276,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2276,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2276,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2761,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3036,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3273,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3273,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3889,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3889,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3889,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+3889,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+3889,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+3889,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3889,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+88,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+88,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+99,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+99,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+642,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+642,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+642,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+642,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+642,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+642,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1369,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1566,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2051,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2052,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2052,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2052,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2055,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2055,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2055,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2271,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2271,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2271,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2277,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2277,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2277,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2277,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2277,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2289,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2289,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2294,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2666,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2666,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2666,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2667,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2667,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2667,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2667,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2667,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2667,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2667,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2667,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3110,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3110,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3112,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3112,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3112,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3159,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3203,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3203,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3248,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3426,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3426,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3426,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+3426,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3426,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3426,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3427,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3427,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3427,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3427,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3984,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3984,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3984,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+3984,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+3984,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+87,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+103,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+103,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+103,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+103,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+321,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+321,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+321,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+321,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+328,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+328,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+457,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+457,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+457,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+468,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+468,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+648,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+648,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+648,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1134,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1134,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1134,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1134,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1232,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1232,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1232,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1232,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1232,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1232,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1232,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1232,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1234,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1234,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1234,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1239,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1239,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1239,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1239,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1239,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1239,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1264,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1264,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1264,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1264,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1489,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1489,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1489,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1489,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1489,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1489,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1489,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1751,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1754,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1776,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1776,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2285,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2285,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2285,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2286,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2286,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2286,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2286,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2286,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2286,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2286,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2301,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2301,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2301,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2301,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2301,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2670,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2843,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3061,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3126,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3840,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3888,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3888,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3983,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+4308,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+118,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+318,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+318,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+318,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+318,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+318,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+320,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+320,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+320,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+516,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+519,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+519,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+519,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+538,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+538,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+538,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+539,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+539,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+649,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+649,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+649,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+649,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+653,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+653,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+653,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+786,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+788,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+788,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+788,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+797,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+797,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+797,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+869,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+893,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+893,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+948,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1136,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1138,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1143,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1147,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1147,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1147,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1147,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1147,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1147,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1147,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1147,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1148,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1148,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1368,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1368,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1368,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1592,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1592,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1592,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1592,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1772,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1772,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2056,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2056,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2056,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2056,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2056,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2218,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2488,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2488,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2488,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2488,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2490,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2490,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2490,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2671,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2671,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2671,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2840,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2840,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2840,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2840,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2840,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2840,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2840,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2851,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2851,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2957,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2957,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+3064,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3066,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3109,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3131,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3131,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3131,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+4251,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+4299,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+4299,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+4301,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+4301,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+4301,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+79,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+79,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+85,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+85,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+144,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+147,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+147,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+172,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+172,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+172,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+172,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+530,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+530,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+530,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+530,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+530,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+800,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+800,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+816,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+816,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+884,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+905,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+912,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+977,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+979,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+979,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+979,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+979,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+979,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+979,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+979,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1054,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1149,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1153,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1153,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1153,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1153,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1161,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1161,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1161,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1161,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1161,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1161,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1249,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1249,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1251,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1389,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1389,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1389,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1389,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1397,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1397,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1429,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1502,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1502,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1502,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1502,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1502,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1502,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1577,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1577,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1577,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1741,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1741,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1741,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1741,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1741,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1753,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1753,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1753,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1758,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1759,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1759,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1759,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2019,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2019,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2057,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2057,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2057,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2057,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2068,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2068,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2217,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2217,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2223,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2223,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2226,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2278,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2278,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2278,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2307,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2347,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2493,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2493,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2493,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2493,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2493,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2685,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2790,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2947,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2947,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2947,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2947,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3903,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3903,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3903,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3989,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3989,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3989,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+55,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+74,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+109,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+113,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+148,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+148,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+165,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+340,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+340,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+470,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+475,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+475,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+475,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+506,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+517,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+531,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+531,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+532,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+532,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+543,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+563,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+575,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+586,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+586,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+593,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+636,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+645,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+651,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+654,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+668,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+669,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+669,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+669,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+678,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+679,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+680,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+681,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+682,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+682,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+684,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+685,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+688,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+697,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+698,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+724,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+802,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+914,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+928,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+928,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+928,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+928,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+930,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1055,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1055,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1155,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1160,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1164,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1164,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1165,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1170,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1256,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1256,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1259,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1385,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1385,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1385,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1385,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1396,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1396,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1396,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1396,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1401,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1401,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1401,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1505,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+1514,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1523,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1575,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1583,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1593,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1617,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1619,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1634,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1639,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1639,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1641,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1642,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1708,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1708,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1708,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1728,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1739,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1749,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1766,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1787,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1803,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1809,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1811,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1811,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1811,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+1812,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1812,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1812,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+1812,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+1813,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1869,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1869,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1869,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1894,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+1894,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1899,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+1900,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+1901,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+1901,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2017,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2104,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2106,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2227,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2232,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2265,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2309,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2309,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2309,63,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017"
+2309,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+2325,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+2325,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2325,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2386,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2386,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2386,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2504,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2504,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2504,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2677,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2680,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2693,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2795,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2842,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+2842,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+2954,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2954,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+2970,66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017"
+2970,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+2970,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3065,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3067,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3069,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3084,126,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017
+3113,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3122,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3123,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+3141,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3147,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3161,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3163,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3164,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3165,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3211,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3218,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3219,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3220,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3222,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3226,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3228,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3229,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3280,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+3280,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+3776,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+3911,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+3991,157,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 "
+4003,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+4003,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
+4003,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+4180,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+4290,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+4290,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+4305,135,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017"
+4305,146,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017
+4328,93,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017"
+4328,113,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017
