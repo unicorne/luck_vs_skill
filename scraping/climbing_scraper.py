@@ -4,10 +4,11 @@ https://www.ifsc-climbing.org/index.php/world-competition/last-result
 """
 
 
-import requests
-import pandas as pd
-import tqdm
 import time
+
+import pandas as pd
+import requests
+import tqdm
 
 EVENT_URL = (
     "https://components.ifsc-climbing.org/results-api.php?api=event_results&event_id={}"

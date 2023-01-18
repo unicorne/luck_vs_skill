@@ -1,7 +1,9 @@
 import urllib.request
-from html_table_parser.parser import HTMLTableParser
-import pandas as pd
+
 import numpy as np
+import pandas as pd
+from html_table_parser.parser import HTMLTableParser
+
 
 # Opens a website and read its
 # binary contents (HTTP Response Body)

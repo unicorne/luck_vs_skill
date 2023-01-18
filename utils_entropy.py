@@ -1,9 +1,11 @@
-import pandas as pd
-import numpy as np
 import os
 from collections import Counter
-from simulation_utils import simulate_league_multiple_times
+
+import numpy as np
+import pandas as pd
 from scipy.stats import entropy
+
+from simulation_utils import simulate_league_multiple_times
 from utils import load_yaml
 
 

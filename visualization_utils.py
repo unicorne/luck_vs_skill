@@ -1,6 +1,6 @@
-import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 
 
 def plot_points_as_histogramm(points, title, figsize=(12, 6), stepsize=2):

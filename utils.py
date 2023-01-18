@@ -1,14 +1,12 @@
-import pandas as pd
-import numpy as np
 import os
+
+import numpy as np
+import pandas as pd
 import yaml
 from sklearn.preprocessing import MinMaxScaler
 
-from simulation_utils import (
-    simulate_league,
-    simulate_league_multiple_times,
-    calculate_variance_of_simulated_leagues,
-)
+from simulation_utils import (calculate_variance_of_simulated_leagues,
+                              simulate_league, simulate_league_multiple_times)
 
 
 def load_yaml():

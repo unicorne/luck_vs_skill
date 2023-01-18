@@ -1,10 +1,11 @@
 """
 This python file scrapes the GosuGamers website for League of Legends, Dota2 and CounterStrike Global Offensive results.    
 """
-import requests
-import pandas as pd
-import tqdm
 import time
+
+import pandas as pd
+import requests
+import tqdm
 from bs4 import BeautifulSoup
 
 CSGO_URL = "https://www.gosugamers.net/counterstrike/matches/list/results?maxResults=100&page={}"
