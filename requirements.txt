@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 html_table_parser3
 lxml
 pyyaml
@@ -8,10 +8,10 @@ scitkit-learn
 urllib3
 scipy
 pyarrow
-=======
 pandas 
 numpy
 requests
 matplotlib 
 seaborn
->>>>>>> eba01c0c857cf19fecf24e09954cc37cb24f04fa
+jupyter
+
