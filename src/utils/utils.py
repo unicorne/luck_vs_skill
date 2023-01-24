@@ -67,6 +67,7 @@ def preprocess_observed_data(file_path, points_for_win_loss_tie):
     df["Variance_observed_scaled"] = df["Points_scaled"].apply(lambda x: np.var(x))
     df["Variance_observed"] = df["Points"].apply(lambda x: np.var(x))
     df["#Teams"] = df["Teams"].apply(lambda x: len(x))
+
     return df
 
 
