@@ -9,6 +9,8 @@ In order to estimate the luck contribution run `Variance_method.ipynb`.
 
 The preprocessing is already done. The results are scraped in `data/data_preparation/scraping_standings`. The schedules are scraped in `data/data_preparation/scraping_schedules`. Some preparation is done in `data/data_preparation/preparation`. The data needed for `Variance_method.ipynb` for each league is in `data/prepared_data`. The schedules for each league and year available are in `data/prepared_data/schedules`.
 
-Config data for each league can be found in `config.yaml`
+Config data for each league can be found in `config.yaml`.
+
+The `Luck_vs_skill_report.pdf` contains more information about the theory behind this process.
 
 ![Workflow overview](img/Workflow.png "Workflow overview")
