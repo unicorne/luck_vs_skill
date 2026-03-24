@@ -1,0 +1,2583 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Luck vs. Skill — A Statistical Analysis of Sports</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   CSS CUSTOM PROPERTIES — Color System (Juxtopposed style)
+   Deep indigo dark mode, gold (skill) ↔ cyan (luck) spectrum
+   ============================================================ */
+:root {
+  /* Background layers — NOT pure black, tinted with deep indigo */
+  --bg-0: #06070e;
+  --bg-1: #0b0d1a;
+  --bg-2: #111425;
+  --bg-3: #171b30;
+  --bg-4: #1e2340;
+
+  /* Text hierarchy — NOT pure white */
+  --text-primary: #e8ecf4;
+  --text-secondary: #9ba4b8;
+  --text-tertiary: #5e6580;
+
+  /* Spectrum colors */
+  --skill-color: #f5a623;
+  --skill-glow: #f5a62355;
+  --luck-color: #22d3ee;
+  --luck-glow: #22d3ee55;
+
+  /* Accent */
+  --accent-500: #8b5cf6;
+  --accent-400: #a78bfa;
+  --accent-300: #c4b5fd;
+
+  /* Semantic */
+  --success: #34d399;
+  --warning: #fbbf24;
+  --danger: #f87171;
+
+  /* Borders — subtle, not harsh */
+  --border: rgba(255,255,255,0.06);
+  --border-hover: rgba(255,255,255,0.12);
+
+  /* Spacing */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+  --space-4xl: 96px;
+
+  /* Typography */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Easing — NEVER linear */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-back: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-spring: cubic-bezier(0.37, 1.61, 0.58, 0.87);
+}
+
+/* ============================================================
+   RESET & BASE
+   ============================================================ */
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--bg-0);
+  color: var(--text-primary);
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: var(--accent-500);
+  color: white;
+}
+
+/* ============================================================
+   CANVAS BACKGROUND — Particle system
+   ============================================================ */
+#bg-canvas {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* ============================================================
+   LAYOUT
+   ============================================================ */
+.section {
+  position: relative;
+  z-index: 1;
+  padding: var(--space-4xl) var(--space-xl);
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section-full {
+  max-width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* ============================================================
+   SCROLL ANIMATIONS
+   ============================================================ */
+.reveal {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: opacity 0.8s var(--ease-out-expo), transform 0.8s var(--ease-out-expo);
+}
+
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.reveal-delay-1 { transition-delay: 0.1s; }
+.reveal-delay-2 { transition-delay: 0.2s; }
+.reveal-delay-3 { transition-delay: 0.3s; }
+.reveal-delay-4 { transition-delay: 0.4s; }
+.reveal-delay-5 { transition-delay: 0.5s; }
+
+/* ============================================================
+   TYPOGRAPHY — Tightened headers per style guide
+   ============================================================ */
+h1, h2, h3 {
+  letter-spacing: -0.03em;
+  line-height: 1.12;
+  font-weight: 800;
+}
+
+h1 { font-size: clamp(3rem, 8vw, 7rem); }
+h2 { font-size: clamp(1.8rem, 4vw, 3rem); margin-bottom: var(--space-lg); }
+h3 { font-size: clamp(1.2rem, 2vw, 1.5rem); font-weight: 700; }
+
+p {
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+  max-width: 640px;
+}
+
+.label {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+}
+
+/* ============================================================
+   HERO SECTION
+   ============================================================ */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  padding: var(--space-xl);
+}
+
+.hero-title {
+  position: relative;
+  display: inline-block;
+}
+
+.hero-title .word-luck {
+  background: linear-gradient(135deg, var(--luck-color), #67e8f9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-title .word-skill {
+  background: linear-gradient(135deg, var(--skill-color), #fcd34d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-title .word-vs {
+  font-weight: 400;
+  font-size: 0.5em;
+  color: var(--text-tertiary);
+  -webkit-text-fill-color: var(--text-tertiary);
+  vertical-align: middle;
+  margin: 0 0.15em;
+}
+
+.hero-subtitle {
+  font-size: clamp(1rem, 2vw, 1.3rem);
+  color: var(--text-secondary);
+  margin-top: var(--space-lg);
+  font-weight: 400;
+  max-width: 600px;
+  opacity: 0;
+  animation: fadeUp 1s var(--ease-out-expo) 0.6s forwards;
+}
+
+.hero-meta {
+  margin-top: var(--space-2xl);
+  display: flex;
+  gap: var(--space-xl);
+  opacity: 0;
+  animation: fadeUp 1s var(--ease-out-expo) 0.9s forwards;
+}
+
+.hero-meta-item {
+  text-align: center;
+}
+
+.hero-meta-value {
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  background: linear-gradient(135deg, var(--skill-color), var(--luck-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-meta-label {
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-top: 4px;
+}
+
+.scroll-indicator {
+  position: absolute;
+  bottom: var(--space-2xl);
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-sm);
+  opacity: 0;
+  animation: fadeUp 1s var(--ease-out-expo) 1.2s forwards;
+}
+
+.scroll-indicator .line {
+  width: 1px;
+  height: 40px;
+  background: linear-gradient(to bottom, var(--text-tertiary), transparent);
+  animation: scrollPulse 2s ease-in-out infinite;
+}
+
+@keyframes scrollPulse {
+  0%, 100% { opacity: 0.3; transform: scaleY(0.6); }
+  50% { opacity: 1; transform: scaleY(1); }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.hero-title {
+  opacity: 0;
+  animation: heroReveal 1.2s var(--ease-out-expo) 0.1s forwards;
+}
+
+@keyframes heroReveal {
+  from { opacity: 0; transform: translateY(60px) scale(0.95); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Glow orbs behind hero text */
+.hero-glow {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(120px);
+  pointer-events: none;
+  z-index: -1;
+}
+
+.hero-glow.skill {
+  width: 400px; height: 400px;
+  background: var(--skill-glow);
+  top: 30%; left: 15%;
+  animation: glowFloat 8s ease-in-out infinite;
+}
+
+.hero-glow.luck {
+  width: 350px; height: 350px;
+  background: var(--luck-glow);
+  top: 25%; right: 15%;
+  animation: glowFloat 8s ease-in-out infinite reverse;
+}
+
+@keyframes glowFloat {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(20px, -30px) scale(1.1); }
+  66% { transform: translate(-15px, 20px) scale(0.9); }
+}
+
+/* ============================================================
+   QUESTION SECTION
+   ============================================================ */
+.question-section {
+  text-align: center;
+  padding: var(--space-4xl) var(--space-xl);
+}
+
+.question-text {
+  font-size: clamp(1.5rem, 3.5vw, 2.5rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+  max-width: 800px;
+  margin: 0 auto;
+  color: var(--text-primary);
+}
+
+.question-text em {
+  font-style: normal;
+  background: linear-gradient(135deg, var(--skill-color), var(--luck-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ============================================================
+   THE SPECTRUM — Main interactive visualization
+   ============================================================ */
+.spectrum-section {
+  padding: var(--space-4xl) 0;
+}
+
+.spectrum-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 var(--space-xl);
+}
+
+.spectrum-header {
+  text-align: center;
+  margin-bottom: var(--space-4xl);
+}
+
+.spectrum-track-wrapper {
+  position: relative;
+  padding: 80px 40px 120px;
+}
+
+.spectrum-track {
+  position: relative;
+  height: 6px;
+  background: linear-gradient(to right, var(--skill-color), var(--accent-500), var(--luck-color));
+  border-radius: 3px;
+  box-shadow:
+    0 0 20px var(--skill-glow),
+    0 0 20px var(--luck-glow);
+  overflow: visible;
+}
+
+/* Shimmer stays inside via clip on a wrapper */
+.spectrum-shimmer-clip {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  border-radius: 3px;
+}
+
+/* Animated shimmer on spectrum track */
+.spectrum-shimmer {
+  position: absolute;
+  top: -2px;
+  left: -100%;
+  width: 60%;
+  height: calc(100% + 4px);
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.25), transparent);
+  border-radius: 3px;
+  animation: shimmer 4s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+
+@keyframes shimmer {
+  0% { left: -60%; }
+  100% { left: 160%; }
+}
+
+.spectrum-end-label {
+  position: absolute;
+  top: 16px;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.spectrum-end-label.left {
+  left: 0;
+  color: var(--skill-color);
+}
+
+.spectrum-end-label.right {
+  right: 0;
+  color: var(--luck-color);
+}
+
+/* Section dividers — subtle gradient line */
+.section-divider {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--border-hover), transparent);
+}
+
+/* Labels via JS instead to avoid ::before/::after conflict */
+
+/* Scale markers */
+.spectrum-scale {
+  position: absolute;
+  bottom: -50px;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.spectrum-scale span {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--text-tertiary);
+}
+
+/* League nodes on the spectrum */
+.league-node {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  z-index: 2;
+  transition: z-index 0s;
+}
+
+.league-node:hover {
+  z-index: 10;
+}
+
+.league-dot {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2.5px solid;
+  background: var(--bg-1);
+  transition: all 0.4s var(--ease-out-expo);
+  position: relative;
+}
+
+.league-dot::after {
+  content: '';
+  position: absolute;
+  inset: -6px;
+  border-radius: 50%;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.league-node:hover .league-dot {
+  transform: scale(1.5);
+  box-shadow: 0 0 24px var(--node-color);
+}
+
+.league-node:hover .league-dot::after {
+  opacity: 0.3;
+  background: var(--node-color);
+}
+
+.league-label {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  transition: all 0.4s var(--ease-out-expo);
+  pointer-events: none;
+}
+
+.league-label.above {
+  bottom: calc(100% + 12px);
+}
+
+.league-label.below {
+  top: calc(100% + 12px);
+}
+
+.league-pct {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--text-tertiary);
+  opacity: 0;
+  transition: all 0.3s var(--ease-out-expo);
+  white-space: nowrap;
+}
+
+.league-pct.above { bottom: calc(100% + 28px); }
+.league-pct.below { top: calc(100% + 28px); }
+
+.league-node:hover .league-pct { opacity: 1; }
+.league-node:hover .league-label { transform: translateX(-50%) scale(1.1); }
+
+/* Tooltip card */
+.spectrum-tooltip {
+  position: fixed;
+  z-index: 100;
+  padding: var(--space-md) var(--space-lg);
+  background: var(--bg-3);
+  border: 1px solid var(--border-hover);
+  border-radius: 12px;
+  backdrop-filter: blur(20px);
+  pointer-events: none;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.25s ease, transform 0.25s var(--ease-out-expo);
+  min-width: 220px;
+}
+
+.spectrum-tooltip.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.tooltip-league {
+  font-weight: 700;
+  font-size: 1rem;
+  margin-bottom: 8px;
+}
+
+.tooltip-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3px 0;
+  font-size: 0.82rem;
+}
+
+.tooltip-row .tl { color: var(--text-tertiary); }
+.tooltip-row .tv { font-weight: 600; font-family: var(--font-mono); font-size: 0.78rem; }
+
+.tooltip-bar-track {
+  height: 4px;
+  background: var(--bg-1);
+  border-radius: 2px;
+  margin-top: 8px;
+  overflow: hidden;
+}
+
+.tooltip-bar-fill {
+  height: 100%;
+  border-radius: 2px;
+  transition: width 0.5s var(--ease-out-expo);
+}
+
+/* Reference markers on spectrum */
+.ref-marker {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+
+.ref-line {
+  width: 1px;
+  height: 30px;
+  background: var(--text-tertiary);
+  opacity: 0.3;
+  margin: 0 auto;
+}
+
+.ref-label {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  color: var(--text-tertiary);
+  text-align: center;
+  white-space: nowrap;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: calc(100% + 8px);
+  opacity: 0.5;
+}
+
+/* ============================================================
+   METHODOLOGY — Visual equation explanation
+   ============================================================ */
+.method-section {
+  padding: var(--space-4xl) var(--space-xl);
+}
+
+.method-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-3xl);
+  max-width: 1100px;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.equation-card {
+  background: linear-gradient(135deg, var(--bg-2), var(--bg-3));
+  border: 1px solid var(--border-hover);
+  border-radius: 16px;
+  padding: var(--space-2xl);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.equation-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, rgba(139,92,246,0.4), transparent);
+}
+
+.equation {
+  font-family: var(--font-mono);
+  font-size: clamp(1.2rem, 2.5vw, 1.6rem);
+  color: var(--text-primary);
+  margin: var(--space-lg) 0;
+  letter-spacing: 0.02em;
+}
+
+.equation .eq-observed {
+  color: var(--text-primary);
+  font-weight: 700;
+}
+
+.equation .eq-skill {
+  color: var(--skill-color);
+  font-weight: 700;
+}
+
+.equation .eq-luck {
+  color: var(--luck-color);
+  font-weight: 700;
+}
+
+.equation .eq-op {
+  color: var(--text-tertiary);
+  margin: 0 0.3em;
+}
+
+.method-steps {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+}
+
+.method-step {
+  display: flex;
+  gap: var(--space-md);
+  align-items: flex-start;
+}
+
+.step-num {
+  width: 32px;
+  height: 32px;
+  min-width: 32px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.85rem;
+  font-family: var(--font-mono);
+}
+
+.step-text h3 {
+  font-size: 1rem;
+  margin-bottom: 4px;
+}
+
+.step-text p {
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+/* ============================================================
+   SIMULATION VISUALIZATION — Animated histogram
+   ============================================================ */
+.sim-section {
+  padding: var(--space-4xl) var(--space-xl);
+  text-align: center;
+}
+
+.sim-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.sim-comparison {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-2xl);
+  margin-top: var(--space-3xl);
+}
+
+.sim-chart {
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: var(--space-lg);
+  position: relative;
+  overflow: hidden;
+  transition: border-color 0.4s ease;
+}
+
+.sim-chart:hover {
+  border-color: var(--border-hover);
+}
+
+.sim-chart-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin-bottom: var(--space-sm);
+}
+
+.sim-chart-subtitle {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--text-tertiary);
+  margin-bottom: var(--space-lg);
+}
+
+.bar-chart {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 200px;
+  padding-top: var(--space-md);
+}
+
+.bar {
+  flex: 1;
+  border-radius: 3px 3px 0 0;
+  position: relative;
+  transition: height 1.2s var(--ease-out-expo), opacity 0.3s ease;
+  min-height: 2px;
+  cursor: pointer;
+}
+
+.bar:hover {
+  opacity: 0.8;
+  filter: brightness(1.2);
+}
+
+.bar .bar-tooltip {
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  white-space: nowrap;
+  background: var(--bg-4);
+  padding: 2px 6px;
+  border-radius: 4px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.bar:hover .bar-tooltip {
+  opacity: 1;
+}
+
+.bar-chart-axis {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6px;
+  padding: 0 2px;
+}
+
+.bar-chart-axis span {
+  font-family: var(--font-mono);
+  font-size: 0.55rem;
+  color: var(--text-tertiary);
+}
+
+/* League selector for sim */
+.sim-league-selector {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-sm);
+  margin-top: var(--space-2xl);
+}
+
+.sim-league-btn {
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.3s var(--ease-out-expo);
+}
+
+.sim-league-btn:hover {
+  border-color: var(--border-hover);
+  color: var(--text-primary);
+  transform: translateY(-1px);
+}
+
+.sim-league-btn.active {
+  background: var(--bg-4);
+  border-color: var(--accent-500);
+  color: var(--text-primary);
+}
+
+/* ============================================================
+   LEAGUE CARDS — Deep dive grid
+   ============================================================ */
+.cards-section {
+  padding: var(--space-4xl) var(--space-xl);
+}
+
+.cards-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.cards-header {
+  text-align: center;
+  margin-bottom: var(--space-3xl);
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--space-lg);
+}
+
+.league-card {
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: var(--space-lg);
+  transition: all 0.4s var(--ease-out-expo);
+  cursor: default;
+  position: relative;
+  overflow: hidden;
+}
+
+.league-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  border-radius: 16px 16px 0 0;
+  opacity: 0.7;
+}
+
+.league-card:hover {
+  border-color: var(--border-hover);
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.3);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: var(--space-md);
+}
+
+.card-sport-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+}
+
+.card-league-name {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.card-league-country {
+  font-size: 0.78rem;
+  color: var(--text-tertiary);
+  margin-top: 2px;
+}
+
+.card-luck-display {
+  text-align: right;
+}
+
+.card-luck-value {
+  font-size: 1.8rem;
+  font-weight: 800;
+  font-family: var(--font-mono);
+  letter-spacing: -0.03em;
+  line-height: 1;
+}
+
+.card-luck-label {
+  font-size: 0.65rem;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.card-bar {
+  height: 6px;
+  background: var(--bg-0);
+  border-radius: 3px;
+  margin: var(--space-md) 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.card-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 1.5s var(--ease-out-expo);
+  width: 0;
+}
+
+.card-bar-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.65rem;
+  color: var(--text-tertiary);
+  font-family: var(--font-mono);
+}
+
+.card-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-sm);
+  margin-top: var(--space-md);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--border);
+}
+
+.card-stat-label {
+  font-size: 0.7rem;
+  color: var(--text-tertiary);
+}
+
+.card-stat-value {
+  font-size: 0.88rem;
+  font-weight: 600;
+  font-family: var(--font-mono);
+}
+
+/* ============================================================
+   INSIGHTS — Why it matters
+   ============================================================ */
+.insights-section {
+  padding: var(--space-4xl) var(--space-xl);
+}
+
+.insights-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.insights-header {
+  text-align: center;
+  margin-bottom: var(--space-3xl);
+}
+
+.insight-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-lg);
+}
+
+.insight-card {
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: var(--space-xl);
+  transition: all 0.4s var(--ease-out-expo);
+}
+
+.insight-card:hover {
+  border-color: var(--border-hover);
+  transform: translateY(-2px);
+}
+
+.insight-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  margin-bottom: var(--space-md);
+}
+
+.insight-card h3 {
+  font-size: 1.05rem;
+  margin-bottom: var(--space-sm);
+}
+
+.insight-card p {
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+/* ============================================================
+   CONTEXT SPECTRUM — Extended with non-sport activities
+   ============================================================ */
+.context-section {
+  padding: var(--space-4xl) var(--space-xl);
+  text-align: center;
+}
+
+.context-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.context-spectrum {
+  position: relative;
+  margin: var(--space-3xl) 40px var(--space-4xl);
+  height: 300px;
+}
+
+.context-track {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(to right,
+    var(--skill-color) 0%,
+    var(--accent-500) 50%,
+    var(--luck-color) 100%
+  );
+  border-radius: 2px;
+  opacity: 0.5;
+}
+
+.context-item {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  transition: all 0.4s var(--ease-out-expo);
+  cursor: default;
+}
+
+.context-item:hover {
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
+.context-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  margin: 0 auto 8px;
+  border: 2px solid;
+  background: var(--bg-1);
+}
+
+.context-name {
+  font-size: 0.75rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.context-pct {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  color: var(--text-tertiary);
+  margin-top: 2px;
+}
+
+.context-item.above .context-name,
+.context-item.above .context-pct {
+  position: absolute;
+  bottom: calc(100%);
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.context-item.above .context-pct {
+  bottom: calc(100% + 16px);
+}
+
+/* ============================================================
+   CORRELATION CHART — Games vs Luck
+   ============================================================ */
+.correlation-section {
+  padding: var(--space-4xl) var(--space-xl);
+}
+
+.correlation-container {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.scatter-plot {
+  position: relative;
+  width: 100%;
+  height: 400px;
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  margin-top: var(--space-2xl);
+  overflow: hidden;
+}
+
+.scatter-axis-y {
+  position: absolute;
+  left: 60px;
+  top: 20px;
+  bottom: 50px;
+  width: 1px;
+  background: var(--border-hover);
+}
+
+.scatter-axis-x {
+  position: absolute;
+  left: 60px;
+  right: 20px;
+  bottom: 50px;
+  height: 1px;
+  background: var(--border-hover);
+}
+
+.scatter-label-y {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: rotate(-90deg) translateX(50%);
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--text-tertiary);
+  white-space: nowrap;
+}
+
+.scatter-label-x {
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--text-tertiary);
+}
+
+.scatter-point {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  transition: transform 0.6s var(--ease-out-back), box-shadow 0.3s ease;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.scatter-point.visible {
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.scatter-point:hover {
+  transform: translate(-50%, -50%) scale(1.5);
+  z-index: 10;
+}
+
+.scatter-point-label {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.6rem;
+  font-weight: 600;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.25s ease, transform 0.25s var(--ease-out-expo);
+  pointer-events: none;
+  background: var(--bg-4);
+  padding: 4px 8px;
+  border-radius: 6px;
+  line-height: 1.4;
+  text-align: center;
+  border: 1px solid var(--border-hover);
+  transform: translateX(-50%) translateY(4px);
+}
+
+.scatter-point:hover .scatter-point-label {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* Grid lines for scatter */
+.scatter-grid-line {
+  position: absolute;
+  background: var(--border);
+}
+
+.scatter-grid-line.h {
+  left: 60px;
+  right: 20px;
+  height: 1px;
+}
+
+.scatter-grid-line.v {
+  top: 20px;
+  bottom: 50px;
+  width: 1px;
+}
+
+.scatter-tick {
+  position: absolute;
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  color: var(--text-tertiary);
+}
+
+.scatter-tick.y-tick {
+  right: calc(100% - 55px);
+  transform: translateY(-50%);
+  text-align: right;
+}
+
+.scatter-tick.x-tick {
+  top: calc(100% - 45px);
+  transform: translateX(-50%);
+}
+
+/* Trend line */
+.trend-line {
+  position: absolute;
+  height: 2px;
+  background: var(--accent-400);
+  opacity: 0.4;
+  transform-origin: left center;
+  z-index: 1;
+}
+
+/* ============================================================
+   YEAR-BY-YEAR MINI CHARTS (sparklines in cards)
+   ============================================================ */
+.sparkline-container {
+  margin-top: var(--space-md);
+  height: 40px;
+  position: relative;
+}
+
+.sparkline {
+  width: 100%;
+  height: 100%;
+}
+
+.sparkline polyline {
+  fill: none;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.sparkline .area {
+  stroke: none;
+  opacity: 0.15;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.footer {
+  text-align: center;
+  padding: var(--space-3xl) var(--space-xl);
+  border-top: 1px solid var(--border);
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.footer p {
+  margin: 0 auto;
+  font-size: 0.82rem;
+}
+
+.footer a {
+  color: var(--accent-400);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer a:hover {
+  color: var(--accent-300);
+}
+
+.footer-authors {
+  margin-top: var(--space-sm);
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width: 768px) {
+  .method-grid { grid-template-columns: 1fr; }
+  .sim-comparison { grid-template-columns: 1fr; }
+  .insight-cards { grid-template-columns: 1fr; }
+  .cards-grid { grid-template-columns: 1fr; }
+  .hero-meta { flex-direction: column; gap: var(--space-md); }
+
+  .spectrum-track-wrapper { padding: 60px 20px 100px; }
+
+  .league-label { font-size: 0.6rem; }
+}
+
+/* ============================================================
+   NAV DOT INDICATORS
+   ============================================================ */
+.nav-dots {
+  position: fixed;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.nav-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--text-tertiary);
+  opacity: 0.3;
+  cursor: pointer;
+  transition: all 0.3s var(--ease-out-expo);
+  border: none;
+  padding: 0;
+}
+
+.nav-dot:hover {
+  opacity: 0.7;
+  transform: scale(1.3);
+}
+
+.nav-dot.active {
+  opacity: 1;
+  background: var(--accent-400);
+  transform: scale(1.3);
+}
+
+@media (max-width: 768px) {
+  .nav-dots { display: none; }
+}
+
+/* ============================================================
+   SCROLL PROGRESS BAR
+   ============================================================ */
+.scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: linear-gradient(to right, var(--skill-color), var(--accent-500), var(--luck-color));
+  z-index: 100;
+  width: 0%;
+  transition: width 0.1s linear;
+  border-radius: 0 2px 2px 0;
+}
+
+/* ============================================================
+   ANIMATED COUNTER
+   ============================================================ */
+.count-up {
+  display: inline-block;
+}
+
+/* ============================================================
+   ANIMATED GRADIENT BORDER — Used on key elements
+   ============================================================ */
+.gradient-border {
+  position: relative;
+}
+
+.gradient-border::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(
+    var(--gradient-angle, 0deg),
+    var(--skill-color),
+    var(--accent-500),
+    var(--luck-color),
+    var(--accent-500)
+  );
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  animation: rotateGradient 6s linear infinite;
+  opacity: 0.5;
+}
+
+@keyframes rotateGradient {
+  from { --gradient-angle: 0deg; }
+  to { --gradient-angle: 360deg; }
+}
+
+@property --gradient-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+/* ============================================================
+   FLOATING ICONS — Decorative sports elements
+   ============================================================ */
+.floating-icons {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.floating-icon {
+  position: absolute;
+  font-size: 2rem;
+  opacity: 0.06;
+  animation: floatIcon 20s ease-in-out infinite;
+}
+
+@keyframes floatIcon {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  25% { transform: translateY(-20px) rotate(5deg); }
+  50% { transform: translateY(-10px) rotate(-3deg); }
+  75% { transform: translateY(-25px) rotate(7deg); }
+}
+
+/* ============================================================
+   VARIANCE DECOMPOSITION VISUAL
+   ============================================================ */
+.variance-visual {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+  margin-top: var(--space-xl);
+  padding: var(--space-lg);
+  background: var(--bg-1);
+  border-radius: 12px;
+}
+
+.var-block {
+  flex: 1;
+  text-align: center;
+  padding: var(--space-md);
+  border-radius: 10px;
+  position: relative;
+}
+
+.var-block-label {
+  font-size: 0.7rem;
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 4px;
+}
+
+.var-block-value {
+  font-size: 1.5rem;
+  font-weight: 800;
+  font-family: var(--font-mono);
+}
+
+.var-equals {
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: var(--text-tertiary);
+}
+
+.var-plus {
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: var(--text-tertiary);
+}
+</style>
+</head>
+<body>
+
+<!-- Scroll progress bar -->
+<div class="scroll-progress" id="scrollProgress"></div>
+
+<!-- Particle background -->
+<canvas id="bg-canvas"></canvas>
+
+<!-- Navigation dots -->
+<nav class="nav-dots" id="navDots"></nav>
+
+<!-- Tooltip for spectrum -->
+<div class="spectrum-tooltip" id="spectrumTooltip">
+  <div class="tooltip-league" id="tooltipLeague"></div>
+  <div class="tooltip-row"><span class="tl">Luck contribution</span><span class="tv" id="tooltipLuck"></span></div>
+  <div class="tooltip-row"><span class="tl">Avg. teams</span><span class="tv" id="tooltipTeams"></span></div>
+  <div class="tooltip-row"><span class="tl">Seasons analyzed</span><span class="tv" id="tooltipSeasons"></span></div>
+  <div class="tooltip-row"><span class="tl">Observed variance</span><span class="tv" id="tooltipObsVar"></span></div>
+  <div class="tooltip-bar-track">
+    <div class="tooltip-bar-fill" id="tooltipBarFill"></div>
+  </div>
+</div>
+
+<!-- ============================================================
+     HERO
+     ============================================================ -->
+<section class="hero" id="sec-hero">
+  <div class="hero-glow skill"></div>
+  <div class="hero-glow luck"></div>
+  <div class="floating-icons">
+    <span class="floating-icon" style="top:12%;left:8%;animation-delay:-2s;font-size:2.5rem;">&#x1F3C0;</span>
+    <span class="floating-icon" style="top:25%;right:12%;animation-delay:-5s;font-size:1.8rem;">&#x26BD;</span>
+    <span class="floating-icon" style="bottom:30%;left:15%;animation-delay:-8s;font-size:2rem;">&#x26BE;</span>
+    <span class="floating-icon" style="top:60%;right:8%;animation-delay:-12s;font-size:2.2rem;">&#x1F3C8;</span>
+    <span class="floating-icon" style="bottom:15%;right:25%;animation-delay:-15s;font-size:1.6rem;">&#x1F3D2;</span>
+    <span class="floating-icon" style="top:15%;left:35%;animation-delay:-18s;font-size:1.4rem;">&#x1F3B2;</span>
+    <span class="floating-icon" style="bottom:25%;left:40%;animation-delay:-10s;font-size:1.8rem;">&#x1F3C6;</span>
+  </div>
+
+  <div class="label" style="margin-bottom: var(--space-md); opacity:0; animation: fadeUp 1s var(--ease-out-expo) 0s forwards;">A Statistical Analysis of Sports Performances</div>
+
+  <h1 class="hero-title">
+    <span class="word-luck">Luck</span><span class="word-vs">&thinsp;vs&thinsp;</span><span class="word-skill">Skill</span>
+  </h1>
+
+  <p class="hero-subtitle">
+    Using Classical Test Theory to quantify how much of winning is earned through skill — and how much is just random chance.
+  </p>
+
+  <div class="hero-meta">
+    <div class="hero-meta-item">
+      <div class="hero-meta-value count-up" data-target="10">0</div>
+      <div class="hero-meta-label">Leagues</div>
+    </div>
+    <div class="hero-meta-item">
+      <div class="hero-meta-value count-up" data-target="196">0</div>
+      <div class="hero-meta-label">Seasons</div>
+    </div>
+    <div class="hero-meta-item">
+      <div class="hero-meta-value count-up" data-target="19600">0</div>
+      <div class="hero-meta-label">Simulations</div>
+    </div>
+  </div>
+
+  <div class="scroll-indicator">
+    <span class="label" style="font-size: 0.6rem;">Scroll to explore</span>
+    <div class="line"></div>
+  </div>
+</section>
+
+<!-- ============================================================
+     THE QUESTION
+     ============================================================ -->
+<section class="section question-section" id="sec-question">
+  <p class="question-text reveal">
+    When a team wins a championship, how much of that victory was <em>earned through superior skill</em> — and how much was simply <em>the roll of the dice</em>?
+  </p>
+</section>
+
+<!-- ============================================================
+     THE SPECTRUM
+     ============================================================ -->
+<section class="section section-full spectrum-section" id="sec-spectrum">
+  <div class="spectrum-container">
+    <div class="spectrum-header reveal">
+      <div class="label" style="margin-bottom: var(--space-sm);">The Continuum</div>
+      <h2>Where Each League Falls</h2>
+      <p style="margin: 0 auto;">Every league sits somewhere between pure skill and pure luck. Hover over each to explore the data.</p>
+    </div>
+
+    <div class="spectrum-track-wrapper reveal reveal-delay-2" id="spectrumTrack">
+      <div class="spectrum-track">
+        <div class="spectrum-shimmer-clip"><div class="spectrum-shimmer"></div></div>
+        <span class="spectrum-end-label left">Pure Skill</span>
+        <span class="spectrum-end-label right">Pure Luck</span>
+        <div class="spectrum-scale">
+          <span>0%</span>
+          <span>25%</span>
+          <span>50%</span>
+          <span>75%</span>
+          <span>100%</span>
+        </div>
+      </div>
+      <!-- League nodes injected by JS -->
+    </div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- ============================================================
+     METHODOLOGY
+     ============================================================ -->
+<section class="section method-section" id="sec-method">
+  <div class="method-grid">
+    <div class="reveal">
+      <div class="label" style="margin-bottom: var(--space-sm);">Methodology</div>
+      <h2>Classical Test Theory</h2>
+      <p style="margin-bottom: var(--space-xl);">
+        We decompose every observed outcome into its constituent parts — the skill that teams bring and the luck that fate deals.
+      </p>
+
+      <div class="equation-card">
+        <div class="var-block-label" style="color: var(--text-tertiary);">The fundamental equation</div>
+        <div class="equation">
+          <span class="eq-observed">Observed</span>
+          <span class="eq-op">=</span>
+          <span class="eq-skill">Skill</span>
+          <span class="eq-op">+</span>
+          <span class="eq-luck">Luck</span>
+        </div>
+        <div class="variance-visual">
+          <div class="var-block" style="background: rgba(255,255,255,0.03);">
+            <div class="var-block-label" style="color: var(--text-secondary);">&#963;&sup2;<sub>obs</sub></div>
+            <div class="var-block-value" style="color: var(--text-primary);">8.69</div>
+          </div>
+          <div class="var-equals">=</div>
+          <div class="var-block" style="background: rgba(245,166,35,0.08);">
+            <div class="var-block-label" style="color: var(--skill-color);">&#963;&sup2;<sub>skill</sub></div>
+            <div class="var-block-value" style="color: var(--skill-color);">4.70</div>
+          </div>
+          <div class="var-plus">+</div>
+          <div class="var-block" style="background: rgba(34,211,238,0.08);">
+            <div class="var-block-label" style="color: var(--luck-color);">&#963;&sup2;<sub>luck</sub></div>
+            <div class="var-block-value" style="color: var(--luck-color);">3.99</div>
+          </div>
+        </div>
+        <div style="margin-top: var(--space-sm); font-size: 0.72rem; color: var(--text-tertiary); font-family: var(--font-mono);">NFL 2010 season example</div>
+      </div>
+    </div>
+
+    <div class="method-steps reveal reveal-delay-2">
+      <div class="method-step">
+        <div class="step-num" style="background: rgba(245,166,35,0.15); color: var(--skill-color);">1</div>
+        <div class="step-text">
+          <h3>Measure the real world</h3>
+          <p>Calculate the variance of actual point distributions across all teams in each league season.</p>
+        </div>
+      </div>
+      <div class="method-step">
+        <div class="step-num" style="background: rgba(34,211,238,0.15); color: var(--luck-color);">2</div>
+        <div class="step-text">
+          <h3>Simulate pure luck</h3>
+          <p>Run 100 simulations per season where every game is a coin flip — no skill differences exist.</p>
+        </div>
+      </div>
+      <div class="method-step">
+        <div class="step-num" style="background: rgba(139,92,246,0.15); color: var(--accent-400);">3</div>
+        <div class="step-text">
+          <h3>Compare the variances</h3>
+          <p>The ratio of simulated (luck) variance to observed variance reveals luck's contribution.</p>
+        </div>
+      </div>
+      <div class="method-step">
+        <div class="step-num" style="background: rgba(52,211,153,0.15); color: var(--success);">4</div>
+        <div class="step-text">
+          <h3>Average across seasons</h3>
+          <p>Aggregate results over 14–20 seasons per league to get robust, reliable estimates.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- ============================================================
+     SIMULATION COMPARISON
+     ============================================================ -->
+<section class="section sim-section" id="sec-simulation">
+  <div class="sim-container">
+    <div class="reveal">
+      <div class="label" style="margin-bottom: var(--space-sm);">The Evidence</div>
+      <h2>Real Season vs. Pure Luck Simulation</h2>
+      <p style="margin: 0 auto;">When skill matters, real seasons show clear hierarchies. In a luck-only world, points cluster near the average.</p>
+    </div>
+
+    <div class="sim-comparison reveal reveal-delay-2" id="simCharts">
+      <div class="sim-chart">
+        <div class="sim-chart-title" style="color: var(--text-primary);">Observed Results</div>
+        <div class="sim-chart-subtitle" id="simObsSubtitle">NFL 2010 — Variance: 8.69</div>
+        <div class="bar-chart" id="obsChart"></div>
+        <div class="bar-chart-axis" id="obsAxis"></div>
+      </div>
+      <div class="sim-chart">
+        <div class="sim-chart-title" style="color: var(--luck-color);">Simulated (Luck Only)</div>
+        <div class="sim-chart-subtitle" id="simLuckSubtitle">NFL 2010 — Variance: 3.99</div>
+        <div class="bar-chart" id="luckChart"></div>
+        <div class="bar-chart-axis" id="luckAxis"></div>
+      </div>
+    </div>
+
+    <div class="sim-league-selector reveal reveal-delay-3" id="simSelector"></div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- ============================================================
+     LEAGUE DEEP DIVE CARDS
+     ============================================================ -->
+<section class="section cards-section" id="sec-leagues">
+  <div class="cards-container">
+    <div class="cards-header reveal">
+      <div class="label" style="margin-bottom: var(--space-sm);">League Profiles</div>
+      <h2>Deep Dive Into Each League</h2>
+      <p style="margin: 0 auto;">Explore the statistical fingerprint of every league analyzed.</p>
+    </div>
+    <div class="cards-grid" id="leagueCards"></div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- ============================================================
+     CORRELATION — Games vs Luck
+     ============================================================ -->
+<section class="section correlation-section" id="sec-correlation">
+  <div class="correlation-container">
+    <div class="reveal">
+      <div class="label" style="margin-bottom: var(--space-sm);">Pattern</div>
+      <h2>Does Season Length Reduce Luck?</h2>
+      <p style="margin: 0 auto;">Intuitively, more games should let skill shine through. The data largely supports this — with some notable exceptions.</p>
+    </div>
+    <div class="scatter-plot reveal reveal-delay-2" id="scatterPlot">
+      <div class="scatter-label-y">Luck Contribution (%)</div>
+      <div class="scatter-label-x">Games per Season</div>
+      <div class="scatter-axis-y"></div>
+      <div class="scatter-axis-x"></div>
+    </div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- ============================================================
+     INSIGHTS
+     ============================================================ -->
+<section class="section insights-section" id="sec-insights">
+  <div class="insights-container">
+    <div class="insights-header reveal">
+      <div class="label" style="margin-bottom: var(--space-sm);">Insights</div>
+      <h2>Why These Differences Exist</h2>
+    </div>
+
+    <div class="insight-cards">
+      <div class="insight-card reveal">
+        <div class="insight-icon" style="background: rgba(245,166,35,0.12);">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#f5a623" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+        </div>
+        <h3>The Selection Filter</h3>
+        <p>Basketball rewards extreme height, shrinking the talent pool. With fewer viable candidates, the skill gap between teams narrows — making the NBA the most skill-driven league.</p>
+      </div>
+
+      <div class="insight-card reveal reveal-delay-1">
+        <div class="insight-icon" style="background: rgba(34,211,238,0.12);">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
+        </div>
+        <h3>Sample Size Matters</h3>
+        <p>The NBA plays 82 games per season while the NFL plays only 17. Fewer games mean less opportunity for skill to separate from noise — raising the NFL's luck contribution.</p>
+      </div>
+
+      <div class="insight-card reveal reveal-delay-2">
+        <div class="insight-icon" style="background: rgba(139,92,246,0.12);">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+        </div>
+        <h3>Money Talks</h3>
+        <p>Leagues without strict salary caps (like European football) let wealthy clubs hoard talent. This amplifies skill differences — lowering apparent luck in leagues like the Premier League.</p>
+      </div>
+
+      <div class="insight-card reveal reveal-delay-3">
+        <div class="insight-icon" style="background: rgba(52,211,153,0.12);">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+        </div>
+        <h3>MLS: The Parity League</h3>
+        <p>With aggressive salary caps, a college draft, and frequent expansion teams, MLS achieves near-maximum parity — making outcomes feel almost random at 79% luck.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- ============================================================
+     EXTENDED CONTEXT SPECTRUM
+     ============================================================ -->
+<section class="section context-section" id="sec-context">
+  <div class="context-container">
+    <div class="reveal">
+      <div class="label" style="margin-bottom: var(--space-sm);">The Bigger Picture</div>
+      <h2>The Complete Luck–Skill Continuum</h2>
+      <p style="margin: 0 auto;">Sports exist on a vast spectrum. Here's how our leagues compare to activities at the extremes.</p>
+    </div>
+
+    <div class="context-spectrum reveal reveal-delay-2" id="contextSpectrum">
+      <div class="context-track"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     FOOTER
+     ============================================================ -->
+<footer class="footer" id="sec-footer">
+  <p>Based on the research paper <em>"Luck vs. Skill: A Statistical Analysis of Sports Performances"</em></p>
+  <p style="margin-top: var(--space-sm);">
+    Data Literacy 2022/23 &middot; University of T&uuml;bingen &middot;
+    <a href="https://github.com/unicorne/luck_vs_skill" target="_blank" rel="noopener">View on GitHub</a>
+  </p>
+  <p class="footer-authors">David Hustadt &amp; Cornelius Wiehl</p>
+</footer>
+
+
+<!-- ============================================================
+     JAVASCRIPT
+     ============================================================ -->
+<script>
+// ============================================================
+// DATA
+// ============================================================
+const leagues = [
+  { id: 'NBA',        name: 'NBA',             country: 'North America', sport: 'Basketball', icon: '\u{1F3C0}', teams: 30,    seasons: 16, obsVar: 614.53, luckVar: 81.45,  luck: 0.1317, games: 82,  color: '#f97316' },
+  { id: 'PML',        name: 'Premier League',  country: 'England',       sport: 'Football',   icon: '\u26BD',    teams: 20,    seasons: 19, obsVar: 300.57, luckVar: 86.03,  luck: 0.2859, games: 38,  color: '#8b5cf6' },
+  { id: 'MLB',        name: 'MLB',             country: 'North America', sport: 'Baseball',   icon: '\u26BE',    teams: 30,    seasons: 20, obsVar: 137.23, luckVar: 40.65,  luck: 0.2942, games: 162, color: '#ef4444' },
+  { id: 'SerieA',     name: 'Serie A',         country: 'Italy',         sport: 'Football',   icon: '\u26BD',    teams: 19.89, seasons: 19, obsVar: 288.61, luckVar: 86.67,  luck: 0.2992, games: 38,  color: '#3b82f6' },
+  { id: 'LaLiga',     name: 'La Liga',         country: 'Spain',         sport: 'Football',   icon: '\u26BD',    teams: 20,    seasons: 19, obsVar: 262.62, luckVar: 83.79,  luck: 0.3214, games: 38,  color: '#f59e0b' },
+  { id: 'Bundesliga', name: 'Bundesliga',      country: 'Germany',       sport: 'Football',   icon: '\u26BD',    teams: 18,    seasons: 19, obsVar: 202.27, luckVar: 76.39,  luck: 0.3805, games: 34,  color: '#dc2626' },
+  { id: 'NFL',        name: 'NFL',             country: 'North America', sport: 'Am. Football',icon: '\u{1F3C8}', teams: 32,    seasons: 19, obsVar: 9.62,   luckVar: 4.02,   luck: 0.4196, games: 17,  color: '#059669' },
+  { id: 'NHL',        name: 'NHL',             country: 'North America', sport: 'Ice Hockey',  icon: '\u{1F3D2}', teams: 30.14, seasons: 14, obsVar: 187.31, luckVar: 79.39,  luck: 0.4306, games: 82,  color: '#0ea5e9' },
+  { id: 'Ligue1',     name: 'Ligue 1',         country: 'France',        sport: 'Football',   icon: '\u26BD',    teams: 20,    seasons: 19, obsVar: 199.39, luckVar: 86.13,  luck: 0.4283, games: 38,  color: '#1d4ed8' },
+  { id: 'MLS',        name: 'MLS',             country: 'North America', sport: 'Football',   icon: '\u26BD',    teams: 17.39, seasons: 18, obsVar: 93.05,  luckVar: 73.22,  luck: 0.7724, games: 34,  color: '#22d3ee' },
+];
+
+// Simulated sample data (NFL 2010-style distributions for each league)
+// Real observed points sorted descending, and a simulated luck-only distribution
+const simData = {
+  NFL: {
+    label: 'NFL 2010',
+    observed: [13, 12, 12, 11, 11, 10, 10, 10, 10, 10, 10, 9, 9, 8, 8, 8, 8, 7, 7, 7, 7, 7, 7, 6, 6, 6, 5, 5, 4, 4, 3, 2],
+    simulated: [11, 11, 10, 10, 10, 10, 9, 9, 9, 9, 9, 9, 8, 8, 8, 8, 8, 8, 8, 8, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 5, 5],
+    obsVar: 8.69,
+    simVar: 3.99,
+  },
+  NBA: {
+    label: 'NBA 2010',
+    observed: [124, 118, 116, 114, 112, 112, 108, 106, 98, 96, 92, 90, 86, 82, 82, 80, 78, 74, 74, 72, 72, 70, 66, 64, 56, 52, 50, 46, 38, 34],
+    simulated: [92, 90, 88, 86, 86, 86, 84, 84, 84, 82, 82, 82, 82, 82, 82, 82, 80, 80, 80, 80, 78, 78, 78, 76, 76, 74, 74, 72, 72, 70],
+    obsVar: 614.53,
+    simVar: 81.45,
+  },
+  PML: {
+    label: 'Premier League 2018',
+    observed: [98, 81, 72, 71, 70, 66, 54, 54, 52, 50, 49, 45, 44, 43, 41, 39, 36, 35, 34, 21],
+    simulated: [64, 61, 59, 58, 57, 57, 56, 56, 55, 55, 54, 54, 53, 52, 51, 50, 49, 48, 46, 42],
+    obsVar: 300.57,
+    simVar: 86.03,
+  },
+  MLB: {
+    label: 'MLB 2019',
+    observed: [107, 103, 101, 101, 97, 96, 93, 93, 91, 89, 88, 86, 84, 84, 84, 82, 81, 78, 77, 76, 72, 72, 71, 70, 69, 67, 67, 59, 57, 52],
+    simulated: [88, 87, 86, 85, 85, 84, 84, 83, 83, 82, 82, 82, 81, 81, 81, 81, 80, 80, 80, 79, 79, 79, 78, 78, 77, 77, 76, 76, 75, 74],
+    obsVar: 137.23,
+    simVar: 40.65,
+  },
+  MLS: {
+    label: 'MLS 2019',
+    observed: [69, 60, 56, 55, 53, 52, 50, 49, 48, 48, 46, 45, 43, 42, 42, 41, 40, 37, 36, 36, 34, 33, 31, 30],
+    simulated: [56, 54, 53, 51, 50, 49, 49, 48, 48, 47, 46, 46, 45, 45, 44, 44, 43, 43, 42, 41, 40, 39, 38, 36],
+    obsVar: 93.05,
+    simVar: 73.22,
+  },
+  NHL: {
+    label: 'NHL 2018',
+    observed: [128, 114, 108, 107, 105, 102, 100, 100, 99, 98, 98, 97, 96, 94, 93, 91, 89, 88, 87, 86, 84, 83, 82, 81, 80, 79, 78, 76, 74, 67, 62],
+    simulated: [102, 100, 98, 97, 96, 96, 95, 95, 94, 93, 93, 92, 92, 92, 91, 91, 91, 90, 90, 89, 89, 88, 88, 87, 86, 86, 85, 84, 83, 82, 80],
+    obsVar: 187.31,
+    simVar: 79.39,
+  },
+  Bundesliga: {
+    label: 'Bundesliga 2019',
+    observed: [78, 73, 63, 55, 52, 52, 49, 46, 46, 43, 39, 38, 37, 35, 34, 32, 28, 18],
+    simulated: [61, 58, 56, 55, 54, 53, 52, 51, 51, 50, 49, 48, 47, 46, 44, 43, 41, 38],
+    obsVar: 202.27,
+    simVar: 76.39,
+  },
+  LaLiga: {
+    label: 'La Liga 2019',
+    observed: [87, 83, 70, 60, 56, 54, 53, 52, 50, 48, 46, 44, 44, 42, 41, 39, 38, 36, 35, 25],
+    simulated: [63, 61, 59, 58, 57, 56, 55, 55, 54, 54, 53, 53, 52, 51, 50, 49, 48, 47, 45, 42],
+    obsVar: 262.62,
+    simVar: 83.79,
+  },
+  SerieA: {
+    label: 'Serie A 2019',
+    observed: [83, 82, 78, 66, 62, 61, 56, 54, 51, 49, 49, 46, 46, 44, 43, 42, 36, 35, 32, 21],
+    simulated: [64, 62, 60, 58, 57, 56, 56, 55, 55, 54, 54, 53, 52, 52, 51, 50, 49, 47, 45, 42],
+    obsVar: 288.61,
+    simVar: 86.67,
+  },
+  Ligue1: {
+    label: 'Ligue 1 2019',
+    observed: [91, 68, 62, 56, 56, 55, 52, 51, 51, 50, 47, 46, 44, 42, 41, 37, 34, 33, 30, 13],
+    simulated: [64, 61, 59, 58, 57, 57, 56, 56, 55, 55, 54, 54, 53, 52, 51, 50, 49, 47, 45, 42],
+    obsVar: 199.39,
+    simVar: 86.13,
+  },
+};
+
+// Extended context items for the bigger picture
+const contextItems = [
+  { name: 'Chess',           luck: 0.02,  color: '#f5a623', above: true },
+  { name: 'NBA',             luck: 0.13,  color: '#f97316', above: false },
+  { name: 'Premier League',  luck: 0.29,  color: '#8b5cf6', above: true },
+  { name: 'MLB',             luck: 0.29,  color: '#ef4444', above: false },
+  { name: 'Bundesliga',      luck: 0.38,  color: '#dc2626', above: true },
+  { name: 'NFL',             luck: 0.42,  color: '#059669', above: false },
+  { name: 'NHL',             luck: 0.43,  color: '#0ea5e9', above: true },
+  { name: 'MLS',             luck: 0.77,  color: '#22d3ee', above: false },
+  { name: 'Poker (session)', luck: 0.88,  color: '#a78bfa', above: true },
+  { name: 'Coin Flip',       luck: 1.00,  color: '#94a3b8', above: false },
+];
+
+
+// ============================================================
+// PARTICLE BACKGROUND
+// ============================================================
+(function initParticles() {
+  const canvas = document.getElementById('bg-canvas');
+  const ctx = canvas.getContext('2d');
+  let w, h, particles = [];
+
+  function resize() {
+    w = canvas.width = window.innerWidth;
+    h = canvas.height = window.innerHeight;
+  }
+
+  function createParticles() {
+    particles = [];
+    const count = Math.min(Math.floor(w * h / 18000), 80);
+    for (let i = 0; i < count; i++) {
+      particles.push({
+        x: Math.random() * w,
+        y: Math.random() * h,
+        vx: (Math.random() - 0.5) * 0.3,
+        vy: (Math.random() - 0.5) * 0.3,
+        r: Math.random() * 1.5 + 0.5,
+        alpha: Math.random() * 0.3 + 0.1,
+      });
+    }
+  }
+
+  function draw() {
+    ctx.clearRect(0, 0, w, h);
+
+    // Draw connections
+    for (let i = 0; i < particles.length; i++) {
+      for (let j = i + 1; j < particles.length; j++) {
+        const dx = particles[i].x - particles[j].x;
+        const dy = particles[i].y - particles[j].y;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        if (dist < 150) {
+          const alpha = (1 - dist / 150) * 0.06;
+          ctx.strokeStyle = `rgba(139, 92, 246, ${alpha})`;
+          ctx.lineWidth = 0.5;
+          ctx.beginPath();
+          ctx.moveTo(particles[i].x, particles[i].y);
+          ctx.lineTo(particles[j].x, particles[j].y);
+          ctx.stroke();
+        }
+      }
+    }
+
+    // Draw particles
+    for (const p of particles) {
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(139, 92, 246, ${p.alpha})`;
+      ctx.fill();
+
+      p.x += p.vx;
+      p.y += p.vy;
+
+      if (p.x < -10) p.x = w + 10;
+      if (p.x > w + 10) p.x = -10;
+      if (p.y < -10) p.y = h + 10;
+      if (p.y > h + 10) p.y = -10;
+    }
+
+    requestAnimationFrame(draw);
+  }
+
+  window.addEventListener('resize', () => { resize(); createParticles(); });
+  resize();
+  createParticles();
+  draw();
+})();
+
+
+// ============================================================
+// SCROLL REVEAL (Intersection Observer)
+// ============================================================
+const revealObserver = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, { threshold: 0.15, rootMargin: '0px 0px -50px 0px' });
+
+document.querySelectorAll('.reveal').forEach(el => revealObserver.observe(el));
+
+
+// ============================================================
+// ANIMATED COUNTERS
+// ============================================================
+function animateCounters() {
+  document.querySelectorAll('.count-up').forEach(el => {
+    const target = parseInt(el.dataset.target);
+    const duration = 2000;
+    const start = performance.now();
+
+    function update(now) {
+      const elapsed = now - start;
+      const progress = Math.min(elapsed / duration, 1);
+      // Ease-out expo
+      const eased = 1 - Math.pow(1 - progress, 4);
+      const current = Math.round(eased * target);
+      el.textContent = current.toLocaleString();
+      if (progress < 1) requestAnimationFrame(update);
+    }
+
+    requestAnimationFrame(update);
+  });
+}
+
+// Trigger counters when hero is visible
+const heroObserver = new IntersectionObserver((entries) => {
+  if (entries[0].isIntersecting) {
+    setTimeout(animateCounters, 800);
+    heroObserver.disconnect();
+  }
+}, { threshold: 0.5 });
+heroObserver.observe(document.querySelector('.hero'));
+
+
+// ============================================================
+// NAVIGATION DOTS
+// ============================================================
+const sections = ['sec-hero', 'sec-question', 'sec-spectrum', 'sec-method', 'sec-simulation', 'sec-leagues', 'sec-correlation', 'sec-insights', 'sec-context'];
+const navDotsContainer = document.getElementById('navDots');
+
+sections.forEach((id, i) => {
+  const dot = document.createElement('button');
+  dot.className = 'nav-dot';
+  dot.title = id.replace('sec-', '').replace('-', ' ');
+  dot.addEventListener('click', () => {
+    document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
+  });
+  navDotsContainer.appendChild(dot);
+});
+
+const navDots = navDotsContainer.querySelectorAll('.nav-dot');
+const sectionObserver = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      const idx = sections.indexOf(entry.target.id);
+      navDots.forEach((d, i) => d.classList.toggle('active', i === idx));
+    }
+  });
+}, { threshold: 0.3 });
+
+sections.forEach(id => {
+  const el = document.getElementById(id);
+  if (el) sectionObserver.observe(el);
+});
+
+
+// ============================================================
+// SPECTRUM VISUALIZATION
+// ============================================================
+function buildSpectrum() {
+  const wrapper = document.getElementById('spectrumTrack');
+  const track = wrapper.querySelector('.spectrum-track');
+  const tooltip = document.getElementById('spectrumTooltip');
+
+  leagues.forEach((league, i) => {
+    const node = document.createElement('div');
+    node.className = 'league-node';
+    node.style.left = `${league.luck * 100}%`;
+    node.style.setProperty('--node-color', league.color);
+
+    const isAbove = i % 2 === 0;
+
+    node.innerHTML = `
+      <div class="league-dot" style="border-color: ${league.color};"></div>
+      <div class="league-label ${isAbove ? 'above' : 'below'}" style="color: ${league.color};">${league.name}</div>
+      <div class="league-pct ${isAbove ? 'above' : 'below'}">${Math.round(league.luck * 100)}% luck</div>
+    `;
+
+    // Hover events for tooltip
+    node.addEventListener('mouseenter', (e) => {
+      tooltip.classList.add('active');
+      document.getElementById('tooltipLeague').textContent = league.name;
+      document.getElementById('tooltipLeague').style.color = league.color;
+      document.getElementById('tooltipLuck').textContent = `${Math.round(league.luck * 100)}%`;
+      document.getElementById('tooltipTeams').textContent = Math.round(league.teams);
+      document.getElementById('tooltipSeasons').textContent = league.seasons;
+      document.getElementById('tooltipObsVar').textContent = league.obsVar.toFixed(1);
+
+      const fill = document.getElementById('tooltipBarFill');
+      fill.style.width = `${league.luck * 100}%`;
+      fill.style.background = `linear-gradient(to right, ${league.color}, var(--luck-color))`;
+    });
+
+    node.addEventListener('mousemove', (e) => {
+      tooltip.style.left = `${e.clientX + 16}px`;
+      tooltip.style.top = `${e.clientY - 20}px`;
+    });
+
+    node.addEventListener('mouseleave', () => {
+      tooltip.classList.remove('active');
+    });
+
+    // Animate in with stagger
+    node.style.opacity = '0';
+    node.style.transform = 'translate(-50%, -50%) scale(0)';
+    node.style.transition = `all 0.6s var(--ease-out-back) ${0.8 + i * 0.1}s`;
+
+    const spectrumObserver = new IntersectionObserver((entries) => {
+      if (entries[0].isIntersecting) {
+        node.style.opacity = '1';
+        node.style.transform = `translate(-50%, -50%) scale(1)`;
+        spectrumObserver.disconnect();
+      }
+    }, { threshold: 0.3 });
+    spectrumObserver.observe(wrapper);
+
+    track.appendChild(node);
+  });
+}
+
+buildSpectrum();
+
+
+// ============================================================
+// SIMULATION BAR CHARTS
+// ============================================================
+let currentSimLeague = 'NFL';
+
+function buildSimCharts(leagueId) {
+  const data = simData[leagueId];
+  if (!data) return;
+
+  const league = leagues.find(l => l.id === leagueId);
+  currentSimLeague = leagueId;
+
+  // Update subtitles
+  document.getElementById('simObsSubtitle').textContent = `${data.label} — Variance: ${data.obsVar.toFixed(2)}`;
+  document.getElementById('simLuckSubtitle').textContent = `${data.label} — Variance: ${data.simVar.toFixed(2)}`;
+
+  // Build observed chart
+  buildBarChart('obsChart', 'obsAxis', data.observed, league.color, true);
+  // Build simulated chart
+  buildBarChart('luckChart', 'luckAxis', data.simulated, '#22d3ee', false);
+
+  // Update active button
+  document.querySelectorAll('.sim-league-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.league === leagueId);
+  });
+}
+
+function buildBarChart(chartId, axisId, values, color, isObserved) {
+  const chart = document.getElementById(chartId);
+  const axis = document.getElementById(axisId);
+  chart.innerHTML = '';
+  axis.innerHTML = '';
+
+  const max = Math.max(...values);
+  const min = Math.min(...values);
+
+  values.forEach((v, i) => {
+    const bar = document.createElement('div');
+    bar.className = 'bar';
+    const pct = ((v - min * 0.7) / (max - min * 0.7)) * 100;
+    bar.style.height = '0%';
+    bar.style.background = isObserved
+      ? `linear-gradient(to top, ${color}88, ${color})`
+      : `linear-gradient(to top, #22d3ee66, #22d3ee)`;
+
+    bar.innerHTML = `<span class="bar-tooltip">${v} pts</span>`;
+
+    chart.appendChild(bar);
+
+    // Animate with stagger
+    requestAnimationFrame(() => {
+      setTimeout(() => {
+        bar.style.height = `${Math.max(pct, 3)}%`;
+      }, 50 + i * 20);
+    });
+  });
+
+  // Axis labels
+  const step = Math.ceil(values.length / 5);
+  for (let i = 0; i < values.length; i += step) {
+    const span = document.createElement('span');
+    span.textContent = i + 1;
+    axis.appendChild(span);
+  }
+}
+
+// Build league selector buttons
+function buildSimSelector() {
+  const container = document.getElementById('simSelector');
+  leagues.forEach(league => {
+    const btn = document.createElement('button');
+    btn.className = 'sim-league-btn';
+    btn.dataset.league = league.id;
+    btn.textContent = league.name;
+    btn.addEventListener('click', () => buildSimCharts(league.id));
+    container.appendChild(btn);
+  });
+}
+
+buildSimSelector();
+
+// Animate sim charts on scroll
+const simObserver = new IntersectionObserver((entries) => {
+  if (entries[0].isIntersecting) {
+    buildSimCharts('NFL');
+    simObserver.disconnect();
+  }
+}, { threshold: 0.3 });
+simObserver.observe(document.getElementById('simCharts'));
+
+
+// ============================================================
+// LEAGUE CARDS
+// ============================================================
+function buildLeagueCards() {
+  const container = document.getElementById('leagueCards');
+
+  // Sort by luck ascending (most skill first)
+  const sorted = [...leagues].sort((a, b) => a.luck - b.luck);
+
+  sorted.forEach((league, i) => {
+    const luckPct = Math.round(league.luck * 100);
+    const skillPct = 100 - luckPct;
+    const gradientColor = interpolateColor(league.luck);
+
+    const card = document.createElement('div');
+    card.className = 'league-card reveal';
+    if (i > 0) card.classList.add(`reveal-delay-${Math.min(i % 3 + 1, 3)}`);
+
+    card.innerHTML = `
+      <div style="position:absolute;top:0;left:0;right:0;height:3px;border-radius:16px 16px 0 0;background:linear-gradient(to right, ${league.color}, ${league.color}88);opacity:0.7;"></div>
+      <div class="card-header">
+        <div>
+          <div class="card-sport-icon" style="background: ${league.color}18;">${league.icon}</div>
+          <div class="card-league-name" style="margin-top: 8px;">${league.name}</div>
+          <div class="card-league-country">${league.country} &middot; ${league.sport}</div>
+        </div>
+        <div class="card-luck-display">
+          <div class="card-luck-value" style="color: ${league.color};">${luckPct}%</div>
+          <div class="card-luck-label">luck</div>
+        </div>
+      </div>
+
+      <div class="card-bar">
+        <div class="card-bar-fill" data-width="${luckPct}" style="background: linear-gradient(to right, ${league.color}, var(--luck-color));"></div>
+      </div>
+      <div class="card-bar-labels">
+        <span>Skill ${skillPct}%</span>
+        <span>Luck ${luckPct}%</span>
+      </div>
+
+      <div class="card-stats">
+        <div>
+          <div class="card-stat-label">Teams</div>
+          <div class="card-stat-value">${Math.round(league.teams)}</div>
+        </div>
+        <div>
+          <div class="card-stat-label">Games/Season</div>
+          <div class="card-stat-value">${league.games}</div>
+        </div>
+        <div>
+          <div class="card-stat-label">Seasons Analyzed</div>
+          <div class="card-stat-value">${league.seasons}</div>
+        </div>
+        <div>
+          <div class="card-stat-label">Obs. Variance</div>
+          <div class="card-stat-value">${league.obsVar.toFixed(1)}</div>
+        </div>
+      </div>
+    `;
+
+    container.appendChild(card);
+
+    // Observe for bar animation
+    const barFill = card.querySelector('.card-bar-fill');
+    const cardObserver = new IntersectionObserver((entries) => {
+      if (entries[0].isIntersecting) {
+        barFill.style.width = barFill.dataset.width + '%';
+        cardObserver.disconnect();
+      }
+    }, { threshold: 0.3 });
+    cardObserver.observe(card);
+  });
+
+  // Re-observe reveals for new cards
+  document.querySelectorAll('.league-card.reveal').forEach(el => revealObserver.observe(el));
+}
+
+function interpolateColor(t) {
+  // t from 0 (skill/gold) to 1 (luck/cyan)
+  const r = Math.round(245 + (34 - 245) * t);
+  const g = Math.round(166 + (211 - 166) * t);
+  const b = Math.round(35 + (238 - 35) * t);
+  return `rgb(${r},${g},${b})`;
+}
+
+buildLeagueCards();
+
+
+// ============================================================
+// SCATTER PLOT — Games per Season vs Luck
+// ============================================================
+function buildScatterPlot() {
+  const container = document.getElementById('scatterPlot');
+  const cw = container.offsetWidth;
+  const ch = container.offsetHeight;
+  const pad = { left: 70, right: 30, top: 30, bottom: 60 };
+  const plotW = cw - pad.left - pad.right;
+  const plotH = ch - pad.top - pad.bottom;
+
+  const maxGames = 170;
+  const minGames = 10;
+  const maxLuck = 85;
+  const minLuck = 5;
+
+  function xPos(games) { return pad.left + ((games - minGames) / (maxGames - minGames)) * plotW; }
+  function yPos(luck) { return pad.top + (1 - (luck - minLuck) / (maxLuck - minLuck)) * plotH; }
+
+  // Grid lines
+  [10, 20, 30, 40, 50, 60, 70, 80].forEach(val => {
+    const top = yPos(val);
+    const line = document.createElement('div');
+    line.className = 'scatter-grid-line h';
+    line.style.top = `${top}px`;
+    container.appendChild(line);
+
+    const tick = document.createElement('div');
+    tick.className = 'scatter-tick y-tick';
+    tick.textContent = val + '%';
+    tick.style.top = `${top}px`;
+    tick.style.left = '10px';
+    container.appendChild(tick);
+  });
+
+  [20, 40, 60, 80, 100, 120, 140, 160].forEach(val => {
+    const left = xPos(val);
+    const line = document.createElement('div');
+    line.className = 'scatter-grid-line v';
+    line.style.left = `${left}px`;
+    container.appendChild(line);
+
+    const tick = document.createElement('div');
+    tick.className = 'scatter-tick x-tick';
+    tick.textContent = val;
+    tick.style.left = `${left}px`;
+    tick.style.bottom = '12px';
+    container.appendChild(tick);
+  });
+
+  // Trend line (visual only — approximate negative slope)
+  // We'll compute a simple least-squares line
+  const xs = leagues.map(l => l.games);
+  const ys = leagues.map(l => l.luck * 100);
+  const n = xs.length;
+  const xMean = xs.reduce((a,b) => a+b) / n;
+  const yMean = ys.reduce((a,b) => a+b) / n;
+  let num = 0, den = 0;
+  for (let i = 0; i < n; i++) {
+    num += (xs[i] - xMean) * (ys[i] - yMean);
+    den += (xs[i] - xMean) ** 2;
+  }
+  const slope = num / den;
+  const intercept = yMean - slope * xMean;
+
+  const lineY1 = slope * minGames + intercept;
+  const lineY2 = slope * maxGames + intercept;
+  const x1 = xPos(minGames), y1 = yPos(lineY1);
+  const x2 = xPos(maxGames), y2 = yPos(lineY2);
+  const lineLen = Math.sqrt((x2-x1)**2 + (y2-y1)**2);
+  const lineAngle = Math.atan2(y2-y1, x2-x1) * 180 / Math.PI;
+
+  const trendLine = document.createElement('div');
+  trendLine.className = 'trend-line';
+  trendLine.style.left = `${x1}px`;
+  trendLine.style.top = `${y1}px`;
+  trendLine.style.width = `${lineLen}px`;
+  trendLine.style.transform = `rotate(${lineAngle}deg)`;
+  container.appendChild(trendLine);
+
+  // Plot points
+  leagues.forEach((league, i) => {
+    const left = xPos(league.games);
+    const top = yPos(league.luck * 100);
+
+    const point = document.createElement('div');
+    point.className = 'scatter-point';
+    point.style.left = `${left}px`;
+    point.style.top = `${top}px`;
+    point.style.background = league.color;
+    point.style.boxShadow = `0 0 12px ${league.color}66`;
+    point.style.transitionDelay = `${i * 0.1}s`;
+    point.innerHTML = `<span class="scatter-point-label" style="color:${league.color}">${league.name}<br>${league.games} games · ${Math.round(league.luck*100)}% luck</span>`;
+
+    container.appendChild(point);
+
+    const pointObserver = new IntersectionObserver((entries) => {
+      if (entries[0].isIntersecting) {
+        point.classList.add('visible');
+        pointObserver.disconnect();
+      }
+    }, { threshold: 0.1 });
+    pointObserver.observe(container);
+  });
+}
+
+// Wait for layout, then build
+requestAnimationFrame(() => requestAnimationFrame(() => buildScatterPlot()));
+
+let resizeTimeout;
+window.addEventListener('resize', () => {
+  clearTimeout(resizeTimeout);
+  resizeTimeout = setTimeout(() => {
+    const container = document.getElementById('scatterPlot');
+    container.querySelectorAll('.scatter-point, .scatter-grid-line, .scatter-tick, .trend-line').forEach(el => el.remove());
+    buildScatterPlot();
+  }, 300);
+});
+
+
+// ============================================================
+// CONTEXT SPECTRUM — Extended
+// ============================================================
+function buildContextSpectrum() {
+  const container = document.getElementById('contextSpectrum');
+
+  contextItems.forEach((item, i) => {
+    const el = document.createElement('div');
+    el.className = `context-item ${item.above ? 'above' : 'below'}`;
+    el.style.left = `${item.luck * 100}%`;
+    el.style.top = item.above ? '30%' : '70%';
+
+    el.innerHTML = `
+      <div class="context-dot" style="border-color: ${item.color};"></div>
+      <div class="context-name" style="color: ${item.color};">${item.name}</div>
+      <div class="context-pct">${Math.round(item.luck * 100)}%</div>
+    `;
+
+    // Entrance animation
+    el.style.opacity = '0';
+    el.style.transform = `translate(-50%, -50%) scale(0.5)`;
+    el.style.transition = `all 0.5s var(--ease-out-back) ${i * 0.08}s`;
+
+    const ctxObserver = new IntersectionObserver((entries) => {
+      if (entries[0].isIntersecting) {
+        el.style.opacity = '1';
+        el.style.transform = `translate(-50%, -50%) scale(1)`;
+        ctxObserver.disconnect();
+      }
+    }, { threshold: 0.2 });
+    ctxObserver.observe(container);
+
+    container.appendChild(el);
+  });
+
+  // Add axis labels
+  const skillLabel = document.createElement('div');
+  skillLabel.style.cssText = 'position:absolute;left:0;top:50%;transform:translateY(-50%);font-family:var(--font-mono);font-size:0.7rem;color:var(--skill-color);letter-spacing:0.1em;';
+  skillLabel.textContent = 'SKILL';
+  container.appendChild(skillLabel);
+
+  const luckLabel = document.createElement('div');
+  luckLabel.style.cssText = 'position:absolute;right:0;top:50%;transform:translateY(-50%);font-family:var(--font-mono);font-size:0.7rem;color:var(--luck-color);letter-spacing:0.1em;';
+  luckLabel.textContent = 'LUCK';
+  container.appendChild(luckLabel);
+}
+
+buildContextSpectrum();
+
+
+// ============================================================
+// SCROLL PROGRESS BAR + HERO PARALLAX FADE
+// ============================================================
+const scrollProgressBar = document.getElementById('scrollProgress');
+const heroSection = document.querySelector('.hero');
+
+window.addEventListener('scroll', () => {
+  const scrollTop = document.documentElement.scrollTop;
+  const scrollHeight = document.documentElement.scrollHeight - window.innerHeight;
+  const progress = (scrollTop / scrollHeight) * 100;
+  scrollProgressBar.style.width = `${progress}%`;
+
+  // Hero parallax fade
+  const heroH = heroSection.offsetHeight;
+  if (scrollTop < heroH) {
+    const factor = 1 - (scrollTop / heroH);
+    heroSection.style.opacity = Math.max(factor, 0);
+    heroSection.style.transform = `translateY(${scrollTop * 0.3}px)`;
+  }
+}, { passive: true });
+
+
+// ============================================================
+// SMOOTH PARALLAX on hero glow orbs
+// ============================================================
+document.addEventListener('mousemove', (e) => {
+  const x = (e.clientX / window.innerWidth - 0.5) * 30;
+  const y = (e.clientY / window.innerHeight - 0.5) * 30;
+
+  document.querySelectorAll('.hero-glow').forEach((glow, i) => {
+    const factor = i === 0 ? 1 : -1;
+    glow.style.transform = `translate(${x * factor}px, ${y * factor}px)`;
+  });
+});
+
+</script>
+</body>
+</html>
