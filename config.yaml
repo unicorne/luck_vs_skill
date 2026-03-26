@@ -62,13 +62,6 @@ NHL:
   prepared_data_path: "data/prepared_data/NHL_data.parquet"
   results_path: "data/results/NHL.parquet"
 
-MLS:
-  probabilities_win_loss_tie: [0.5, 0.5, 0]
-  points_for_win_loss_tie: [3, 0, 1]
-  schedule_directory: "data/prepared_data/schedules/MLS"
-  prepared_data_path: "data/prepared_data/MLS_data.parquet"
-  results_path: "data/results/MLS.parquet"
-
 MLB:
   probabilities_win_loss_tie: [0.5, 0.5, 0.0]
   points_for_win_loss_tie: [1, 0, 0]

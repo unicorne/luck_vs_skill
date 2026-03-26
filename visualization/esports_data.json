@@ -1,0 +1,260 @@
+{
+  "CSGO": {
+    "years": [
+      {
+        "year": 2014,
+        "n_teams": 41,
+        "avg_matches": 55.7,
+        "obs_variance": 0.027397,
+        "luck_variance": 0.006289,
+        "luck_pct": 0.2296
+      },
+      {
+        "year": 2015,
+        "n_teams": 89,
+        "avg_matches": 78.1,
+        "obs_variance": 0.016305,
+        "luck_variance": 0.005855,
+        "luck_pct": 0.3591
+      },
+      {
+        "year": 2016,
+        "n_teams": 84,
+        "avg_matches": 72.4,
+        "obs_variance": 0.01737,
+        "luck_variance": 0.00567,
+        "luck_pct": 0.3264
+      },
+      {
+        "year": 2017,
+        "n_teams": 176,
+        "avg_matches": 60.5,
+        "obs_variance": 0.016839,
+        "luck_variance": 0.006589,
+        "luck_pct": 0.3913
+      },
+      {
+        "year": 2018,
+        "n_teams": 311,
+        "avg_matches": 67.9,
+        "obs_variance": 0.019044,
+        "luck_variance": 0.006017,
+        "luck_pct": 0.3159
+      },
+      {
+        "year": 2019,
+        "n_teams": 314,
+        "avg_matches": 55.8,
+        "obs_variance": 0.019556,
+        "luck_variance": 0.006501,
+        "luck_pct": 0.3325
+      },
+      {
+        "year": 2020,
+        "n_teams": 328,
+        "avg_matches": 58.9,
+        "obs_variance": 0.021717,
+        "luck_variance": 0.005968,
+        "luck_pct": 0.2748
+      },
+      {
+        "year": 2021,
+        "n_teams": 518,
+        "avg_matches": 73.1,
+        "obs_variance": 0.022876,
+        "luck_variance": 0.005592,
+        "luck_pct": 0.2444
+      },
+      {
+        "year": 2022,
+        "n_teams": 615,
+        "avg_matches": 77.2,
+        "obs_variance": 0.02396,
+        "luck_variance": 0.005572,
+        "luck_pct": 0.2326
+      }
+    ],
+    "avg_luck": 0.3007,
+    "n_seasons": 9
+  },
+  "Dota2": {
+    "years": [
+      {
+        "year": 2012,
+        "n_teams": 8,
+        "avg_matches": 27.4,
+        "obs_variance": 0.028681,
+        "luck_variance": 0.009344,
+        "luck_pct": 0.3258
+      },
+      {
+        "year": 2013,
+        "n_teams": 83,
+        "avg_matches": 68.9,
+        "obs_variance": 0.023652,
+        "luck_variance": 0.006141,
+        "luck_pct": 0.2597
+      },
+      {
+        "year": 2014,
+        "n_teams": 124,
+        "avg_matches": 77.5,
+        "obs_variance": 0.018525,
+        "luck_variance": 0.005289,
+        "luck_pct": 0.2855
+      },
+      {
+        "year": 2015,
+        "n_teams": 106,
+        "avg_matches": 61.3,
+        "obs_variance": 0.017002,
+        "luck_variance": 0.00567,
+        "luck_pct": 0.3335
+      },
+      {
+        "year": 2016,
+        "n_teams": 112,
+        "avg_matches": 73.6,
+        "obs_variance": 0.018322,
+        "luck_variance": 0.004726,
+        "luck_pct": 0.258
+      },
+      {
+        "year": 2017,
+        "n_teams": 148,
+        "avg_matches": 58.9,
+        "obs_variance": 0.017924,
+        "luck_variance": 0.006141,
+        "luck_pct": 0.3426
+      },
+      {
+        "year": 2018,
+        "n_teams": 151,
+        "avg_matches": 54.3,
+        "obs_variance": 0.015972,
+        "luck_variance": 0.006394,
+        "luck_pct": 0.4004
+      },
+      {
+        "year": 2019,
+        "n_teams": 200,
+        "avg_matches": 55.8,
+        "obs_variance": 0.016995,
+        "luck_variance": 0.006181,
+        "luck_pct": 0.3637
+      },
+      {
+        "year": 2020,
+        "n_teams": 218,
+        "avg_matches": 58.1,
+        "obs_variance": 0.017554,
+        "luck_variance": 0.006224,
+        "luck_pct": 0.3545
+      },
+      {
+        "year": 2021,
+        "n_teams": 158,
+        "avg_matches": 57.1,
+        "obs_variance": 0.017473,
+        "luck_variance": 0.006028,
+        "luck_pct": 0.345
+      },
+      {
+        "year": 2022,
+        "n_teams": 177,
+        "avg_matches": 58.0,
+        "obs_variance": 0.013086,
+        "luck_variance": 0.005877,
+        "luck_pct": 0.4491
+      }
+    ],
+    "avg_luck": 0.338,
+    "n_seasons": 11
+  },
+  "LoL": {
+    "years": [
+      {
+        "year": 2013,
+        "n_teams": 52,
+        "avg_matches": 41.2,
+        "obs_variance": 0.035483,
+        "luck_variance": 0.007086,
+        "luck_pct": 0.1997
+      },
+      {
+        "year": 2014,
+        "n_teams": 51,
+        "avg_matches": 41.1,
+        "obs_variance": 0.03029,
+        "luck_variance": 0.007453,
+        "luck_pct": 0.246
+      },
+      {
+        "year": 2015,
+        "n_teams": 86,
+        "avg_matches": 41.1,
+        "obs_variance": 0.036474,
+        "luck_variance": 0.00692,
+        "luck_pct": 0.1897
+      },
+      {
+        "year": 2016,
+        "n_teams": 96,
+        "avg_matches": 41.3,
+        "obs_variance": 0.032526,
+        "luck_variance": 0.007345,
+        "luck_pct": 0.2258
+      },
+      {
+        "year": 2017,
+        "n_teams": 151,
+        "avg_matches": 33.2,
+        "obs_variance": 0.031934,
+        "luck_variance": 0.008255,
+        "luck_pct": 0.2585
+      },
+      {
+        "year": 2018,
+        "n_teams": 240,
+        "avg_matches": 36.5,
+        "obs_variance": 0.030416,
+        "luck_variance": 0.007688,
+        "luck_pct": 0.2527
+      },
+      {
+        "year": 2019,
+        "n_teams": 317,
+        "avg_matches": 37.4,
+        "obs_variance": 0.029554,
+        "luck_variance": 0.007305,
+        "luck_pct": 0.2472
+      },
+      {
+        "year": 2020,
+        "n_teams": 295,
+        "avg_matches": 36.5,
+        "obs_variance": 0.028773,
+        "luck_variance": 0.007408,
+        "luck_pct": 0.2575
+      },
+      {
+        "year": 2021,
+        "n_teams": 426,
+        "avg_matches": 40.3,
+        "obs_variance": 0.029401,
+        "luck_variance": 0.006764,
+        "luck_pct": 0.2301
+      },
+      {
+        "year": 2022,
+        "n_teams": 419,
+        "avg_matches": 41.7,
+        "obs_variance": 0.03018,
+        "luck_variance": 0.006541,
+        "luck_pct": 0.2167
+      }
+    ],
+    "avg_luck": 0.2324,
+    "n_seasons": 10
+  }
+}

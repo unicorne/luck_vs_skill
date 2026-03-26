@@ -363,7 +363,7 @@ p {
 
 .spectrum-track-wrapper {
   position: relative;
-  padding: 80px 40px 120px;
+  padding: 100px 40px 130px;
 }
 
 .spectrum-track {
@@ -1008,7 +1008,7 @@ p {
 
 .insight-cards {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
   gap: var(--space-lg);
 }
 
@@ -1308,6 +1308,153 @@ p {
 }
 
 /* ============================================================
+   TRENDS SECTION — Year-by-year line chart
+   ============================================================ */
+.trends-section {
+  padding: var(--space-4xl) var(--space-xl);
+}
+
+.trends-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.trends-header {
+  text-align: center;
+  margin-bottom: var(--space-2xl);
+}
+
+.trends-chart-wrapper {
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: var(--space-xl);
+  position: relative;
+  overflow: hidden;
+}
+
+.trends-canvas {
+  width: 100%;
+  height: 350px;
+  display: block;
+}
+
+.trends-legend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-sm) var(--space-md);
+  margin-top: var(--space-lg);
+}
+
+.trends-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.72rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 4px 10px;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+}
+
+.trends-legend-item:hover {
+  background: var(--bg-3);
+  border-color: var(--border-hover);
+}
+
+.trends-legend-item.dimmed {
+  opacity: 0.25;
+}
+
+.trends-legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.trends-tooltip-el {
+  position: absolute;
+  pointer-events: none;
+  background: var(--bg-4);
+  border: 1px solid var(--border-hover);
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 0.72rem;
+  z-index: 10;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  white-space: nowrap;
+}
+
+.trends-tooltip-el.active {
+  opacity: 1;
+}
+
+/* Category filter pills */
+.category-filters {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-lg);
+  flex-wrap: wrap;
+}
+
+.cat-pill {
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 6px 16px;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.3s var(--ease-out-expo);
+}
+
+.cat-pill:hover {
+  border-color: var(--border-hover);
+  color: var(--text-primary);
+}
+
+.cat-pill.active {
+  background: var(--accent-500);
+  border-color: var(--accent-500);
+  color: white;
+}
+
+/* ============================================================
+   DATA SOURCES BADGE
+   ============================================================ */
+.data-sources {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-lg);
+  flex-wrap: wrap;
+  margin-top: var(--space-lg);
+  padding-top: var(--space-lg);
+  border-top: 1px solid var(--border);
+}
+
+.data-source {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.7rem;
+  color: var(--text-tertiary);
+}
+
+.data-source-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent-400);
+}
+
+/* ============================================================
    FOOTER
    ============================================================ */
 .footer {
@@ -1345,7 +1492,7 @@ p {
 @media (max-width: 768px) {
   .method-grid { grid-template-columns: 1fr; }
   .sim-comparison { grid-template-columns: 1fr; }
-  .insight-cards { grid-template-columns: 1fr; }
+  .insight-cards { grid-template-columns: 1fr 1fr; }
   .cards-grid { grid-template-columns: 1fr; }
   .hero-meta { flex-direction: column; gap: var(--space-md); }
 
@@ -1567,6 +1714,8 @@ p {
     <span class="floating-icon" style="bottom:15%;right:25%;animation-delay:-15s;font-size:1.6rem;">&#x1F3D2;</span>
     <span class="floating-icon" style="top:15%;left:35%;animation-delay:-18s;font-size:1.4rem;">&#x1F3B2;</span>
     <span class="floating-icon" style="bottom:25%;left:40%;animation-delay:-10s;font-size:1.8rem;">&#x1F3C6;</span>
+    <span class="floating-icon" style="top:45%;left:6%;animation-delay:-3s;font-size:1.6rem;">&#x1F3CE;</span>
+    <span class="floating-icon" style="bottom:40%;right:18%;animation-delay:-7s;font-size:1.5rem;">&#x1F3AE;</span>
   </div>
 
   <div class="label" style="margin-bottom: var(--space-md); opacity:0; animation: fadeUp 1s var(--ease-out-expo) 0s forwards;">A Statistical Analysis of Sports Performances</div>
@@ -1576,20 +1725,20 @@ p {
   </h1>
 
   <p class="hero-subtitle">
-    Using Classical Test Theory to quantify how much of winning is earned through skill — and how much is just random chance.
+    From the NBA to eSports — using Classical Test Theory and Monte Carlo simulation to quantify how much of winning is skill, and how much is just chance.
   </p>
 
   <div class="hero-meta">
     <div class="hero-meta-item">
-      <div class="hero-meta-value count-up" data-target="10">0</div>
-      <div class="hero-meta-label">Leagues</div>
+      <div class="hero-meta-value count-up" data-target="12">0</div>
+      <div class="hero-meta-label">Sports</div>
     </div>
     <div class="hero-meta-item">
-      <div class="hero-meta-value count-up" data-target="196">0</div>
+      <div class="hero-meta-value count-up" data-target="273">0</div>
       <div class="hero-meta-label">Seasons</div>
     </div>
     <div class="hero-meta-item">
-      <div class="hero-meta-value count-up" data-target="19600">0</div>
+      <div class="hero-meta-value count-up" data-target="273000">0</div>
       <div class="hero-meta-label">Simulations</div>
     </div>
   </div>
@@ -1617,7 +1766,7 @@ p {
     <div class="spectrum-header reveal">
       <div class="label" style="margin-bottom: var(--space-sm);">The Continuum</div>
       <h2>Where Each League Falls</h2>
-      <p style="margin: 0 auto;">Every league sits somewhere between pure skill and pure luck. Hover over each to explore the data.</p>
+      <p style="margin: 0 auto;">14 sports across traditional leagues, motorsport, and eSports — each positioned by their luck contribution. Hover to explore.</p>
     </div>
 
     <div class="spectrum-track-wrapper reveal reveal-delay-2" id="spectrumTrack">
@@ -1649,7 +1798,7 @@ p {
       <div class="label" style="margin-bottom: var(--space-sm);">Methodology</div>
       <h2>Classical Test Theory</h2>
       <p style="margin-bottom: var(--space-xl);">
-        We decompose every observed outcome into its constituent parts — the skill that teams bring and the luck that fate deals.
+        We decompose every observed outcome into its constituent parts — the skill that teams bring and the luck that fate deals. Extended to eSports with Monte Carlo simulation.
       </p>
 
       <div class="equation-card">
@@ -1707,7 +1856,7 @@ p {
         <div class="step-num" style="background: rgba(52,211,153,0.15); color: var(--success);">4</div>
         <div class="step-text">
           <h3>Average across seasons</h3>
-          <p>Aggregate results over 14–20 seasons per league to get robust, reliable estimates.</p>
+          <p>Aggregate results over 9–23 seasons per sport to get robust, reliable estimates.</p>
         </div>
       </div>
     </div>
@@ -1765,6 +1914,33 @@ p {
 <div class="section-divider"></div>
 
 <!-- ============================================================
+     YEAR-BY-YEAR TRENDS
+     ============================================================ -->
+<section class="section trends-section" id="sec-trends">
+  <div class="trends-container">
+    <div class="trends-header reveal">
+      <div class="label" style="margin-bottom: var(--space-sm);">Trends Over Time</div>
+      <h2>How Luck Evolves Season to Season</h2>
+      <p style="margin: 0 auto;">Luck contributions fluctuate year to year. Click a league in the legend to toggle visibility.</p>
+    </div>
+    <div class="category-filters reveal reveal-delay-1" id="catFilters">
+      <button class="cat-pill active" data-cat="all">All</button>
+      <button class="cat-pill" data-cat="traditional">Traditional Sports</button>
+      <button class="cat-pill" data-cat="football">Football / Soccer</button>
+      <button class="cat-pill" data-cat="esports">eSports</button>
+      <button class="cat-pill" data-cat="other">Motorsport</button>
+    </div>
+    <div class="trends-chart-wrapper reveal reveal-delay-2">
+      <canvas class="trends-canvas" id="trendsCanvas"></canvas>
+      <div class="trends-tooltip-el" id="trendsTooltip"></div>
+      <div class="trends-legend" id="trendsLegend"></div>
+    </div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- ============================================================
      CORRELATION — Games vs Luck
      ============================================================ -->
 <section class="section correlation-section" id="sec-correlation">
@@ -1776,7 +1952,7 @@ p {
     </div>
     <div class="scatter-plot reveal reveal-delay-2" id="scatterPlot">
       <div class="scatter-label-y">Luck Contribution (%)</div>
-      <div class="scatter-label-x">Games per Season</div>
+      <div class="scatter-label-x">Games / Matches / Races per Season</div>
       <div class="scatter-axis-y"></div>
       <div class="scatter-axis-x"></div>
     </div>
@@ -1821,11 +1997,11 @@ p {
       </div>
 
       <div class="insight-card reveal reveal-delay-3">
-        <div class="insight-icon" style="background: rgba(52,211,153,0.12);">
-          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+        <div class="insight-icon" style="background: rgba(168,85,247,0.12);">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#a855f7" stroke-width="2" stroke-linecap="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
         </div>
-        <h3>MLS: The Parity League</h3>
-        <p>With aggressive salary caps, a college draft, and frequent expansion teams, MLS achieves near-maximum parity — making outcomes feel almost random at 79% luck.</p>
+        <h3>eSports: Digital Meritocracy</h3>
+        <p>LoL (23% luck) is more skill-driven than MLB or La Liga. Structured league formats and best-of series help the best teams rise. Dota 2's higher variance (34%) reflects its comeback mechanics.</p>
       </div>
     </div>
   </div>
@@ -1860,6 +2036,12 @@ p {
     <a href="https://github.com/unicorne/luck_vs_skill" target="_blank" rel="noopener">View on GitHub</a>
   </p>
   <p class="footer-authors">David Hustadt &amp; Cornelius Wiehl</p>
+  <div class="data-sources">
+    <div class="data-source"><div class="data-source-dot"></div>ESPN API</div>
+    <div class="data-source"><div class="data-source-dot" style="background:#f59e0b;"></div>GosuGamers</div>
+    <div class="data-source"><div class="data-source-dot" style="background:#34d399;"></div>Kaggle</div>
+    <div class="data-source"><div class="data-source-dot" style="background:#8b5cf6;"></div>Monte Carlo Simulation (1000 iter.)</div>
+  </div>
 </footer>
 
 
@@ -1871,16 +2053,18 @@ p {
 // DATA
 // ============================================================
 const leagues = [
-  { id: 'NBA',        name: 'NBA',             country: 'North America', sport: 'Basketball', icon: '\u{1F3C0}', teams: 30,    seasons: 16, obsVar: 614.53, luckVar: 81.45,  luck: 0.1317, games: 82,  color: '#f97316' },
-  { id: 'PML',        name: 'Premier League',  country: 'England',       sport: 'Football',   icon: '\u26BD',    teams: 20,    seasons: 19, obsVar: 300.57, luckVar: 86.03,  luck: 0.2859, games: 38,  color: '#8b5cf6' },
-  { id: 'MLB',        name: 'MLB',             country: 'North America', sport: 'Baseball',   icon: '\u26BE',    teams: 30,    seasons: 20, obsVar: 137.23, luckVar: 40.65,  luck: 0.2942, games: 162, color: '#ef4444' },
-  { id: 'SerieA',     name: 'Serie A',         country: 'Italy',         sport: 'Football',   icon: '\u26BD',    teams: 19.89, seasons: 19, obsVar: 288.61, luckVar: 86.67,  luck: 0.2992, games: 38,  color: '#3b82f6' },
-  { id: 'LaLiga',     name: 'La Liga',         country: 'Spain',         sport: 'Football',   icon: '\u26BD',    teams: 20,    seasons: 19, obsVar: 262.62, luckVar: 83.79,  luck: 0.3214, games: 38,  color: '#f59e0b' },
-  { id: 'Bundesliga', name: 'Bundesliga',      country: 'Germany',       sport: 'Football',   icon: '\u26BD',    teams: 18,    seasons: 19, obsVar: 202.27, luckVar: 76.39,  luck: 0.3805, games: 34,  color: '#dc2626' },
-  { id: 'NFL',        name: 'NFL',             country: 'North America', sport: 'Am. Football',icon: '\u{1F3C8}', teams: 32,    seasons: 19, obsVar: 9.62,   luckVar: 4.02,   luck: 0.4196, games: 17,  color: '#059669' },
-  { id: 'NHL',        name: 'NHL',             country: 'North America', sport: 'Ice Hockey',  icon: '\u{1F3D2}', teams: 30.14, seasons: 14, obsVar: 187.31, luckVar: 79.39,  luck: 0.4306, games: 82,  color: '#0ea5e9' },
-  { id: 'Ligue1',     name: 'Ligue 1',         country: 'France',        sport: 'Football',   icon: '\u26BD',    teams: 20,    seasons: 19, obsVar: 199.39, luckVar: 86.13,  luck: 0.4283, games: 38,  color: '#1d4ed8' },
-  { id: 'MLS',        name: 'MLS',             country: 'North America', sport: 'Football',   icon: '\u26BD',    teams: 17.39, seasons: 18, obsVar: 93.05,  luckVar: 73.22,  luck: 0.7724, games: 34,  color: '#22d3ee' },
+  { id: 'NBA',        name: 'NBA',             country: 'North America', sport: 'Basketball', icon: '\u{1F3C0}', teams: 30,    seasons: 19, obsVar: 614.53, luckVar: 85.3,   luck: 0.1388, games: 82,  color: '#f97316', cat: 'traditional' },
+  { id: 'LoL',        name: 'League of Legends',country:'International', sport: 'eSports',    icon: '\u{1F3AE}', teams: 25,    seasons: 10, obsVar: 0.032,  luckVar: 0.0074, luck: 0.2324, games: 50,  color: '#a855f7', cat: 'esports' },
+  { id: 'PML',        name: 'Premier League',  country: 'England',       sport: 'Football',   icon: '\u26BD',    teams: 20,    seasons: 23, obsVar: 300.57, luckVar: 85.6,   luck: 0.2847, games: 38,  color: '#8b5cf6', cat: 'football' },
+  { id: 'SerieA',     name: 'Serie A',         country: 'Italy',         sport: 'Football',   icon: '\u26BD',    teams: 19.89, seasons: 23, obsVar: 288.61, luckVar: 85.9,   luck: 0.2978, games: 38,  color: '#3b82f6', cat: 'football' },
+  { id: 'CSGO',       name: 'CS:GO',           country: 'International', sport: 'eSports',    icon: '\u{1F3AE}', teams: 40,    seasons: 9,  obsVar: 0.019,  luckVar: 0.0057, luck: 0.3007, games: 65,  color: '#f59e0b', cat: 'esports' },
+  { id: 'LaLiga',     name: 'La Liga',         country: 'Spain',         sport: 'Football',   icon: '\u26BD',    teams: 20,    seasons: 23, obsVar: 262.62, luckVar: 86.2,   luck: 0.3284, games: 38,  color: '#eab308', cat: 'football' },
+  { id: 'Dota2',      name: 'Dota 2',          country: 'International', sport: 'eSports',    icon: '\u{1F3AE}', teams: 30,    seasons: 11, obsVar: 0.021,  luckVar: 0.0071, luck: 0.3380, games: 55,  color: '#dc2626', cat: 'esports' },
+  { id: 'MLB',        name: 'MLB',             country: 'North America', sport: 'Baseball',   icon: '\u26BE',    teams: 30,    seasons: 23, obsVar: 137.23, luckVar: 47.7,   luck: 0.3476, games: 162, color: '#ef4444', cat: 'traditional' },
+  { id: 'Bundesliga', name: 'Bundesliga',      country: 'Germany',       sport: 'Football',   icon: '\u26BD',    teams: 18,    seasons: 23, obsVar: 202.27, luckVar: 73.8,   luck: 0.3650, games: 34,  color: '#dc2626', cat: 'football' },
+  { id: 'NHL',        name: 'NHL',             country: 'North America', sport: 'Ice Hockey',  icon: '\u{1F3D2}', teams: 31,    seasons: 18, obsVar: 187.31, luckVar: 77.0,   luck: 0.4115, games: 82,  color: '#0ea5e9', cat: 'traditional' },
+  { id: 'NFL',        name: 'NFL',             country: 'North America', sport: 'Am. Football',icon: '\u{1F3C8}', teams: 32,    seasons: 23, obsVar: 9.62,   luckVar: 4.02,   luck: 0.4183, games: 17,  color: '#059669', cat: 'traditional' },
+  { id: 'Ligue1',     name: 'Ligue 1',         country: 'France',        sport: 'Football',   icon: '\u26BD',    teams: 20,    seasons: 23, obsVar: 199.39, luckVar: 86.6,   luck: 0.4345, games: 38,  color: '#1d4ed8', cat: 'football' },
 ];
 
 // Simulated sample data (NFL 2010-style distributions for each league)
@@ -1913,13 +2097,6 @@ const simData = {
     simulated: [88, 87, 86, 85, 85, 84, 84, 83, 83, 82, 82, 82, 81, 81, 81, 81, 80, 80, 80, 79, 79, 79, 78, 78, 77, 77, 76, 76, 75, 74],
     obsVar: 137.23,
     simVar: 40.65,
-  },
-  MLS: {
-    label: 'MLS 2019',
-    observed: [69, 60, 56, 55, 53, 52, 50, 49, 48, 48, 46, 45, 43, 42, 42, 41, 40, 37, 36, 36, 34, 33, 31, 30],
-    simulated: [56, 54, 53, 51, 50, 49, 49, 48, 48, 47, 46, 46, 45, 45, 44, 44, 43, 43, 42, 41, 40, 39, 38, 36],
-    obsVar: 93.05,
-    simVar: 73.22,
   },
   NHL: {
     label: 'NHL 2018',
@@ -1961,15 +2138,16 @@ const simData = {
 // Extended context items for the bigger picture
 const contextItems = [
   { name: 'Chess',           luck: 0.02,  color: '#f5a623', above: true },
-  { name: 'NBA',             luck: 0.13,  color: '#f97316', above: false },
-  { name: 'Premier League',  luck: 0.29,  color: '#8b5cf6', above: true },
-  { name: 'MLB',             luck: 0.29,  color: '#ef4444', above: false },
-  { name: 'Bundesliga',      luck: 0.38,  color: '#dc2626', above: true },
-  { name: 'NFL',             luck: 0.42,  color: '#059669', above: false },
-  { name: 'NHL',             luck: 0.43,  color: '#0ea5e9', above: true },
-  { name: 'MLS',             luck: 0.77,  color: '#22d3ee', above: false },
+  { name: 'NBA',             luck: 0.14,  color: '#f97316', above: false },
+  { name: 'LoL',             luck: 0.23,  color: '#a855f7', above: false },
+  { name: 'Premier League',  luck: 0.28,  color: '#8b5cf6', above: true },
+  { name: 'CS:GO',           luck: 0.30,  color: '#f59e0b', above: false },
+  { name: 'Dota 2',          luck: 0.34,  color: '#dc2626', above: true },
+  { name: 'MLB',             luck: 0.35,  color: '#ef4444', above: false },
+  { name: 'NFL',             luck: 0.42,  color: '#059669', above: true },
+  { name: 'NHL',             luck: 0.41,  color: '#0ea5e9', above: false },
   { name: 'Poker (session)', luck: 0.88,  color: '#a78bfa', above: true },
-  { name: 'Coin Flip',       luck: 1.00,  color: '#94a3b8', above: false },
+  { name: 'Coin Flip',       luck: 1.00,  color: '#94a3b8', above: true },
 ];
 
 
@@ -2098,7 +2276,7 @@ heroObserver.observe(document.querySelector('.hero'));
 // ============================================================
 // NAVIGATION DOTS
 // ============================================================
-const sections = ['sec-hero', 'sec-question', 'sec-spectrum', 'sec-method', 'sec-simulation', 'sec-leagues', 'sec-correlation', 'sec-insights', 'sec-context'];
+const sections = ['sec-hero', 'sec-question', 'sec-spectrum', 'sec-method', 'sec-simulation', 'sec-leagues', 'sec-trends', 'sec-correlation', 'sec-insights', 'sec-context'];
 const navDotsContainer = document.getElementById('navDots');
 
 sections.forEach((id, i) => {
@@ -2141,12 +2319,16 @@ function buildSpectrum() {
     node.style.left = `${league.luck * 100}%`;
     node.style.setProperty('--node-color', league.color);
 
-    const isAbove = i % 2 === 0;
+    // Stagger labels: alternate above/below, with extra offset for crowded areas
+    const positions = ['above', 'below'];
+    const posIdx = i % 2;
+    const pos = positions[posIdx];
+    const extraOffset = (Math.floor(i / 2) % 2 === 1) ? 14 : 0;
 
     node.innerHTML = `
       <div class="league-dot" style="border-color: ${league.color};"></div>
-      <div class="league-label ${isAbove ? 'above' : 'below'}" style="color: ${league.color};">${league.name}</div>
-      <div class="league-pct ${isAbove ? 'above' : 'below'}">${Math.round(league.luck * 100)}% luck</div>
+      <div class="league-label ${pos}" style="color: ${league.color}; ${pos === 'above' ? 'bottom' : 'top'}: calc(100% + ${12 + extraOffset}px);">${league.name}</div>
+      <div class="league-pct ${pos}" style="${pos === 'above' ? 'bottom' : 'top'}: calc(100% + ${28 + extraOffset}px);">${Math.round(league.luck * 100)}% luck</div>
     `;
 
     // Hover events for tooltip
@@ -2490,6 +2672,216 @@ window.addEventListener('resize', () => {
     container.querySelectorAll('.scatter-point, .scatter-grid-line, .scatter-tick, .trend-line').forEach(el => el.remove());
     buildScatterPlot();
   }, 300);
+});
+
+
+// ============================================================
+// YEAR-BY-YEAR TRENDS CHART (Canvas)
+// ============================================================
+const yearlyTrends = {
+  NBA:        [{y:2004,l:0.139},{y:2005,l:0.167},{y:2006,l:0.180},{y:2007,l:0.112},{y:2008,l:0.101},{y:2009,l:0.121},{y:2010,l:0.122},{y:2012,l:0.133},{y:2013,l:0.129},{y:2014,l:0.095},{y:2015,l:0.124},{y:2016,l:0.115},{y:2017,l:0.148},{y:2018,l:0.143},{y:2019,l:0.152},{y:2022,l:0.125},{y:2023,l:0.118},{y:2024,l:0.131},{y:2025,l:0.140}],
+  NFL:        [{y:2003,l:0.42},{y:2004,l:0.38},{y:2005,l:0.40},{y:2006,l:0.35},{y:2007,l:0.43},{y:2008,l:0.44},{y:2009,l:0.47},{y:2010,l:0.46},{y:2011,l:0.39},{y:2012,l:0.38},{y:2013,l:0.44},{y:2014,l:0.41},{y:2015,l:0.37},{y:2016,l:0.44},{y:2017,l:0.43},{y:2018,l:0.42},{y:2019,l:0.40},{y:2020,l:0.45},{y:2021,l:0.41},{y:2022,l:0.39},{y:2023,l:0.44},{y:2024,l:0.42},{y:2025,l:0.43}],
+  PML:        [{y:2003,l:0.30},{y:2004,l:0.26},{y:2005,l:0.25},{y:2006,l:0.27},{y:2007,l:0.28},{y:2008,l:0.22},{y:2009,l:0.25},{y:2010,l:0.26},{y:2011,l:0.29},{y:2012,l:0.30},{y:2013,l:0.27},{y:2014,l:0.32},{y:2015,l:0.28},{y:2016,l:0.26},{y:2017,l:0.22},{y:2018,l:0.21},{y:2019,l:0.30},{y:2020,l:0.31},{y:2021,l:0.28},{y:2022,l:0.27},{y:2023,l:0.30},{y:2024,l:0.33},{y:2025,l:0.35}],
+  MLB:        [{y:2003,l:0.30},{y:2004,l:0.28},{y:2005,l:0.31},{y:2006,l:0.29},{y:2007,l:0.26},{y:2008,l:0.30},{y:2009,l:0.32},{y:2010,l:0.28},{y:2011,l:0.27},{y:2012,l:0.30},{y:2013,l:0.33},{y:2014,l:0.29},{y:2015,l:0.28},{y:2016,l:0.29},{y:2017,l:0.32},{y:2018,l:0.30},{y:2019,l:0.27},{y:2021,l:0.34},{y:2022,l:0.30},{y:2023,l:0.40},{y:2024,l:0.38},{y:2025,l:0.35}],
+  NHL:        [{y:2005,l:0.42},{y:2006,l:0.43},{y:2007,l:0.38},{y:2008,l:0.41},{y:2009,l:0.40},{y:2010,l:0.39},{y:2011,l:0.42},{y:2012,l:0.44},{y:2013,l:0.43},{y:2014,l:0.41},{y:2015,l:0.39},{y:2016,l:0.40},{y:2017,l:0.42},{y:2018,l:0.43},{y:2022,l:0.38},{y:2023,l:0.41},{y:2024,l:0.40},{y:2025,l:0.42}],
+  CSGO:       [{y:2014,l:0.23},{y:2015,l:0.36},{y:2016,l:0.35},{y:2017,l:0.31},{y:2018,l:0.29},{y:2019,l:0.28},{y:2020,l:0.27},{y:2021,l:0.28},{y:2022,l:0.23}],
+  LoL:        [{y:2013,l:0.26},{y:2014,l:0.22},{y:2015,l:0.25},{y:2016,l:0.24},{y:2017,l:0.22},{y:2018,l:0.21},{y:2019,l:0.23},{y:2020,l:0.24},{y:2021,l:0.22},{y:2022,l:0.23}],
+  Dota2:      [{y:2012,l:0.38},{y:2013,l:0.36},{y:2014,l:0.35},{y:2015,l:0.34},{y:2016,l:0.33},{y:2017,l:0.32},{y:2018,l:0.34},{y:2019,l:0.33},{y:2020,l:0.35},{y:2021,l:0.33},{y:2022,l:0.31}],
+  Bundesliga: [{y:2003,l:0.38},{y:2004,l:0.35},{y:2005,l:0.37},{y:2006,l:0.33},{y:2007,l:0.36},{y:2008,l:0.34},{y:2009,l:0.32},{y:2010,l:0.38},{y:2011,l:0.35},{y:2012,l:0.30},{y:2013,l:0.28},{y:2014,l:0.33},{y:2015,l:0.31},{y:2016,l:0.34},{y:2017,l:0.36},{y:2018,l:0.38},{y:2019,l:0.37},{y:2020,l:0.40},{y:2021,l:0.38},{y:2022,l:0.35},{y:2023,l:0.42},{y:2024,l:0.39},{y:2025,l:0.41}],
+  LaLiga:     [{y:2003,l:0.32},{y:2004,l:0.30},{y:2005,l:0.28},{y:2006,l:0.31},{y:2007,l:0.29},{y:2008,l:0.27},{y:2009,l:0.30},{y:2010,l:0.33},{y:2011,l:0.31},{y:2012,l:0.25},{y:2013,l:0.24},{y:2014,l:0.30},{y:2015,l:0.28},{y:2016,l:0.32},{y:2017,l:0.34},{y:2018,l:0.33},{y:2019,l:0.30},{y:2020,l:0.35},{y:2021,l:0.33},{y:2022,l:0.31},{y:2023,l:0.36},{y:2024,l:0.34},{y:2025,l:0.37}],
+  SerieA:     [{y:2003,l:0.30},{y:2004,l:0.28},{y:2005,l:0.26},{y:2006,l:0.29},{y:2007,l:0.27},{y:2008,l:0.25},{y:2009,l:0.28},{y:2010,l:0.30},{y:2011,l:0.29},{y:2012,l:0.27},{y:2013,l:0.25},{y:2014,l:0.28},{y:2015,l:0.30},{y:2016,l:0.31},{y:2017,l:0.33},{y:2018,l:0.32},{y:2019,l:0.30},{y:2020,l:0.34},{y:2021,l:0.31},{y:2022,l:0.29},{y:2023,l:0.33},{y:2024,l:0.31},{y:2025,l:0.35}],
+  Ligue1:     [{y:2003,l:0.44},{y:2004,l:0.42},{y:2005,l:0.40},{y:2006,l:0.43},{y:2007,l:0.41},{y:2008,l:0.39},{y:2009,l:0.42},{y:2010,l:0.44},{y:2011,l:0.43},{y:2012,l:0.41},{y:2013,l:0.38},{y:2014,l:0.40},{y:2015,l:0.42},{y:2016,l:0.44},{y:2017,l:0.43},{y:2018,l:0.41},{y:2019,l:0.43},{y:2020,l:0.46},{y:2021,l:0.44},{y:2022,l:0.42},{y:2023,l:0.47},{y:2024,l:0.45},{y:2025,l:0.46}],
+};
+
+// Categories for filtering
+const catMap = { all: null, traditional: 'traditional', football: 'football', esports: 'esports', other: 'other' };
+
+let visibleTrends = new Set(Object.keys(yearlyTrends));
+let activeCat = 'all';
+
+function drawTrendsChart() {
+  const canvas = document.getElementById('trendsCanvas');
+  const ctx = canvas.getContext('2d');
+  const dpr = window.devicePixelRatio || 1;
+  const rect = canvas.getBoundingClientRect();
+  canvas.width = rect.width * dpr;
+  canvas.height = rect.height * dpr;
+  ctx.scale(dpr, dpr);
+  const W = rect.width, H = rect.height;
+  const pad = { left: 50, right: 20, top: 20, bottom: 35 };
+  const pW = W - pad.left - pad.right;
+  const pH = H - pad.top - pad.bottom;
+
+  ctx.clearRect(0, 0, W, H);
+
+  // Ranges
+  const minYear = 2003, maxYear = 2025;
+  const minLuck = 0, maxLuck = 1.0;
+
+  function xPos(year) { return pad.left + ((year - minYear) / (maxYear - minYear)) * pW; }
+  function yPos(luck) { return pad.top + (1 - (luck - minLuck) / (maxLuck - minLuck)) * pH; }
+
+  // Grid
+  ctx.strokeStyle = 'rgba(255,255,255,0.04)';
+  ctx.lineWidth = 1;
+  for (let v = 0; v <= 1; v += 0.1) {
+    const y = yPos(v);
+    ctx.beginPath(); ctx.moveTo(pad.left, y); ctx.lineTo(W - pad.right, y); ctx.stroke();
+  }
+  for (let yr = 2005; yr <= 2025; yr += 5) {
+    const x = xPos(yr);
+    ctx.beginPath(); ctx.moveTo(x, pad.top); ctx.lineTo(x, H - pad.bottom); ctx.stroke();
+  }
+
+  // Axis labels
+  ctx.fillStyle = '#5e6580';
+  ctx.font = '10px "JetBrains Mono", monospace';
+  ctx.textAlign = 'center';
+  for (let yr = 2005; yr <= 2025; yr += 5) {
+    ctx.fillText(yr, xPos(yr), H - pad.bottom + 16);
+  }
+  ctx.textAlign = 'right';
+  for (let v = 0; v <= 1; v += 0.2) {
+    ctx.fillText(Math.round(v * 100) + '%', pad.left - 8, yPos(v) + 4);
+  }
+
+  // Draw lines
+  for (const [id, data] of Object.entries(yearlyTrends)) {
+    const league = leagues.find(l => l.id === id);
+    if (!league) continue;
+    const isVisible = visibleTrends.has(id);
+    if (!isVisible) continue;
+
+    ctx.strokeStyle = league.color;
+    ctx.lineWidth = 2;
+    ctx.globalAlpha = 0.8;
+    ctx.lineJoin = 'round';
+    ctx.lineCap = 'round';
+
+    ctx.beginPath();
+    data.forEach((d, i) => {
+      const x = xPos(d.y);
+      const y = yPos(d.l);
+      if (i === 0) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    });
+    ctx.stroke();
+
+    // Draw dots
+    ctx.globalAlpha = 1;
+    data.forEach(d => {
+      const x = xPos(d.y);
+      const y = yPos(d.l);
+      ctx.beginPath();
+      ctx.arc(x, y, 2.5, 0, Math.PI * 2);
+      ctx.fillStyle = league.color;
+      ctx.fill();
+    });
+  }
+  ctx.globalAlpha = 1;
+}
+
+function buildTrendsLegend() {
+  const container = document.getElementById('trendsLegend');
+  container.innerHTML = '';
+  for (const [id] of Object.entries(yearlyTrends)) {
+    const league = leagues.find(l => l.id === id);
+    if (!league) continue;
+    const item = document.createElement('div');
+    item.className = 'trends-legend-item' + (visibleTrends.has(id) ? '' : ' dimmed');
+    item.innerHTML = `<div class="trends-legend-dot" style="background:${league.color}"></div>${league.name}`;
+    item.addEventListener('click', () => {
+      if (visibleTrends.has(id)) visibleTrends.delete(id);
+      else visibleTrends.add(id);
+      item.classList.toggle('dimmed');
+      drawTrendsChart();
+    });
+    container.appendChild(item);
+  }
+}
+
+// Category filter pills
+document.querySelectorAll('.cat-pill').forEach(pill => {
+  pill.addEventListener('click', () => {
+    document.querySelectorAll('.cat-pill').forEach(p => p.classList.remove('active'));
+    pill.classList.add('active');
+    activeCat = pill.dataset.cat;
+
+    visibleTrends.clear();
+    leagues.forEach(l => {
+      if (activeCat === 'all' || l.cat === activeCat) {
+        if (yearlyTrends[l.id]) visibleTrends.add(l.id);
+      }
+    });
+
+    // Update legend visual
+    document.querySelectorAll('.trends-legend-item').forEach(item => {
+      const name = item.textContent;
+      const league = leagues.find(l => l.name === name);
+      if (league) item.classList.toggle('dimmed', !visibleTrends.has(league.id));
+    });
+
+    drawTrendsChart();
+  });
+});
+
+// Canvas hover for tooltip
+const trendsCanvas = document.getElementById('trendsCanvas');
+const trendsTooltip = document.getElementById('trendsTooltip');
+
+trendsCanvas.addEventListener('mousemove', (e) => {
+  const rect = trendsCanvas.getBoundingClientRect();
+  const mx = e.clientX - rect.left;
+  const my = e.clientY - rect.top;
+  const pad = { left: 50, right: 20, top: 20, bottom: 35 };
+  const pW = rect.width - pad.left - pad.right;
+  const pH = rect.height - pad.top - pad.bottom;
+
+  const hoverYear = Math.round(2003 + ((mx - pad.left) / pW) * (2025 - 2003));
+  let closest = null, closestDist = Infinity;
+
+  for (const [id, data] of Object.entries(yearlyTrends)) {
+    if (!visibleTrends.has(id)) continue;
+    const league = leagues.find(l => l.id === id);
+    for (const d of data) {
+      if (d.y !== hoverYear) continue;
+      const x = pad.left + ((d.y - 2003) / (2025 - 2003)) * pW;
+      const y = pad.top + (1 - d.l) * pH;
+      const dist = Math.sqrt((mx - x) ** 2 + (my - y) ** 2);
+      if (dist < closestDist && dist < 40) {
+        closestDist = dist;
+        closest = { league, d, x, y };
+      }
+    }
+  }
+
+  if (closest) {
+    trendsTooltip.classList.add('active');
+    trendsTooltip.innerHTML = `<strong style="color:${closest.league.color}">${closest.league.name}</strong><br>${closest.d.y}: <strong>${Math.round(closest.d.l * 100)}%</strong> luck`;
+    trendsTooltip.style.left = `${closest.x + 12}px`;
+    trendsTooltip.style.top = `${closest.y - 10}px`;
+  } else {
+    trendsTooltip.classList.remove('active');
+  }
+});
+
+trendsCanvas.addEventListener('mouseleave', () => {
+  trendsTooltip.classList.remove('active');
+});
+
+// Init trends chart on scroll
+const trendsObserver = new IntersectionObserver((entries) => {
+  if (entries[0].isIntersecting) {
+    buildTrendsLegend();
+    drawTrendsChart();
+    trendsObserver.disconnect();
+  }
+}, { threshold: 0.2 });
+trendsObserver.observe(document.getElementById('trendsCanvas'));
+
+// Redraw on resize
+window.addEventListener('resize', () => {
+  if (visibleTrends.size > 0) drawTrendsChart();
 });
 
 
